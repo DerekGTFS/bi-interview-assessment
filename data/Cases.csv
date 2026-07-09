@@ -1,0 +1,3501 @@
+CaseID,CustomerID,CreatedDate,CaseCategory,CaseStatus
+1,832,2025-07-24,Credit Limit,Resolved
+2,531,2025-05-16,Credit Limit,Resolved
+3,767,2026-04-24,Credit Limit,Resolved
+4,670,2025-11-16,Invoice Query,Resolved
+5,846,2026-04-13,Credit Limit,Waiting Customer
+6,246,2025-12-03,Credit Limit,Resolved
+7,56,2026-05-25,Pricing Query,Open
+8,128,2025-03-01,Pricing Query,Resolved
+9,193,2026-05-16,Portal Login,Resolved
+10,484,2025-06-09,Pricing Query,Waiting Customer
+11,787,2026-05-08,Card Issue,Waiting Customer
+12,287,2025-07-20,Credit Limit,Resolved
+13,78,2025-05-24,Credit Limit,Open
+14,782,2025-05-20,Complaint,Resolved
+15,220,2025-01-11,Invoice Query,Resolved
+16,328,2025-01-27,Credit Limit,Waiting Customer
+17,548,2025-02-11,Pricing Query,Open
+18,420,2025-03-04,Network Acceptance,Resolved
+19,247,2026-02-15,Invoice Query,Waiting Customer
+20,620,2026-05-24,Invoice Query,Waiting Customer
+21,30,2025-09-18,Credit Limit,Waiting Customer
+22,103,2025-05-23,Portal Login,Open
+23,437,2026-04-21,Pricing Query,Waiting Customer
+24,270,2025-04-01,Complaint,Resolved
+25,450,2025-09-26,Invoice Query,Open
+26,820,2025-09-15,Complaint,Resolved
+27,612,2026-05-14,Invoice Query,Resolved
+28,91,2026-03-21,Credit Limit,Resolved
+29,73,2026-06-29,Invoice Query,Resolved
+30,637,2025-09-10,Network Acceptance,Resolved
+31,618,2026-04-08,Invoice Query,Resolved
+32,591,2025-03-30,Network Acceptance,Open
+33,646,2025-02-01,Card Issue,Resolved
+34,116,2025-02-02,Credit Limit,Resolved
+35,2,2025-06-14,Card Issue,Resolved
+36,180,2025-04-19,Pricing Query,Resolved
+37,582,2026-02-18,Card Issue,Waiting Customer
+38,256,2025-05-10,Network Acceptance,Open
+39,107,2025-03-11,Network Acceptance,Resolved
+40,307,2025-01-28,Credit Limit,Resolved
+41,393,2025-09-15,Network Acceptance,Resolved
+42,582,2025-03-03,Invoice Query,Resolved
+43,288,2026-06-23,Card Issue,Waiting Customer
+44,139,2025-05-05,Card Issue,Waiting Customer
+45,733,2025-08-31,Credit Limit,Waiting Customer
+46,551,2025-07-16,Credit Limit,Waiting Customer
+47,685,2025-12-03,,Waiting Customer
+48,100,2025-06-12,Invoice Query,Waiting Customer
+49,247,2026-03-14,Invoice Query,Resolved
+50,117,2026-05-14,Invoice Query,Open
+51,750,2026-05-13,Card Issue,Resolved
+52,318,2025-03-02,Complaint,Resolved
+53,618,2025-02-21,Card Issue,Resolved
+54,362,2025-08-10,Card Issue,Open
+55,524,2025-05-01,Portal Login,Resolved
+56,788,2025-05-03,Complaint,Open
+57,224,2026-04-12,,Resolved
+58,123,2025-04-12,Invoice Query,Resolved
+59,440,2025-03-24,Invoice Query,Open
+60,46,2026-04-03,Card Issue,Resolved
+61,33,2025-01-13,Portal Login,Open
+62,99,2025-01-04,Portal Login,Open
+63,425,2025-07-19,,Waiting Customer
+64,251,2025-10-13,Credit Limit,Waiting Customer
+65,59,2025-06-14,Card Issue,Resolved
+66,328,2026-05-07,Complaint,Resolved
+67,645,2025-10-26,Card Issue,Resolved
+68,416,2025-02-25,Invoice Query,Resolved
+69,51,2026-01-02,Invoice Query,Resolved
+70,31,2025-05-15,Complaint,Open
+71,330,2025-09-16,Card Issue,Open
+72,671,2026-06-24,Credit Limit,Open
+73,406,2025-04-08,Card Issue,Waiting Customer
+74,142,2025-11-09,Portal Login,Resolved
+75,85,2026-01-02,Network Acceptance,Waiting Customer
+76,175,2025-08-25,Invoice Query,Waiting Customer
+77,118,2025-04-05,Pricing Query,Open
+78,785,2026-03-08,Pricing Query,Resolved
+79,370,2025-03-28,Credit Limit,Waiting Customer
+80,197,2025-07-17,Complaint,Waiting Customer
+81,476,2026-04-23,Pricing Query,Waiting Customer
+82,548,2025-06-18,Network Acceptance,Resolved
+83,302,2025-10-27,Network Acceptance,Resolved
+84,171,2025-10-18,Network Acceptance,Resolved
+85,255,2025-06-22,Pricing Query,Resolved
+86,770,2025-02-27,Credit Limit,Resolved
+87,32,2025-07-29,Portal Login,Resolved
+88,92,2025-08-31,Invoice Query,Resolved
+89,423,2025-03-19,Card Issue,Resolved
+90,281,2026-02-17,Network Acceptance,Resolved
+91,403,2026-05-22,Complaint,Resolved
+92,376,2025-12-12,Complaint,Resolved
+93,23,2025-12-16,Credit Limit,Open
+94,609,2026-01-30,Portal Login,Waiting Customer
+95,523,2025-02-08,Credit Limit,Resolved
+96,185,2025-09-01,Invoice Query,Waiting Customer
+97,390,2025-12-13,Network Acceptance,Waiting Customer
+98,366,2025-10-25,Invoice Query,Open
+99,530,2026-03-05,Pricing Query,Resolved
+100,224,2025-04-12,Pricing Query,Resolved
+101,662,2025-05-31,Network Acceptance,Resolved
+102,669,2025-04-18,Complaint,Resolved
+103,261,2026-04-23,Card Issue,Open
+104,757,2026-03-26,Card Issue,Waiting Customer
+105,780,2025-05-06,Card Issue,Open
+106,314,2026-03-09,Complaint,Resolved
+107,82,2025-03-14,Complaint,Resolved
+108,496,2025-12-10,Invoice Query,Resolved
+109,281,2025-03-09,Portal Login,Waiting Customer
+110,707,2026-03-13,Pricing Query,Resolved
+111,268,2025-05-13,Pricing Query,Resolved
+112,664,2025-01-20,Complaint,Waiting Customer
+113,293,2025-11-30,Credit Limit,Waiting Customer
+114,418,2025-02-10,Credit Limit,Open
+115,239,2025-03-21,Pricing Query,Resolved
+116,561,2025-05-02,Pricing Query,Waiting Customer
+117,844,2025-09-11,Card Issue,Open
+118,213,2025-02-02,Pricing Query,Resolved
+119,116,2025-02-13,Pricing Query,Open
+120,835,2025-05-16,Invoice Query,Waiting Customer
+121,374,2026-04-27,Network Acceptance,Open
+122,848,2026-01-26,Invoice Query,Resolved
+123,407,2025-07-03,Complaint,Resolved
+124,617,2025-11-09,Invoice Query,Resolved
+125,21,2025-09-03,Credit Limit,Waiting Customer
+126,567,2025-07-02,Pricing Query,Resolved
+127,144,2025-08-28,Credit Limit,Waiting Customer
+128,386,2025-12-06,Complaint,Resolved
+129,44,2026-06-21,Credit Limit,Resolved
+130,818,2026-02-28,Credit Limit,Resolved
+131,131,2025-06-24,Credit Limit,Open
+132,100,2025-05-21,Invoice Query,Resolved
+133,663,2025-03-23,Invoice Query,Resolved
+134,211,2025-03-18,Invoice Query,Resolved
+135,513,2026-02-15,Network Acceptance,Waiting Customer
+136,237,2026-03-13,Pricing Query,Resolved
+137,645,2026-03-05,Pricing Query,Waiting Customer
+138,247,2026-05-14,Pricing Query,Resolved
+139,36,2026-03-25,Card Issue,Resolved
+140,824,2025-09-07,Network Acceptance,Waiting Customer
+141,531,2025-01-22,Pricing Query,Resolved
+142,450,2026-04-08,Credit Limit,Waiting Customer
+143,736,2025-10-23,Complaint,Resolved
+144,402,2025-03-20,Pricing Query,Waiting Customer
+145,143,2025-07-13,Pricing Query,Resolved
+146,245,2025-05-18,Card Issue,Resolved
+147,213,2025-08-26,Complaint,Waiting Customer
+148,91,2025-01-08,Pricing Query,Resolved
+149,33,2026-04-09,Network Acceptance,Waiting Customer
+150,436,2026-01-04,Network Acceptance,Resolved
+151,24,2025-04-07,Card Issue,Resolved
+152,148,2025-02-14,Invoice Query,Open
+153,528,2025-03-30,Invoice Query,Resolved
+154,753,2025-11-23,Network Acceptance,Waiting Customer
+155,79,2025-04-06,Pricing Query,Resolved
+156,572,2026-01-15,Portal Login,Waiting Customer
+157,514,2025-11-28,Pricing Query,Resolved
+158,67,2026-04-20,Invoice Query,Resolved
+159,687,2025-12-07,Pricing Query,Resolved
+160,265,2025-11-12,Card Issue,Resolved
+161,571,2026-03-10,Network Acceptance,Resolved
+162,835,2025-04-04,Card Issue,Open
+163,671,2026-06-10,Network Acceptance,Open
+164,546,2025-12-04,Network Acceptance,Resolved
+165,396,2025-04-11,Portal Login,Open
+166,673,2026-03-24,Credit Limit,Waiting Customer
+167,223,2026-01-25,Pricing Query,Resolved
+168,663,2026-05-16,Card Issue,Resolved
+169,254,2026-04-21,Portal Login,Waiting Customer
+170,148,2025-06-04,Credit Limit,Resolved
+171,628,2026-06-06,Network Acceptance,Resolved
+172,460,2025-01-07,Complaint,Waiting Customer
+173,412,2025-01-07,Complaint,Waiting Customer
+174,727,2025-09-04,Credit Limit,Open
+175,165,2025-04-07,Pricing Query,Resolved
+176,119,2025-03-14,Pricing Query,Resolved
+177,228,2025-12-12,Portal Login,Resolved
+178,266,2025-07-29,Card Issue,Open
+179,94,2025-05-24,Pricing Query,Waiting Customer
+180,353,2025-07-05,Complaint,Waiting Customer
+181,437,2025-10-07,Complaint,Waiting Customer
+182,552,2025-02-19,Complaint,Waiting Customer
+183,362,2025-06-30,Complaint,Resolved
+184,534,2026-01-06,Network Acceptance,Resolved
+185,805,2026-06-23,Portal Login,Resolved
+186,84,2025-02-15,Pricing Query,Resolved
+187,1,2025-12-26,Card Issue,Resolved
+188,273,2025-01-23,Pricing Query,Open
+189,586,2026-06-27,Invoice Query,Resolved
+190,593,2026-02-28,Credit Limit,Resolved
+191,582,2025-07-18,Pricing Query,Resolved
+192,44,2026-01-30,Portal Login,Waiting Customer
+193,537,2025-01-19,Credit Limit,Resolved
+194,465,2025-05-20,Credit Limit,Resolved
+195,685,2025-06-28,Network Acceptance,Resolved
+196,548,2025-11-24,Network Acceptance,Waiting Customer
+197,245,2025-06-07,Complaint,Resolved
+198,454,2026-05-09,Network Acceptance,Resolved
+199,466,2025-12-23,Card Issue,Resolved
+200,311,2025-02-21,Pricing Query,Resolved
+201,712,2025-12-31,Credit Limit,Resolved
+202,361,2025-07-17,Complaint,Resolved
+203,609,2026-04-14,Network Acceptance,Waiting Customer
+204,160,2025-08-19,Invoice Query,Open
+205,8,2025-05-30,Credit Limit,Resolved
+206,475,2025-12-21,Complaint,Open
+207,525,2025-03-07,Card Issue,Waiting Customer
+208,267,2025-05-04,,Waiting Customer
+209,377,2025-10-04,Card Issue,Resolved
+210,342,2025-11-01,Complaint,Resolved
+211,36,2026-03-17,Invoice Query,Resolved
+212,837,2026-06-18,Network Acceptance,Resolved
+213,273,2026-01-15,Portal Login,Resolved
+214,497,2026-02-11,Portal Login,Waiting Customer
+215,165,2025-04-27,Portal Login,Resolved
+216,412,2026-05-17,Network Acceptance,Resolved
+217,770,2025-05-01,Credit Limit,Open
+218,104,2025-07-21,Invoice Query,Resolved
+219,213,2025-09-20,Portal Login,Resolved
+220,473,2025-07-09,Invoice Query,Resolved
+221,48,2026-04-12,Invoice Query,Resolved
+222,165,2025-02-27,Credit Limit,Open
+223,99,2025-12-01,Invoice Query,Resolved
+224,242,2025-09-22,Pricing Query,Resolved
+225,491,2025-04-08,Complaint,Waiting Customer
+226,499,2025-05-05,Pricing Query,Resolved
+227,210,2026-06-21,,Open
+228,715,2025-12-04,Network Acceptance,Resolved
+229,846,2025-12-07,Invoice Query,Waiting Customer
+230,333,2025-08-03,Portal Login,Resolved
+231,329,2025-07-17,,Open
+232,312,2025-06-09,Card Issue,Resolved
+233,495,2026-05-25,Complaint,Open
+234,474,2026-03-09,Invoice Query,Open
+235,596,2026-03-11,Card Issue,Resolved
+236,746,2026-01-30,Network Acceptance,Resolved
+237,813,2025-11-21,Complaint,Resolved
+238,570,2025-03-14,Network Acceptance,Resolved
+239,507,2025-01-13,Invoice Query,Resolved
+240,776,2025-03-30,Invoice Query,Waiting Customer
+241,209,2026-02-05,Portal Login,Open
+242,587,2025-01-18,Complaint,Open
+243,438,2025-02-18,Invoice Query,Resolved
+244,576,2025-11-04,Network Acceptance,Resolved
+245,312,2025-02-09,Card Issue,Resolved
+246,741,2026-03-28,Pricing Query,Open
+247,432,2025-10-28,Network Acceptance,Resolved
+248,221,2025-10-08,Invoice Query,Open
+249,91,2025-09-29,Network Acceptance,Resolved
+250,370,2025-12-20,Card Issue,Resolved
+251,804,2025-08-15,Network Acceptance,Resolved
+252,271,2026-05-09,Pricing Query,Open
+253,103,2025-08-16,Portal Login,Waiting Customer
+254,400,2025-03-25,Invoice Query,Open
+255,532,2025-05-11,Complaint,Open
+256,798,2026-06-11,Invoice Query,Open
+257,809,2025-09-18,Credit Limit,Waiting Customer
+258,436,2026-06-10,Credit Limit,Resolved
+259,731,2025-09-11,Pricing Query,Resolved
+260,326,2025-04-03,Pricing Query,Resolved
+261,636,2026-01-25,Invoice Query,Resolved
+262,540,2025-09-21,Network Acceptance,Open
+263,299,2026-04-15,Invoice Query,Open
+264,783,2025-05-17,Credit Limit,Open
+265,510,2026-01-21,Credit Limit,Waiting Customer
+266,745,2025-02-25,Complaint,Resolved
+267,641,2025-09-14,Pricing Query,Resolved
+268,786,2025-03-30,Credit Limit,Resolved
+269,691,2025-11-16,Card Issue,Resolved
+270,38,2026-06-18,Network Acceptance,Waiting Customer
+271,366,2026-02-18,Network Acceptance,Waiting Customer
+272,660,2025-02-11,Portal Login,Resolved
+273,110,2025-09-19,,Resolved
+274,201,2025-11-17,Network Acceptance,Resolved
+275,706,2026-02-17,Credit Limit,Resolved
+276,175,2026-03-14,Credit Limit,Open
+277,359,2025-08-15,Portal Login,Waiting Customer
+278,741,2025-06-09,Complaint,Resolved
+279,428,2026-06-11,Invoice Query,Open
+280,306,2025-11-24,Portal Login,Open
+281,134,2025-10-15,Card Issue,Waiting Customer
+282,713,2025-06-07,Invoice Query,Resolved
+283,805,2025-02-23,Invoice Query,Open
+284,282,2026-05-29,Card Issue,Resolved
+285,277,2025-06-16,Pricing Query,Resolved
+286,149,2025-08-17,Card Issue,Resolved
+287,35,2025-09-10,Pricing Query,Resolved
+288,713,2025-10-10,Network Acceptance,Resolved
+289,316,2025-06-15,Card Issue,Resolved
+290,618,2026-06-23,Network Acceptance,Resolved
+291,531,2025-04-26,Credit Limit,Resolved
+292,591,2026-05-09,Invoice Query,Resolved
+293,657,2025-07-20,Pricing Query,Resolved
+294,234,2026-04-21,Credit Limit,Waiting Customer
+295,792,2025-08-25,Pricing Query,Resolved
+296,335,2026-03-31,Complaint,Open
+297,503,2026-05-28,Credit Limit,Resolved
+298,499,2025-11-03,Pricing Query,Resolved
+299,687,2026-06-09,Portal Login,Open
+300,606,2026-05-16,Network Acceptance,Open
+301,829,2025-09-11,Credit Limit,Resolved
+302,397,2026-01-21,Portal Login,Waiting Customer
+303,384,2025-12-30,Portal Login,Resolved
+304,304,2025-08-26,Complaint,Resolved
+305,519,2025-04-19,Portal Login,Open
+306,82,2025-05-25,Network Acceptance,Open
+307,284,2026-03-05,Credit Limit,Open
+308,474,2025-11-08,Pricing Query,Resolved
+309,304,2025-09-01,Network Acceptance,Resolved
+310,7,2026-04-20,Complaint,Resolved
+311,3,2025-09-28,Network Acceptance,Open
+312,507,2025-03-05,Network Acceptance,Waiting Customer
+313,363,2026-03-07,Invoice Query,Waiting Customer
+314,362,2026-02-02,Pricing Query,Resolved
+315,474,2025-10-21,Portal Login,Resolved
+316,380,2026-02-19,Complaint,Resolved
+317,752,2025-10-27,Invoice Query,Open
+318,632,2025-07-09,Portal Login,Waiting Customer
+319,238,2025-03-03,Card Issue,Resolved
+320,172,2026-05-28,Portal Login,Waiting Customer
+321,11,2026-06-24,Portal Login,Resolved
+322,399,2025-07-06,Pricing Query,Resolved
+323,809,2025-06-18,Invoice Query,Waiting Customer
+324,181,2025-03-01,Complaint,Waiting Customer
+325,427,2025-02-14,Invoice Query,Open
+326,156,2025-07-19,Credit Limit,Resolved
+327,109,2025-01-03,Complaint,Open
+328,505,2025-01-29,Credit Limit,Waiting Customer
+329,430,2025-05-18,Network Acceptance,Open
+330,244,2025-03-19,Portal Login,Open
+331,531,2025-07-14,Portal Login,Resolved
+332,463,2025-05-23,Invoice Query,Resolved
+333,343,2025-09-01,Complaint,Waiting Customer
+334,379,2025-04-18,Pricing Query,Resolved
+335,248,2025-09-19,Pricing Query,Resolved
+336,544,2026-03-14,Invoice Query,Resolved
+337,461,2026-05-14,Invoice Query,Resolved
+338,569,2025-02-19,Portal Login,Resolved
+339,164,2026-04-07,Credit Limit,Resolved
+340,69,2025-03-06,Complaint,Resolved
+341,567,2026-01-29,Complaint,Waiting Customer
+342,150,2026-06-18,Invoice Query,Resolved
+343,110,2026-01-18,Credit Limit,Waiting Customer
+344,10,2026-01-26,Pricing Query,Open
+345,361,2025-07-05,Credit Limit,Resolved
+346,761,2025-01-05,Complaint,Resolved
+347,273,2025-09-04,Portal Login,Open
+348,80,2025-11-14,Complaint,Open
+349,748,2025-02-11,Pricing Query,Resolved
+350,602,2025-04-07,Invoice Query,Resolved
+351,217,2025-04-18,Card Issue,Open
+352,318,2026-04-04,Invoice Query,Resolved
+353,312,2025-09-20,Complaint,Resolved
+354,489,2025-12-21,Invoice Query,Resolved
+355,659,2026-01-19,Invoice Query,Resolved
+356,443,2026-01-31,Card Issue,Resolved
+357,320,2025-02-14,Pricing Query,Open
+358,737,2025-08-07,Credit Limit,Resolved
+359,376,2025-11-20,Card Issue,Resolved
+360,152,2025-03-21,Complaint,Resolved
+361,199,2025-03-27,Pricing Query,Open
+362,541,2026-04-04,Pricing Query,Open
+363,587,2026-02-19,Card Issue,Waiting Customer
+364,466,2026-06-01,Invoice Query,Resolved
+365,195,2025-02-12,Invoice Query,Resolved
+366,254,2025-09-26,Pricing Query,Waiting Customer
+367,843,2026-01-16,Network Acceptance,Waiting Customer
+368,239,2026-02-18,Card Issue,Resolved
+369,704,2025-11-21,Complaint,Resolved
+370,797,2025-11-19,Portal Login,Resolved
+371,456,2025-11-01,,Resolved
+372,142,2025-05-19,Invoice Query,Open
+373,713,2026-02-12,,Open
+374,377,2025-12-17,Complaint,Open
+375,746,2026-04-18,Card Issue,Resolved
+376,286,2025-11-19,Invoice Query,Resolved
+377,89,2025-08-01,Credit Limit,Resolved
+378,458,2026-04-18,Complaint,Resolved
+379,149,2025-07-10,Complaint,Open
+380,154,2026-04-06,Network Acceptance,Resolved
+381,261,2026-02-02,Portal Login,Resolved
+382,84,2025-01-06,Network Acceptance,Waiting Customer
+383,210,2026-05-06,Complaint,Waiting Customer
+384,491,2026-04-08,Network Acceptance,Waiting Customer
+385,742,2025-05-22,Pricing Query,Resolved
+386,753,2025-01-31,Complaint,Waiting Customer
+387,129,2026-05-22,Portal Login,Resolved
+388,365,2026-06-03,Invoice Query,Open
+389,270,2026-02-26,Card Issue,Resolved
+390,526,2025-02-10,Card Issue,Waiting Customer
+391,282,2025-08-22,,Resolved
+392,156,2025-01-21,Card Issue,Resolved
+393,53,2025-07-20,Invoice Query,Open
+394,446,2026-04-16,Portal Login,Resolved
+395,565,2025-02-18,Network Acceptance,Resolved
+396,544,2025-02-28,Invoice Query,Waiting Customer
+397,551,2025-04-28,Network Acceptance,Resolved
+398,8,2026-06-18,Complaint,Waiting Customer
+399,299,2025-09-12,Network Acceptance,Resolved
+400,743,2025-08-19,Card Issue,Resolved
+401,300,2025-03-13,Credit Limit,Resolved
+402,302,2025-04-11,Credit Limit,Open
+403,330,2025-09-20,Invoice Query,Waiting Customer
+404,486,2026-02-16,Card Issue,Open
+405,381,2025-12-11,Complaint,Resolved
+406,73,2025-04-08,Pricing Query,Waiting Customer
+407,441,2026-02-24,Complaint,Open
+408,189,2025-12-05,Pricing Query,Open
+409,23,2026-04-29,Invoice Query,Resolved
+410,656,2026-04-15,Card Issue,Resolved
+411,306,2025-03-30,Invoice Query,Open
+412,692,2025-12-01,Credit Limit,Open
+413,546,2025-11-26,Credit Limit,Resolved
+414,769,2025-09-18,Pricing Query,Resolved
+415,33,2025-10-20,Credit Limit,Resolved
+416,444,2025-07-08,Portal Login,Resolved
+417,86,2026-01-23,Invoice Query,Resolved
+418,546,2026-02-19,Invoice Query,Resolved
+419,351,2025-09-12,Complaint,Resolved
+420,455,2025-10-16,Complaint,Open
+421,396,2025-10-25,Invoice Query,Resolved
+422,824,2026-03-17,Complaint,Resolved
+423,313,2025-06-17,Invoice Query,Waiting Customer
+424,564,2025-06-25,Credit Limit,Resolved
+425,132,2026-01-29,Network Acceptance,Resolved
+426,620,2025-05-02,Network Acceptance,Resolved
+427,554,2026-04-15,Network Acceptance,Resolved
+428,481,2025-11-18,Card Issue,Resolved
+429,693,2026-02-27,Credit Limit,Resolved
+430,5,2026-02-10,Pricing Query,Open
+431,435,2026-04-20,Invoice Query,Open
+432,183,2026-03-24,Portal Login,Resolved
+433,519,2025-04-02,Pricing Query,Waiting Customer
+434,818,2026-02-17,Pricing Query,Waiting Customer
+435,789,2025-10-18,Invoice Query,Open
+436,816,2025-09-25,Complaint,Waiting Customer
+437,303,2026-04-17,Card Issue,Resolved
+438,115,2025-04-21,Complaint,Resolved
+439,111,2025-10-05,Credit Limit,Resolved
+440,451,2025-03-16,Invoice Query,Resolved
+441,204,2026-04-13,Portal Login,Waiting Customer
+442,227,2025-06-28,Invoice Query,Open
+443,814,2025-02-11,Network Acceptance,Open
+444,740,2025-09-08,Credit Limit,Waiting Customer
+445,639,2025-01-30,Complaint,Open
+446,280,2026-05-15,Card Issue,Waiting Customer
+447,172,2026-01-14,Invoice Query,Open
+448,220,2026-06-13,Pricing Query,Waiting Customer
+449,792,2026-04-10,Credit Limit,Waiting Customer
+450,122,2025-03-23,Portal Login,Waiting Customer
+451,226,2025-01-22,Complaint,Open
+452,503,2026-05-17,Pricing Query,Resolved
+453,742,2025-10-06,Card Issue,Waiting Customer
+454,361,2025-01-16,Invoice Query,Open
+455,255,2025-02-12,Pricing Query,Open
+456,361,2025-10-20,Complaint,Resolved
+457,403,2025-05-23,Pricing Query,Resolved
+458,161,2026-05-06,Pricing Query,Resolved
+459,719,2025-10-05,Credit Limit,Resolved
+460,719,2026-05-28,Pricing Query,Resolved
+461,350,2026-06-04,Credit Limit,Open
+462,812,2025-10-26,Pricing Query,Open
+463,208,2025-01-18,Card Issue,Waiting Customer
+464,148,2026-04-15,Pricing Query,Resolved
+465,160,2025-04-06,Invoice Query,Open
+466,345,2025-03-21,Complaint,Waiting Customer
+467,541,2025-04-04,Credit Limit,Resolved
+468,495,2025-03-18,Pricing Query,Resolved
+469,759,2025-03-31,Pricing Query,Resolved
+470,210,2026-02-22,Pricing Query,Waiting Customer
+471,302,2026-02-15,Pricing Query,Open
+472,341,2026-03-10,Portal Login,Resolved
+473,791,2025-06-12,Card Issue,Open
+474,674,2026-04-24,Pricing Query,Resolved
+475,267,2026-04-02,Pricing Query,Resolved
+476,9,2025-10-15,Invoice Query,Waiting Customer
+477,555,2025-04-05,Credit Limit,Waiting Customer
+478,64,2025-09-15,Portal Login,Resolved
+479,598,2026-05-26,Complaint,Resolved
+480,671,2025-12-15,Card Issue,Resolved
+481,469,2025-11-05,Network Acceptance,Open
+482,288,2025-06-09,Network Acceptance,Resolved
+483,397,2025-08-07,Network Acceptance,Resolved
+484,803,2026-05-15,Card Issue,Waiting Customer
+485,487,2026-06-09,Credit Limit,Resolved
+486,842,2025-06-15,Pricing Query,Waiting Customer
+487,302,2025-09-06,Portal Login,Resolved
+488,572,2026-05-05,Portal Login,Open
+489,327,2025-04-09,Pricing Query,Waiting Customer
+490,498,2026-05-13,Network Acceptance,Resolved
+491,454,2026-05-24,Credit Limit,Resolved
+492,401,2026-04-03,Network Acceptance,Resolved
+493,628,2025-02-24,Credit Limit,Open
+494,108,2026-05-11,Network Acceptance,Resolved
+495,251,2025-07-14,Network Acceptance,Open
+496,787,2025-02-01,Pricing Query,Resolved
+497,467,2026-04-22,,Waiting Customer
+498,505,2025-12-15,Invoice Query,Resolved
+499,445,2025-08-21,Network Acceptance,Waiting Customer
+500,431,2025-06-27,Pricing Query,Resolved
+501,810,2025-06-04,Pricing Query,Open
+502,429,2025-11-04,Invoice Query,Waiting Customer
+503,507,2026-06-21,Invoice Query,Waiting Customer
+504,233,2025-05-18,Card Issue,Resolved
+505,6,2026-04-02,Credit Limit,Resolved
+506,639,2026-05-17,Card Issue,Open
+507,642,2025-11-27,Complaint,Resolved
+508,701,2025-02-28,Invoice Query,Waiting Customer
+509,602,2025-04-28,Card Issue,Open
+510,252,2025-12-25,Complaint,Waiting Customer
+511,746,2025-11-24,Portal Login,Resolved
+512,553,2025-11-27,Pricing Query,Resolved
+513,193,2025-08-15,Complaint,Open
+514,739,2025-04-15,Card Issue,Resolved
+515,339,2025-08-11,Portal Login,Open
+516,630,2025-11-27,Credit Limit,Resolved
+517,312,2025-03-05,Invoice Query,Open
+518,105,2026-06-14,Card Issue,Resolved
+519,586,2026-05-12,Pricing Query,Waiting Customer
+520,648,2025-08-26,Portal Login,Waiting Customer
+521,833,2025-09-11,Credit Limit,Resolved
+522,413,2025-11-23,Complaint,Resolved
+523,482,2026-02-25,Complaint,Waiting Customer
+524,580,2025-07-14,Network Acceptance,Open
+525,97,2026-06-19,Card Issue,Waiting Customer
+526,607,2025-09-06,,Open
+527,64,2025-12-22,Complaint,Resolved
+528,770,2025-04-06,Card Issue,Open
+529,238,2025-06-28,Credit Limit,Waiting Customer
+530,656,2026-05-09,Pricing Query,Resolved
+531,11,2026-06-29,Credit Limit,Resolved
+532,537,2025-07-09,Card Issue,Resolved
+533,778,2026-06-01,Card Issue,Waiting Customer
+534,658,2026-06-13,Portal Login,Open
+535,653,2026-05-31,Network Acceptance,Resolved
+536,371,2025-01-11,Card Issue,Waiting Customer
+537,226,2025-07-11,Network Acceptance,Resolved
+538,720,2025-08-14,Card Issue,Resolved
+539,350,2025-02-18,Portal Login,Resolved
+540,786,2025-05-11,Invoice Query,Open
+541,492,2025-02-21,Pricing Query,Waiting Customer
+542,181,2026-05-27,Network Acceptance,Resolved
+543,109,2025-02-07,Pricing Query,Resolved
+544,20,2025-12-31,Invoice Query,Resolved
+545,715,2025-07-22,Complaint,Resolved
+546,708,2026-04-16,Card Issue,Resolved
+547,305,2025-07-30,Invoice Query,Waiting Customer
+548,182,2025-10-25,Credit Limit,Resolved
+549,181,2025-03-18,Portal Login,Resolved
+550,2,2026-05-03,Card Issue,Resolved
+551,85,2025-10-01,Network Acceptance,Open
+552,348,2026-03-05,Credit Limit,Resolved
+553,234,2025-01-03,Credit Limit,Resolved
+554,583,2025-02-21,Portal Login,Resolved
+555,500,2025-09-09,Credit Limit,Resolved
+556,267,2026-02-20,Portal Login,Waiting Customer
+557,291,2025-03-23,Complaint,Resolved
+558,40,2026-04-25,Network Acceptance,Open
+559,419,2025-07-26,Complaint,Resolved
+560,256,2025-10-18,Pricing Query,Waiting Customer
+561,159,2025-09-19,Credit Limit,Waiting Customer
+562,109,2025-07-21,Portal Login,Open
+563,540,2026-02-28,Network Acceptance,Resolved
+564,113,2025-06-13,Pricing Query,Open
+565,212,2025-05-01,Invoice Query,Resolved
+566,51,2026-03-22,Network Acceptance,Waiting Customer
+567,104,2025-06-16,,Open
+568,682,2026-05-17,Pricing Query,Waiting Customer
+569,370,2026-03-23,Invoice Query,Open
+570,651,2025-01-04,Invoice Query,Waiting Customer
+571,47,2025-07-27,Invoice Query,Resolved
+572,712,2025-10-30,Credit Limit,Open
+573,197,2026-03-06,Pricing Query,Resolved
+574,701,2025-07-16,Pricing Query,Resolved
+575,401,2025-04-16,Card Issue,Waiting Customer
+576,820,2026-03-04,Network Acceptance,Resolved
+577,577,2025-06-08,Card Issue,Resolved
+578,31,2025-02-03,Network Acceptance,Open
+579,744,2026-06-28,Network Acceptance,Waiting Customer
+580,366,2025-03-08,Complaint,Open
+581,140,2025-05-14,Card Issue,Resolved
+582,465,2026-05-08,Card Issue,Waiting Customer
+583,813,2026-02-17,Network Acceptance,Resolved
+584,204,2025-12-02,Complaint,Open
+585,458,2025-01-26,Complaint,Resolved
+586,527,2026-02-09,Complaint,Waiting Customer
+587,782,2026-05-29,,Waiting Customer
+588,166,2025-02-08,Portal Login,Resolved
+589,149,2025-02-18,Invoice Query,Resolved
+590,50,2025-05-06,Credit Limit,Resolved
+591,271,2026-01-16,Portal Login,Resolved
+592,533,2025-04-28,Network Acceptance,Resolved
+593,622,2026-03-07,Portal Login,Resolved
+594,147,2025-11-27,Credit Limit,Resolved
+595,495,2026-04-28,Credit Limit,Waiting Customer
+596,374,2025-04-27,Network Acceptance,Open
+597,121,2025-04-21,Credit Limit,Waiting Customer
+598,127,2026-06-17,Network Acceptance,Resolved
+599,744,2025-01-28,Complaint,Waiting Customer
+600,69,2025-09-09,Complaint,Resolved
+601,113,2025-06-16,Complaint,Open
+602,827,2026-05-04,Complaint,Resolved
+603,533,2026-03-27,Pricing Query,Resolved
+604,455,2025-09-26,Pricing Query,Open
+605,836,2025-06-15,Portal Login,Waiting Customer
+606,837,2025-09-25,Invoice Query,Open
+607,313,2025-09-16,Network Acceptance,Open
+608,516,2026-01-01,Invoice Query,Waiting Customer
+609,125,2025-06-08,Invoice Query,Resolved
+610,428,2026-05-07,Pricing Query,Resolved
+611,539,2026-02-05,Card Issue,Resolved
+612,622,2025-12-19,Portal Login,Resolved
+613,103,2025-04-07,Network Acceptance,Open
+614,730,2025-02-06,Invoice Query,Resolved
+615,158,2026-05-26,Pricing Query,Resolved
+616,358,2025-10-31,Portal Login,Resolved
+617,69,2026-01-14,Credit Limit,Resolved
+618,244,2025-02-13,Pricing Query,Open
+619,371,2026-05-21,Complaint,Resolved
+620,271,2026-04-01,Credit Limit,Open
+621,452,2026-03-10,Pricing Query,Resolved
+622,39,2026-03-14,Complaint,Resolved
+623,606,2025-01-31,Pricing Query,Resolved
+624,490,2025-03-25,Invoice Query,Waiting Customer
+625,199,2025-09-17,Network Acceptance,Waiting Customer
+626,680,2026-03-10,Portal Login,Waiting Customer
+627,643,2025-09-20,Pricing Query,Resolved
+628,147,2025-01-11,Pricing Query,Resolved
+629,354,2025-11-23,Complaint,Resolved
+630,89,2026-01-23,Portal Login,Resolved
+631,14,2025-03-27,Pricing Query,Waiting Customer
+632,402,2025-02-10,Credit Limit,Resolved
+633,791,2025-08-30,Network Acceptance,Resolved
+634,4,2026-06-14,Network Acceptance,Resolved
+635,320,2025-09-09,Portal Login,Resolved
+636,742,2025-11-27,Credit Limit,Resolved
+637,329,2026-03-24,Network Acceptance,Open
+638,366,2026-01-11,Complaint,Resolved
+639,196,2025-08-24,Credit Limit,Resolved
+640,358,2025-04-27,Card Issue,Resolved
+641,78,2025-01-30,Network Acceptance,Resolved
+642,311,2026-02-25,Card Issue,Resolved
+643,817,2026-06-26,Network Acceptance,Resolved
+644,42,2026-02-10,Pricing Query,Waiting Customer
+645,842,2025-09-04,Network Acceptance,Resolved
+646,223,2026-02-17,Portal Login,Open
+647,101,2026-03-22,Pricing Query,Open
+648,294,2025-03-25,Invoice Query,Resolved
+649,715,2025-06-04,Complaint,Resolved
+650,819,2026-04-25,Card Issue,Open
+651,162,2025-03-02,Credit Limit,Resolved
+652,149,2026-05-01,Pricing Query,Resolved
+653,27,2025-05-30,Pricing Query,Resolved
+654,682,2025-04-23,Pricing Query,Open
+655,572,2025-05-30,Credit Limit,Resolved
+656,27,2025-11-27,Network Acceptance,Resolved
+657,568,2025-01-29,Network Acceptance,Resolved
+658,666,2025-09-03,Card Issue,Resolved
+659,121,2025-11-26,Credit Limit,Waiting Customer
+660,706,2025-01-10,Card Issue,Waiting Customer
+661,155,2025-11-02,Network Acceptance,Resolved
+662,500,2026-01-03,Invoice Query,Waiting Customer
+663,386,2025-07-01,Credit Limit,Resolved
+664,7,2025-01-25,Portal Login,Open
+665,342,2026-01-03,Pricing Query,Waiting Customer
+666,446,2025-09-27,Invoice Query,Resolved
+667,307,2025-12-24,Invoice Query,Waiting Customer
+668,814,2026-04-17,Network Acceptance,Waiting Customer
+669,155,2025-12-14,Network Acceptance,Resolved
+670,321,2025-12-31,Network Acceptance,Resolved
+671,403,2025-02-04,Card Issue,Open
+672,777,2025-01-06,Invoice Query,Resolved
+673,678,2025-12-17,Portal Login,Open
+674,143,2025-03-23,Network Acceptance,Resolved
+675,94,2025-04-03,Pricing Query,Open
+676,23,2025-04-13,Network Acceptance,Resolved
+677,391,2026-01-19,Invoice Query,Waiting Customer
+678,748,2025-01-21,Invoice Query,Open
+679,97,2026-01-16,Pricing Query,Resolved
+680,417,2025-05-11,Complaint,Open
+681,10,2025-05-26,Network Acceptance,Open
+682,278,2025-01-05,Network Acceptance,Open
+683,805,2025-11-10,Credit Limit,Resolved
+684,505,2025-09-02,Credit Limit,Resolved
+685,5,2025-05-19,Network Acceptance,Open
+686,480,2025-10-08,Credit Limit,Waiting Customer
+687,624,2026-03-11,Invoice Query,Waiting Customer
+688,237,2025-05-22,Network Acceptance,Resolved
+689,754,2025-02-26,Network Acceptance,Waiting Customer
+690,396,2025-12-06,Credit Limit,Resolved
+691,684,2025-07-07,Pricing Query,Resolved
+692,488,2026-01-27,Complaint,Waiting Customer
+693,737,2026-06-04,Invoice Query,Resolved
+694,220,2025-02-13,Invoice Query,Resolved
+695,374,2025-04-13,Complaint,Open
+696,435,2025-01-02,Network Acceptance,Waiting Customer
+697,236,2025-09-25,Portal Login,Resolved
+698,413,2025-07-09,Credit Limit,Waiting Customer
+699,765,2025-07-21,,Resolved
+700,326,2025-02-24,Portal Login,Resolved
+701,279,2025-08-15,Pricing Query,Resolved
+702,216,2025-03-08,Invoice Query,Resolved
+703,526,2025-03-27,Pricing Query,Resolved
+704,823,2025-03-18,Card Issue,Waiting Customer
+705,698,2025-03-12,Portal Login,Resolved
+706,451,2026-01-02,Card Issue,Waiting Customer
+707,837,2026-01-29,Complaint,Resolved
+708,303,2026-02-24,Card Issue,Waiting Customer
+709,638,2025-04-04,Card Issue,Resolved
+710,223,2025-10-07,Network Acceptance,Resolved
+711,266,2025-09-02,Portal Login,Open
+712,48,2025-11-17,Card Issue,Resolved
+713,551,2026-02-17,Credit Limit,Resolved
+714,160,2025-09-22,Complaint,Waiting Customer
+715,514,2026-02-04,Credit Limit,Resolved
+716,83,2025-07-23,Pricing Query,Resolved
+717,176,2025-04-01,Invoice Query,Open
+718,234,2026-01-09,Portal Login,Waiting Customer
+719,328,2025-04-02,Complaint,Waiting Customer
+720,742,2025-02-16,Portal Login,Waiting Customer
+721,548,2026-02-02,Invoice Query,Resolved
+722,362,2025-09-30,Network Acceptance,Resolved
+723,563,2026-02-08,,Open
+724,448,2026-06-13,Portal Login,Open
+725,463,2025-01-18,Pricing Query,Open
+726,627,2026-01-20,Invoice Query,Resolved
+727,89,2025-12-08,Pricing Query,Open
+728,749,2025-11-21,Pricing Query,Waiting Customer
+729,132,2025-11-20,Credit Limit,Resolved
+730,18,2025-07-18,Network Acceptance,Resolved
+731,557,2025-12-30,Pricing Query,Waiting Customer
+732,3,2026-06-01,Complaint,Resolved
+733,786,2025-01-06,Credit Limit,Resolved
+734,425,2025-02-16,Portal Login,Open
+735,448,2025-07-02,,Resolved
+736,277,2025-12-22,Complaint,Resolved
+737,825,2026-04-14,Portal Login,Resolved
+738,262,2026-05-04,Network Acceptance,Open
+739,601,2026-06-18,Invoice Query,Open
+740,367,2025-10-01,Complaint,Resolved
+741,533,2025-06-24,Pricing Query,Resolved
+742,169,2025-11-13,Card Issue,Open
+743,136,2026-05-27,Network Acceptance,Resolved
+744,794,2025-03-11,,Resolved
+745,767,2025-12-13,Credit Limit,Resolved
+746,756,2025-05-08,Credit Limit,Waiting Customer
+747,40,2026-03-09,Portal Login,Resolved
+748,620,2025-12-22,Portal Login,Waiting Customer
+749,772,2025-09-12,Network Acceptance,Resolved
+750,733,2025-05-25,,Resolved
+751,223,2025-09-06,Invoice Query,Resolved
+752,263,2026-06-30,Complaint,Resolved
+753,672,2025-02-03,Complaint,Resolved
+754,733,2025-11-20,Complaint,Open
+755,710,2025-10-22,Complaint,Resolved
+756,321,2025-09-17,Card Issue,Resolved
+757,396,2025-11-04,Card Issue,Resolved
+758,444,2025-09-16,Network Acceptance,Open
+759,785,2025-08-19,Pricing Query,Resolved
+760,711,2025-03-28,Pricing Query,Resolved
+761,795,2025-02-26,Card Issue,Waiting Customer
+762,446,2026-03-12,Portal Login,Open
+763,428,2025-09-19,Portal Login,Open
+764,119,2025-02-09,Pricing Query,Resolved
+765,479,2025-11-17,Credit Limit,Resolved
+766,428,2025-07-04,Complaint,Open
+767,252,2025-05-25,Network Acceptance,Waiting Customer
+768,263,2025-02-19,Network Acceptance,Open
+769,776,2025-09-30,Network Acceptance,Resolved
+770,569,2025-02-25,Pricing Query,Waiting Customer
+771,805,2025-10-05,Card Issue,Resolved
+772,142,2026-01-31,Network Acceptance,Open
+773,345,2025-11-16,Pricing Query,Open
+774,284,2025-10-09,Card Issue,Waiting Customer
+775,345,2026-02-04,Pricing Query,Open
+776,387,2026-05-22,Network Acceptance,Waiting Customer
+777,116,2026-02-21,Invoice Query,Resolved
+778,162,2025-10-12,Portal Login,Resolved
+779,289,2025-08-17,Complaint,Resolved
+780,441,2026-01-18,Network Acceptance,Open
+781,488,2025-06-18,Pricing Query,Waiting Customer
+782,754,2026-01-31,Pricing Query,Resolved
+783,762,2026-06-25,Pricing Query,Resolved
+784,286,2026-01-05,Network Acceptance,Resolved
+785,449,2025-05-22,Portal Login,Resolved
+786,301,2025-10-02,Credit Limit,Resolved
+787,377,2025-06-21,Pricing Query,Resolved
+788,161,2026-02-15,Portal Login,Open
+789,449,2026-01-04,Card Issue,Resolved
+790,315,2026-02-12,Portal Login,Waiting Customer
+791,290,2026-05-15,Network Acceptance,Resolved
+792,663,2026-05-15,Card Issue,Resolved
+793,392,2025-04-04,Network Acceptance,Waiting Customer
+794,152,2025-11-05,Credit Limit,Resolved
+795,130,2026-03-08,Complaint,Resolved
+796,692,2025-02-16,Card Issue,Resolved
+797,499,2026-03-05,Complaint,Open
+798,531,2025-05-17,Network Acceptance,Waiting Customer
+799,434,2026-04-01,Card Issue,Resolved
+800,618,2026-06-03,,Resolved
+801,796,2025-10-17,Complaint,Waiting Customer
+802,642,2026-05-01,Card Issue,Resolved
+803,761,2025-01-02,Card Issue,Resolved
+804,297,2025-06-17,Invoice Query,Resolved
+805,24,2025-07-07,Portal Login,Waiting Customer
+806,109,2025-02-11,Card Issue,Resolved
+807,489,2025-05-05,Invoice Query,Resolved
+808,460,2025-04-26,Pricing Query,Open
+809,403,2025-01-07,Pricing Query,Open
+810,314,2025-05-26,Credit Limit,Open
+811,164,2025-08-09,Pricing Query,Resolved
+812,621,2025-09-27,Invoice Query,Waiting Customer
+813,777,2025-01-13,Invoice Query,Resolved
+814,139,2026-03-29,Pricing Query,Waiting Customer
+815,49,2025-01-09,Portal Login,Resolved
+816,578,2025-01-06,Complaint,Resolved
+817,617,2025-03-16,Card Issue,Waiting Customer
+818,383,2025-06-11,Network Acceptance,Resolved
+819,111,2026-04-20,Complaint,Waiting Customer
+820,522,2026-02-11,Complaint,Resolved
+821,788,2026-04-23,Card Issue,Resolved
+822,649,2025-04-22,Network Acceptance,Resolved
+823,475,2025-05-13,Pricing Query,Resolved
+824,697,2025-08-10,Credit Limit,Resolved
+825,401,2026-04-11,Pricing Query,Open
+826,723,2025-02-07,Card Issue,Resolved
+827,186,2025-10-07,Portal Login,Resolved
+828,329,2025-04-07,Credit Limit,Open
+829,14,2026-01-16,Portal Login,Resolved
+830,584,2026-05-16,Credit Limit,Waiting Customer
+831,368,2026-04-07,Credit Limit,Resolved
+832,601,2026-04-08,Credit Limit,Open
+833,103,2025-01-26,Pricing Query,Open
+834,297,2026-05-14,Credit Limit,Waiting Customer
+835,106,2025-09-04,Pricing Query,Open
+836,692,2025-12-24,Portal Login,Open
+837,506,2025-03-02,Invoice Query,Resolved
+838,239,2026-05-15,Card Issue,Open
+839,605,2025-01-07,Pricing Query,Waiting Customer
+840,105,2025-05-12,Card Issue,Resolved
+841,220,2026-06-22,Card Issue,Resolved
+842,637,2025-08-17,Pricing Query,Waiting Customer
+843,204,2025-05-22,Network Acceptance,Waiting Customer
+844,102,2026-05-09,Portal Login,Waiting Customer
+845,227,2026-04-14,Credit Limit,Resolved
+846,443,2025-06-29,Network Acceptance,Resolved
+847,595,2026-03-28,Invoice Query,Waiting Customer
+848,690,2026-06-09,Card Issue,Resolved
+849,737,2025-07-11,Portal Login,Open
+850,823,2026-01-31,Network Acceptance,Resolved
+851,53,2025-04-18,Invoice Query,Resolved
+852,810,2025-08-08,Portal Login,Resolved
+853,650,2026-04-02,Complaint,Resolved
+854,284,2026-04-16,Network Acceptance,Resolved
+855,322,2025-01-14,Network Acceptance,Resolved
+856,221,2025-08-27,Network Acceptance,Waiting Customer
+857,714,2025-11-27,Portal Login,Resolved
+858,774,2026-01-14,Invoice Query,Open
+859,446,2025-02-25,Network Acceptance,Open
+860,249,2026-01-22,Complaint,Resolved
+861,62,2025-12-01,Portal Login,Resolved
+862,635,2026-05-21,Pricing Query,Waiting Customer
+863,559,2025-07-06,Network Acceptance,Resolved
+864,22,2026-01-05,Network Acceptance,Waiting Customer
+865,452,2026-04-17,Card Issue,Resolved
+866,536,2026-04-24,Pricing Query,Open
+867,447,2025-06-23,Credit Limit,Resolved
+868,240,2025-11-29,,Open
+869,761,2026-03-31,Portal Login,Resolved
+870,779,2025-05-12,Invoice Query,Waiting Customer
+871,23,2025-10-28,Card Issue,Resolved
+872,774,2026-05-20,Complaint,Resolved
+873,528,2026-02-06,Complaint,Open
+874,135,2025-07-22,Pricing Query,Resolved
+875,633,2025-05-03,Network Acceptance,Open
+876,333,2025-01-29,Credit Limit,Resolved
+877,750,2026-03-23,Portal Login,Resolved
+878,830,2025-12-14,Portal Login,Resolved
+879,93,2025-07-11,Network Acceptance,Resolved
+880,334,2025-06-16,Pricing Query,Resolved
+881,368,2025-04-28,Pricing Query,Resolved
+882,251,2025-08-31,Network Acceptance,Waiting Customer
+883,795,2025-06-10,Complaint,Resolved
+884,667,2025-03-03,Portal Login,Resolved
+885,184,2025-01-30,Network Acceptance,Resolved
+886,760,2025-07-03,Pricing Query,Waiting Customer
+887,522,2026-04-07,Network Acceptance,Resolved
+888,580,2025-03-10,Invoice Query,Waiting Customer
+889,606,2025-09-28,Network Acceptance,Resolved
+890,583,2025-04-03,Portal Login,Resolved
+891,280,2026-01-09,Credit Limit,Resolved
+892,731,2026-06-15,Pricing Query,Resolved
+893,420,2025-01-20,Pricing Query,Open
+894,258,2026-02-18,Portal Login,Resolved
+895,45,2026-05-02,Portal Login,Open
+896,431,2025-06-23,Network Acceptance,Resolved
+897,508,2025-05-21,Pricing Query,Waiting Customer
+898,141,2026-06-27,Card Issue,Resolved
+899,220,2025-10-22,Card Issue,Open
+900,836,2025-04-12,Credit Limit,Open
+901,24,2025-07-03,Card Issue,Resolved
+902,833,2026-03-26,Credit Limit,Resolved
+903,524,2025-09-10,Portal Login,Resolved
+904,636,2026-06-10,Pricing Query,Resolved
+905,260,2025-12-21,Network Acceptance,Open
+906,629,2025-09-04,Invoice Query,Resolved
+907,497,2025-07-07,Credit Limit,Resolved
+908,440,2025-05-09,Network Acceptance,Resolved
+909,268,2025-10-01,Pricing Query,Resolved
+910,768,2026-05-18,Credit Limit,Resolved
+911,765,2025-01-29,Credit Limit,Resolved
+912,34,2025-10-24,Pricing Query,Waiting Customer
+913,345,2025-08-01,Network Acceptance,Resolved
+914,841,2025-02-08,Invoice Query,Waiting Customer
+915,102,2026-05-01,,Waiting Customer
+916,38,2025-12-10,Pricing Query,Waiting Customer
+917,616,2026-01-19,Pricing Query,Resolved
+918,308,2026-03-29,Network Acceptance,Resolved
+919,582,2025-10-11,Credit Limit,Resolved
+920,131,2026-01-14,Portal Login,Resolved
+921,185,2025-03-09,Pricing Query,Waiting Customer
+922,411,2025-05-16,Pricing Query,Resolved
+923,810,2025-07-26,Complaint,Waiting Customer
+924,19,2025-07-09,Credit Limit,Waiting Customer
+925,379,2025-11-19,Invoice Query,Resolved
+926,128,2025-01-17,Portal Login,Resolved
+927,630,2026-04-26,Card Issue,Open
+928,832,2025-09-05,Network Acceptance,Resolved
+929,482,2025-10-03,Complaint,Open
+930,834,2026-05-05,Complaint,Resolved
+931,52,2025-11-21,Portal Login,Resolved
+932,132,2026-06-02,Credit Limit,Resolved
+933,314,2025-11-18,Complaint,Waiting Customer
+934,669,2026-03-09,Network Acceptance,Waiting Customer
+935,59,2026-01-21,Pricing Query,Open
+936,180,2025-02-13,Card Issue,Resolved
+937,552,2025-12-23,Complaint,Open
+938,38,2025-02-17,Credit Limit,Waiting Customer
+939,752,2025-09-19,Complaint,Resolved
+940,752,2025-04-03,Card Issue,Resolved
+941,78,2026-04-10,Pricing Query,Resolved
+942,398,2025-01-28,Credit Limit,Resolved
+943,134,2025-05-19,Pricing Query,Resolved
+944,562,2025-02-26,Invoice Query,Resolved
+945,235,2026-05-11,Network Acceptance,Resolved
+946,703,2026-06-20,Invoice Query,Resolved
+947,732,2025-12-02,Credit Limit,Resolved
+948,796,2025-05-27,Pricing Query,Open
+949,283,2026-02-01,Portal Login,Open
+950,442,2025-11-22,Credit Limit,Waiting Customer
+951,621,2025-11-05,Invoice Query,Open
+952,698,2025-10-13,Credit Limit,Resolved
+953,817,2026-02-02,Card Issue,Resolved
+954,308,2025-06-20,Pricing Query,Open
+955,330,2026-05-15,Complaint,Waiting Customer
+956,569,2025-03-17,,Resolved
+957,618,2026-06-28,Invoice Query,Resolved
+958,628,2025-12-09,Card Issue,Waiting Customer
+959,492,2025-09-12,Complaint,Open
+960,115,2025-06-25,Portal Login,Open
+961,16,2026-06-03,Network Acceptance,Open
+962,730,2025-11-26,Network Acceptance,Waiting Customer
+963,279,2025-03-01,Card Issue,Waiting Customer
+964,633,2025-10-09,Card Issue,Waiting Customer
+965,445,2025-03-08,Complaint,Open
+966,204,2025-06-04,Complaint,Resolved
+967,604,2026-06-11,Invoice Query,Waiting Customer
+968,802,2025-04-03,Portal Login,Resolved
+969,827,2025-04-04,Credit Limit,Resolved
+970,394,2026-06-06,Complaint,Waiting Customer
+971,683,2026-04-06,Pricing Query,Resolved
+972,687,2025-03-31,Credit Limit,Resolved
+973,345,2025-06-01,Portal Login,Resolved
+974,124,2025-12-11,Credit Limit,Resolved
+975,272,2026-02-26,Portal Login,Resolved
+976,575,2025-03-14,Credit Limit,Resolved
+977,23,2026-01-20,Invoice Query,Resolved
+978,563,2025-04-14,Pricing Query,Waiting Customer
+979,585,2026-01-17,Pricing Query,Waiting Customer
+980,789,2026-01-26,Complaint,Waiting Customer
+981,548,2025-03-22,Credit Limit,Waiting Customer
+982,612,2025-11-01,Complaint,Resolved
+983,421,2026-05-21,Pricing Query,Resolved
+984,149,2026-01-31,Pricing Query,Resolved
+985,216,2026-02-16,Invoice Query,Resolved
+986,104,2025-10-13,Credit Limit,Open
+987,386,2025-04-24,Credit Limit,Resolved
+988,151,2026-01-21,Credit Limit,Open
+989,191,2026-01-24,Network Acceptance,Open
+990,711,2025-06-05,Credit Limit,Open
+991,9,2025-05-26,Card Issue,Open
+992,342,2025-12-06,Pricing Query,Resolved
+993,222,2025-07-15,Card Issue,Resolved
+994,133,2025-05-09,Credit Limit,Resolved
+995,81,2025-02-17,Portal Login,Waiting Customer
+996,807,2025-04-18,Invoice Query,Open
+997,721,2025-04-27,Credit Limit,Waiting Customer
+998,512,2026-01-06,Pricing Query,Resolved
+999,156,2025-12-26,Credit Limit,Resolved
+1000,620,2026-06-13,Credit Limit,Resolved
+1001,367,2026-03-06,Pricing Query,Resolved
+1002,704,2025-07-13,Invoice Query,Waiting Customer
+1003,776,2026-01-21,Pricing Query,Resolved
+1004,712,2025-03-03,Portal Login,Waiting Customer
+1005,824,2025-11-24,Invoice Query,Open
+1006,333,2026-06-03,,Waiting Customer
+1007,739,2026-01-15,Credit Limit,Resolved
+1008,801,2025-04-16,Credit Limit,Resolved
+1009,666,2025-06-09,Network Acceptance,Open
+1010,500,2026-06-30,Pricing Query,Resolved
+1011,68,2025-06-09,Complaint,Waiting Customer
+1012,801,2025-05-04,Network Acceptance,Resolved
+1013,849,2025-08-01,Network Acceptance,Resolved
+1014,8,2025-03-05,Portal Login,Open
+1015,542,2026-03-13,Portal Login,Resolved
+1016,139,2025-12-10,Portal Login,Waiting Customer
+1017,282,2025-02-11,Pricing Query,Resolved
+1018,286,2025-05-12,Credit Limit,Resolved
+1019,416,2025-04-22,Card Issue,Open
+1020,547,2025-09-11,Card Issue,Waiting Customer
+1021,420,2026-01-10,Card Issue,Resolved
+1022,330,2025-01-02,Invoice Query,Resolved
+1023,659,2026-03-08,Complaint,Resolved
+1024,338,2026-01-02,Pricing Query,Waiting Customer
+1025,258,2026-06-05,Credit Limit,Resolved
+1026,472,2025-06-08,Credit Limit,Resolved
+1027,667,2025-12-10,,Waiting Customer
+1028,297,2025-07-22,Network Acceptance,Open
+1029,392,2026-05-05,Pricing Query,Open
+1030,692,2025-06-30,Network Acceptance,Resolved
+1031,409,2025-05-07,Card Issue,Open
+1032,708,2026-02-01,Card Issue,Resolved
+1033,790,2025-06-28,Pricing Query,Resolved
+1034,651,2025-12-01,Credit Limit,Open
+1035,43,2026-06-01,Pricing Query,Waiting Customer
+1036,572,2025-11-05,Invoice Query,Resolved
+1037,778,2025-07-08,Invoice Query,Open
+1038,485,2025-07-18,Invoice Query,Open
+1039,8,2025-06-01,Portal Login,Resolved
+1040,305,2026-05-14,Card Issue,Open
+1041,261,2025-01-12,Complaint,Resolved
+1042,767,2025-10-20,Pricing Query,Open
+1043,408,2025-06-23,Network Acceptance,Resolved
+1044,339,2025-05-05,Credit Limit,Resolved
+1045,269,2025-08-19,Complaint,Resolved
+1046,735,2025-01-17,,Resolved
+1047,395,2025-05-07,Portal Login,Resolved
+1048,621,2025-04-27,Network Acceptance,Waiting Customer
+1049,480,2025-01-27,Portal Login,Resolved
+1050,745,2025-09-03,Complaint,Open
+1051,536,2026-04-07,Card Issue,Resolved
+1052,533,2026-05-09,Complaint,Resolved
+1053,214,2025-05-04,Card Issue,Resolved
+1054,617,2026-05-18,Card Issue,Open
+1055,427,2025-03-25,Portal Login,Open
+1056,797,2025-06-15,Network Acceptance,Waiting Customer
+1057,450,2026-02-16,Card Issue,Waiting Customer
+1058,562,2026-01-03,Complaint,Resolved
+1059,251,2025-11-26,Complaint,Waiting Customer
+1060,13,2025-08-01,Pricing Query,Waiting Customer
+1061,810,2025-03-22,Credit Limit,Resolved
+1062,831,2025-04-30,Pricing Query,Resolved
+1063,355,2026-02-17,Card Issue,Open
+1064,34,2026-01-04,Network Acceptance,Open
+1065,268,2025-11-27,Card Issue,Resolved
+1066,409,2026-03-18,Card Issue,Open
+1067,447,2026-06-24,Pricing Query,Resolved
+1068,478,2025-02-22,Pricing Query,Resolved
+1069,606,2025-01-08,Invoice Query,Waiting Customer
+1070,596,2025-05-10,Credit Limit,Open
+1071,137,2025-04-11,Pricing Query,Resolved
+1072,806,2025-09-28,Card Issue,Resolved
+1073,412,2025-09-28,Card Issue,Resolved
+1074,757,2026-01-28,Portal Login,Open
+1075,150,2026-06-26,Card Issue,Waiting Customer
+1076,812,2026-06-08,Card Issue,Waiting Customer
+1077,751,2025-06-07,Portal Login,Resolved
+1078,352,2025-07-23,Invoice Query,Open
+1079,147,2025-01-15,Invoice Query,Waiting Customer
+1080,337,2026-02-06,Invoice Query,Waiting Customer
+1081,371,2026-03-10,Network Acceptance,Open
+1082,500,2025-06-17,Invoice Query,Resolved
+1083,415,2026-01-06,Complaint,Resolved
+1084,336,2025-08-09,Card Issue,Waiting Customer
+1085,608,2025-07-28,Invoice Query,Resolved
+1086,373,2026-03-24,Network Acceptance,Resolved
+1087,589,2025-09-25,Network Acceptance,Open
+1088,650,2025-05-06,Credit Limit,Resolved
+1089,614,2026-05-27,Complaint,Resolved
+1090,111,2025-10-22,,Open
+1091,619,2025-01-05,Portal Login,Resolved
+1092,376,2025-02-14,Card Issue,Resolved
+1093,703,2025-10-22,Credit Limit,Resolved
+1094,406,2025-07-24,Card Issue,Resolved
+1095,506,2026-02-24,Invoice Query,Resolved
+1096,163,2025-07-01,Pricing Query,Waiting Customer
+1097,326,2026-01-23,Card Issue,Resolved
+1098,279,2025-11-11,Pricing Query,Resolved
+1099,170,2025-08-20,Network Acceptance,Resolved
+1100,190,2025-09-25,Invoice Query,Waiting Customer
+1101,544,2025-01-12,Card Issue,Waiting Customer
+1102,298,2026-03-23,Portal Login,Open
+1103,30,2026-05-19,Card Issue,Resolved
+1104,605,2025-03-05,Complaint,Resolved
+1105,304,2025-11-07,Portal Login,Waiting Customer
+1106,93,2025-05-25,Pricing Query,Resolved
+1107,480,2026-05-13,Network Acceptance,Resolved
+1108,182,2025-08-19,Pricing Query,Resolved
+1109,121,2026-01-27,,Resolved
+1110,693,2025-07-13,Complaint,Open
+1111,189,2025-09-03,Pricing Query,Resolved
+1112,110,2025-06-26,Pricing Query,Open
+1113,222,2025-10-08,,Open
+1114,730,2025-09-27,Complaint,Resolved
+1115,380,2025-08-08,Card Issue,Waiting Customer
+1116,472,2025-09-17,Invoice Query,Resolved
+1117,469,2025-12-13,Pricing Query,Resolved
+1118,692,2025-11-02,Network Acceptance,Waiting Customer
+1119,754,2026-02-03,Card Issue,Open
+1120,441,2025-04-20,Invoice Query,Waiting Customer
+1121,791,2025-06-11,Credit Limit,Resolved
+1122,591,2025-06-21,Complaint,Resolved
+1123,273,2026-03-27,Network Acceptance,Resolved
+1124,302,2026-05-17,Complaint,Resolved
+1125,662,2025-10-19,Card Issue,Open
+1126,89,2025-11-03,Invoice Query,Resolved
+1127,107,2026-06-04,Credit Limit,Resolved
+1128,584,2026-05-19,Portal Login,Resolved
+1129,79,2026-02-11,Invoice Query,Waiting Customer
+1130,629,2025-11-24,Complaint,Resolved
+1131,243,2025-02-07,Complaint,Open
+1132,832,2026-05-06,Card Issue,Waiting Customer
+1133,476,2026-03-19,Portal Login,Open
+1134,649,2025-08-09,Credit Limit,Waiting Customer
+1135,819,2026-01-16,Invoice Query,Waiting Customer
+1136,496,2025-04-07,Network Acceptance,Resolved
+1137,674,2025-03-03,Portal Login,Resolved
+1138,17,2026-04-29,Credit Limit,Waiting Customer
+1139,644,2025-07-29,Complaint,Resolved
+1140,358,2026-04-07,Card Issue,Open
+1141,527,2025-09-22,Complaint,Resolved
+1142,546,2025-10-19,Pricing Query,Open
+1143,153,2025-03-06,Portal Login,Resolved
+1144,501,2025-03-14,Credit Limit,Open
+1145,176,2025-08-16,Network Acceptance,Open
+1146,629,2025-12-24,Pricing Query,Resolved
+1147,195,2026-04-09,Credit Limit,Resolved
+1148,715,2026-04-10,Complaint,Resolved
+1149,44,2025-05-11,Complaint,Resolved
+1150,380,2026-05-12,Credit Limit,Waiting Customer
+1151,832,2025-05-20,Credit Limit,Resolved
+1152,97,2025-07-08,,Resolved
+1153,606,2026-01-01,Credit Limit,Waiting Customer
+1154,52,2026-06-28,Card Issue,Resolved
+1155,149,2026-03-01,Credit Limit,Resolved
+1156,200,2026-04-07,Complaint,Waiting Customer
+1157,506,2025-11-21,Invoice Query,Resolved
+1158,405,2026-05-01,Card Issue,Resolved
+1159,562,2025-05-06,Portal Login,Waiting Customer
+1160,799,2025-07-24,Portal Login,Open
+1161,584,2025-01-15,Portal Login,Resolved
+1162,588,2025-02-15,Complaint,Open
+1163,374,2025-08-24,Complaint,Resolved
+1164,436,2026-04-26,Invoice Query,Waiting Customer
+1165,450,2026-02-24,Pricing Query,Open
+1166,594,2026-04-14,Credit Limit,Resolved
+1167,797,2025-11-07,Card Issue,Waiting Customer
+1168,29,2025-06-26,Credit Limit,Resolved
+1169,637,2025-09-24,Network Acceptance,Resolved
+1170,436,2026-03-05,Card Issue,Resolved
+1171,678,2025-04-05,Invoice Query,Resolved
+1172,562,2025-02-16,Pricing Query,Resolved
+1173,108,2026-05-14,Credit Limit,Open
+1174,254,2025-04-27,Pricing Query,Resolved
+1175,60,2025-10-26,Invoice Query,Resolved
+1176,401,2026-05-15,Credit Limit,Resolved
+1177,644,2025-02-28,Card Issue,Resolved
+1178,132,2025-11-29,Credit Limit,Open
+1179,455,2026-02-28,Pricing Query,Open
+1180,629,2026-04-01,Credit Limit,Resolved
+1181,769,2025-10-04,Card Issue,Resolved
+1182,746,2025-04-25,Network Acceptance,Resolved
+1183,326,2025-11-09,Portal Login,Resolved
+1184,733,2025-08-03,Card Issue,Resolved
+1185,634,2025-04-04,Pricing Query,Open
+1186,733,2026-03-22,,Waiting Customer
+1187,8,2025-04-23,Invoice Query,Waiting Customer
+1188,264,2025-08-14,Portal Login,Resolved
+1189,25,2025-03-20,Portal Login,Resolved
+1190,385,2025-03-26,Card Issue,Waiting Customer
+1191,593,2025-06-30,Complaint,Waiting Customer
+1192,710,2025-11-05,Card Issue,Resolved
+1193,449,2025-04-22,Credit Limit,Resolved
+1194,410,2025-12-19,Network Acceptance,Waiting Customer
+1195,763,2025-04-13,Pricing Query,Resolved
+1196,569,2025-04-13,Network Acceptance,Resolved
+1197,800,2025-08-05,Portal Login,Resolved
+1198,609,2025-09-07,Portal Login,Open
+1199,299,2025-01-20,Portal Login,Resolved
+1200,448,2025-10-01,Invoice Query,Resolved
+1201,508,2026-05-19,Complaint,Resolved
+1202,615,2026-01-11,Complaint,Resolved
+1203,200,2025-09-19,Network Acceptance,Resolved
+1204,530,2025-02-27,Credit Limit,Resolved
+1205,335,2025-04-19,Portal Login,Open
+1206,175,2025-06-21,Credit Limit,Resolved
+1207,15,2025-01-28,Invoice Query,Waiting Customer
+1208,309,2026-01-01,Invoice Query,Waiting Customer
+1209,482,2025-09-26,Portal Login,Waiting Customer
+1210,551,2025-07-30,Portal Login,Resolved
+1211,638,2026-04-19,Invoice Query,Waiting Customer
+1212,409,2025-11-05,Credit Limit,Resolved
+1213,16,2025-07-02,Complaint,Open
+1214,634,2025-09-25,Complaint,Waiting Customer
+1215,446,2026-04-22,Invoice Query,Waiting Customer
+1216,438,2026-03-22,Card Issue,Open
+1217,110,2025-09-12,Complaint,Resolved
+1218,387,2025-08-05,Network Acceptance,Waiting Customer
+1219,476,2025-07-21,Complaint,Resolved
+1220,581,2026-02-01,Complaint,Resolved
+1221,650,2025-12-06,Credit Limit,Resolved
+1222,830,2026-02-22,Invoice Query,Waiting Customer
+1223,822,2026-02-10,Pricing Query,Open
+1224,362,2025-03-01,Network Acceptance,Resolved
+1225,11,2025-08-09,Portal Login,Resolved
+1226,673,2025-07-11,Card Issue,Open
+1227,532,2025-10-27,Network Acceptance,Resolved
+1228,693,2025-04-05,Network Acceptance,Resolved
+1229,24,2025-08-17,Network Acceptance,Resolved
+1230,812,2025-05-28,Credit Limit,Open
+1231,626,2025-10-02,Network Acceptance,Resolved
+1232,650,2025-09-17,Portal Login,Open
+1233,401,2025-12-06,Invoice Query,Resolved
+1234,60,2026-02-21,Credit Limit,Resolved
+1235,457,2025-05-31,Complaint,Resolved
+1236,88,2026-05-30,Network Acceptance,Resolved
+1237,167,2025-04-06,Network Acceptance,Waiting Customer
+1238,343,2026-01-19,Portal Login,Waiting Customer
+1239,831,2025-12-28,Invoice Query,Open
+1240,351,2026-02-04,Credit Limit,Open
+1241,233,2026-05-10,Portal Login,Open
+1242,563,2025-04-14,Complaint,Open
+1243,298,2025-09-27,Credit Limit,Resolved
+1244,66,2026-05-14,Invoice Query,Resolved
+1245,90,2026-06-17,Pricing Query,Resolved
+1246,644,2026-02-20,Complaint,Resolved
+1247,698,2025-12-21,Network Acceptance,Resolved
+1248,247,2026-01-11,Network Acceptance,Resolved
+1249,106,2025-11-13,Complaint,Resolved
+1250,742,2026-05-05,Card Issue,Resolved
+1251,61,2026-01-16,Card Issue,Open
+1252,518,2025-09-06,Network Acceptance,Resolved
+1253,408,2025-06-20,Credit Limit,Open
+1254,65,2025-08-20,Card Issue,Resolved
+1255,316,2025-08-07,Card Issue,Waiting Customer
+1256,234,2026-02-15,Invoice Query,Open
+1257,719,2026-05-26,Portal Login,Resolved
+1258,353,2026-05-11,Pricing Query,Waiting Customer
+1259,620,2025-12-06,Credit Limit,Resolved
+1260,833,2026-01-08,Complaint,Resolved
+1261,533,2025-04-15,Portal Login,Resolved
+1262,750,2025-06-08,Pricing Query,Open
+1263,428,2025-01-29,Card Issue,Resolved
+1264,707,2026-06-14,Portal Login,Resolved
+1265,800,2025-06-28,Network Acceptance,Resolved
+1266,510,2025-10-11,Network Acceptance,Waiting Customer
+1267,189,2025-07-09,Invoice Query,Waiting Customer
+1268,433,2026-06-07,Invoice Query,Waiting Customer
+1269,270,2025-07-17,,Resolved
+1270,124,2025-09-21,Complaint,Open
+1271,105,2026-01-23,Invoice Query,Resolved
+1272,845,2025-06-25,Complaint,Resolved
+1273,280,2025-06-22,Portal Login,Open
+1274,847,2026-01-01,Pricing Query,Open
+1275,375,2025-11-13,Card Issue,Resolved
+1276,483,2025-01-15,Invoice Query,Open
+1277,154,2026-06-28,Portal Login,Resolved
+1278,692,2025-01-26,Card Issue,Resolved
+1279,559,2025-06-08,Complaint,Resolved
+1280,331,2025-11-10,Card Issue,Resolved
+1281,434,2025-06-08,Network Acceptance,Resolved
+1282,366,2025-01-09,Pricing Query,Resolved
+1283,95,2025-04-08,Portal Login,Waiting Customer
+1284,505,2025-01-17,Portal Login,Waiting Customer
+1285,331,2026-02-08,Complaint,Resolved
+1286,273,2026-04-10,Network Acceptance,Resolved
+1287,320,2026-01-06,Complaint,Open
+1288,285,2025-08-08,Invoice Query,Resolved
+1289,720,2025-11-09,Pricing Query,Waiting Customer
+1290,843,2025-02-17,Network Acceptance,Resolved
+1291,503,2025-07-14,Complaint,Resolved
+1292,281,2026-06-29,Card Issue,Resolved
+1293,288,2025-12-01,Portal Login,Resolved
+1294,34,2025-05-18,Portal Login,Resolved
+1295,567,2025-09-18,Network Acceptance,Open
+1296,827,2025-09-28,Complaint,Open
+1297,549,2025-12-18,Portal Login,Resolved
+1298,191,2026-02-10,Portal Login,Open
+1299,538,2026-05-11,Portal Login,Waiting Customer
+1300,764,2025-01-25,Card Issue,Resolved
+1301,830,2025-10-09,Card Issue,Waiting Customer
+1302,266,2026-03-08,Credit Limit,Resolved
+1303,38,2026-02-22,Invoice Query,Open
+1304,21,2026-01-24,Invoice Query,Open
+1305,448,2026-05-26,Complaint,Open
+1306,656,2025-04-25,Card Issue,Waiting Customer
+1307,438,2025-09-29,Pricing Query,Resolved
+1308,829,2025-03-16,Invoice Query,Open
+1309,33,2026-04-03,Complaint,Resolved
+1310,30,2025-06-18,Portal Login,Open
+1311,519,2025-02-07,Network Acceptance,Resolved
+1312,738,2026-01-02,Card Issue,Open
+1313,212,2025-12-11,Network Acceptance,Resolved
+1314,660,2025-11-21,Complaint,Waiting Customer
+1315,195,2025-07-08,Pricing Query,Open
+1316,653,2026-05-02,Card Issue,Open
+1317,610,2025-03-28,,Open
+1318,661,2026-02-01,Complaint,Resolved
+1319,801,2025-09-07,Invoice Query,Resolved
+1320,764,2026-06-05,Invoice Query,Open
+1321,800,2025-03-14,Pricing Query,Waiting Customer
+1322,31,2025-04-04,Network Acceptance,Open
+1323,825,2026-06-20,Invoice Query,Waiting Customer
+1324,320,2025-07-14,Invoice Query,Open
+1325,518,2025-08-01,Complaint,Resolved
+1326,398,2025-10-23,Card Issue,Resolved
+1327,429,2026-03-05,Card Issue,Resolved
+1328,37,2025-07-01,Network Acceptance,Open
+1329,523,2025-10-07,Card Issue,Resolved
+1330,322,2025-09-01,,Waiting Customer
+1331,779,2026-03-07,,Waiting Customer
+1332,817,2025-10-17,Card Issue,Waiting Customer
+1333,348,2025-10-22,Network Acceptance,Waiting Customer
+1334,807,2025-01-10,Complaint,Open
+1335,464,2025-11-10,Network Acceptance,Resolved
+1336,227,2025-02-18,Network Acceptance,Resolved
+1337,755,2025-10-31,Complaint,Resolved
+1338,525,2025-04-09,Card Issue,Open
+1339,165,2026-04-02,Network Acceptance,Resolved
+1340,797,2025-11-10,Pricing Query,Waiting Customer
+1341,837,2026-04-05,Credit Limit,Resolved
+1342,446,2026-03-08,Pricing Query,Resolved
+1343,7,2025-09-25,Card Issue,Open
+1344,645,2025-05-12,Card Issue,Waiting Customer
+1345,114,2025-08-02,Invoice Query,Resolved
+1346,702,2025-08-03,Network Acceptance,Resolved
+1347,213,2025-06-24,Portal Login,Resolved
+1348,112,2026-04-24,Network Acceptance,Waiting Customer
+1349,465,2025-08-15,Credit Limit,Resolved
+1350,20,2026-05-05,Portal Login,Waiting Customer
+1351,218,2025-07-12,Card Issue,Open
+1352,45,2025-11-18,Complaint,Open
+1353,529,2025-10-14,Credit Limit,Waiting Customer
+1354,671,2025-04-21,Network Acceptance,Waiting Customer
+1355,353,2026-02-17,Invoice Query,Resolved
+1356,327,2026-05-25,Invoice Query,Resolved
+1357,722,2025-08-21,Pricing Query,Resolved
+1358,423,2026-01-07,Portal Login,Resolved
+1359,561,2025-10-12,Pricing Query,Resolved
+1360,521,2026-06-29,Portal Login,Open
+1361,834,2025-01-08,Network Acceptance,Resolved
+1362,270,2025-05-18,Portal Login,Open
+1363,586,2025-02-26,Pricing Query,Open
+1364,495,2025-02-28,Portal Login,Waiting Customer
+1365,510,2025-04-20,Portal Login,Waiting Customer
+1366,299,2025-08-18,Card Issue,Waiting Customer
+1367,605,2025-12-01,Complaint,Resolved
+1368,443,2025-08-16,Portal Login,Waiting Customer
+1369,686,2026-05-01,Portal Login,Resolved
+1370,759,2025-05-07,,Resolved
+1371,50,2025-05-20,Network Acceptance,Resolved
+1372,752,2025-12-31,Pricing Query,Resolved
+1373,487,2026-04-18,Network Acceptance,Resolved
+1374,314,2025-09-29,Complaint,Resolved
+1375,146,2025-06-17,Pricing Query,Waiting Customer
+1376,350,2025-11-30,Card Issue,Resolved
+1377,329,2025-12-06,Network Acceptance,Waiting Customer
+1378,592,2026-02-18,Pricing Query,Open
+1379,47,2025-11-17,Portal Login,Resolved
+1380,450,2025-10-10,Invoice Query,Resolved
+1381,406,2026-05-03,Portal Login,Resolved
+1382,518,2025-08-14,Portal Login,Open
+1383,528,2025-05-05,Pricing Query,Resolved
+1384,639,2025-01-04,Card Issue,Resolved
+1385,28,2026-04-04,Network Acceptance,Resolved
+1386,61,2026-02-06,Network Acceptance,Waiting Customer
+1387,234,2025-12-03,Card Issue,Open
+1388,744,2025-09-03,Network Acceptance,Resolved
+1389,324,2025-12-28,,Open
+1390,265,2026-02-27,Invoice Query,Resolved
+1391,115,2025-11-01,Credit Limit,Resolved
+1392,452,2025-09-14,Network Acceptance,Open
+1393,299,2025-10-09,Credit Limit,Resolved
+1394,402,2026-05-02,Invoice Query,Resolved
+1395,525,2025-09-28,Card Issue,Waiting Customer
+1396,238,2026-02-11,Network Acceptance,Waiting Customer
+1397,157,2025-10-07,Network Acceptance,Resolved
+1398,4,2026-05-07,Credit Limit,Open
+1399,116,2025-05-13,Portal Login,Resolved
+1400,207,2025-08-15,Invoice Query,Resolved
+1401,384,2026-03-29,Invoice Query,Waiting Customer
+1402,333,2026-01-23,Invoice Query,Waiting Customer
+1403,31,2026-05-28,Portal Login,Waiting Customer
+1404,375,2025-12-13,Pricing Query,Open
+1405,812,2026-02-15,Complaint,Waiting Customer
+1406,626,2025-09-06,Complaint,Resolved
+1407,219,2026-03-07,Credit Limit,Waiting Customer
+1408,96,2026-05-12,Pricing Query,Resolved
+1409,703,2025-09-26,Network Acceptance,Resolved
+1410,63,2025-10-11,Complaint,Waiting Customer
+1411,149,2026-01-08,Pricing Query,Resolved
+1412,469,2025-10-09,Card Issue,Waiting Customer
+1413,588,2025-03-19,Network Acceptance,Resolved
+1414,379,2025-02-27,Invoice Query,Waiting Customer
+1415,320,2026-04-04,Network Acceptance,Resolved
+1416,841,2025-09-22,Portal Login,Resolved
+1417,805,2026-06-04,Complaint,Resolved
+1418,178,2025-04-27,Invoice Query,Resolved
+1419,803,2025-06-10,Portal Login,Open
+1420,601,2026-06-08,Pricing Query,Waiting Customer
+1421,506,2026-03-05,Invoice Query,Resolved
+1422,127,2025-08-28,Card Issue,Resolved
+1423,125,2026-04-18,Invoice Query,Waiting Customer
+1424,745,2025-03-02,Invoice Query,Resolved
+1425,537,2026-04-30,Card Issue,Waiting Customer
+1426,127,2025-07-02,Credit Limit,Resolved
+1427,26,2025-10-01,Card Issue,Resolved
+1428,12,2025-11-15,Card Issue,Resolved
+1429,395,2025-09-13,Card Issue,Waiting Customer
+1430,752,2026-04-30,Complaint,Resolved
+1431,674,2026-03-17,Card Issue,Waiting Customer
+1432,337,2026-05-19,Pricing Query,Open
+1433,734,2026-06-26,Credit Limit,Resolved
+1434,491,2025-03-03,Credit Limit,Waiting Customer
+1435,643,2026-03-03,Credit Limit,Resolved
+1436,543,2026-06-24,Credit Limit,Resolved
+1437,320,2025-03-03,Credit Limit,Resolved
+1438,96,2026-02-09,Invoice Query,Resolved
+1439,363,2026-06-27,Portal Login,Resolved
+1440,598,2026-01-09,Network Acceptance,Resolved
+1441,324,2026-03-07,Invoice Query,Open
+1442,115,2026-02-14,Credit Limit,Resolved
+1443,450,2026-03-08,Credit Limit,Waiting Customer
+1444,89,2026-06-28,Pricing Query,Resolved
+1445,274,2026-01-20,Invoice Query,Waiting Customer
+1446,380,2025-03-31,Portal Login,Resolved
+1447,49,2025-08-26,Pricing Query,Waiting Customer
+1448,282,2025-09-04,Complaint,Open
+1449,834,2025-08-24,Network Acceptance,Waiting Customer
+1450,291,2025-10-04,Credit Limit,Open
+1451,788,2025-02-08,Complaint,Resolved
+1452,313,2026-02-03,Portal Login,Waiting Customer
+1453,79,2025-03-05,Credit Limit,Resolved
+1454,408,2025-11-26,Credit Limit,Resolved
+1455,217,2025-02-10,Card Issue,Resolved
+1456,732,2025-11-26,Network Acceptance,Waiting Customer
+1457,230,2025-03-19,Pricing Query,Resolved
+1458,675,2025-04-06,Network Acceptance,Resolved
+1459,95,2025-01-19,Complaint,Waiting Customer
+1460,336,2025-08-23,Credit Limit,Resolved
+1461,557,2026-02-26,Complaint,Resolved
+1462,454,2025-08-27,Invoice Query,Resolved
+1463,388,2025-04-25,,Open
+1464,217,2025-03-31,Pricing Query,Waiting Customer
+1465,283,2025-08-08,Network Acceptance,Resolved
+1466,586,2025-04-07,Network Acceptance,Resolved
+1467,364,2026-06-30,Card Issue,Waiting Customer
+1468,332,2026-02-06,Complaint,Waiting Customer
+1469,112,2025-03-04,Network Acceptance,Waiting Customer
+1470,329,2025-11-11,Complaint,Resolved
+1471,340,2025-11-05,Invoice Query,Waiting Customer
+1472,404,2025-05-02,Portal Login,Open
+1473,13,2025-01-12,Invoice Query,Open
+1474,484,2026-02-07,Network Acceptance,Resolved
+1475,584,2026-05-11,Credit Limit,Resolved
+1476,579,2026-01-24,Pricing Query,Open
+1477,203,2026-05-15,Complaint,Resolved
+1478,779,2025-11-07,Network Acceptance,Open
+1479,670,2025-10-29,Complaint,Resolved
+1480,698,2025-03-25,Credit Limit,Resolved
+1481,8,2025-12-02,Complaint,Resolved
+1482,421,2025-10-08,,Open
+1483,662,2026-03-13,,Resolved
+1484,270,2025-08-26,Network Acceptance,Resolved
+1485,701,2026-06-30,Pricing Query,Resolved
+1486,571,2026-05-30,Card Issue,Open
+1487,443,2025-08-30,Pricing Query,Resolved
+1488,47,2026-01-26,Pricing Query,Resolved
+1489,699,2026-05-19,Pricing Query,Resolved
+1490,501,2025-05-18,Card Issue,Waiting Customer
+1491,751,2025-12-18,Invoice Query,Resolved
+1492,841,2025-09-20,Complaint,Resolved
+1493,279,2025-08-16,Card Issue,Resolved
+1494,29,2025-05-25,Network Acceptance,Open
+1495,217,2025-07-04,Complaint,Waiting Customer
+1496,631,2026-06-19,Credit Limit,Resolved
+1497,794,2025-04-02,Credit Limit,Resolved
+1498,18,2025-01-27,Invoice Query,Open
+1499,356,2026-05-09,Invoice Query,Resolved
+1500,390,2026-03-02,Card Issue,Open
+1501,54,2025-08-22,Card Issue,Resolved
+1502,270,2025-07-19,Invoice Query,Open
+1503,195,2025-12-26,Pricing Query,Resolved
+1504,386,2025-10-28,Credit Limit,Resolved
+1505,84,2025-12-05,Pricing Query,Resolved
+1506,40,2025-03-03,Card Issue,Resolved
+1507,446,2025-06-08,Network Acceptance,Resolved
+1508,86,2026-03-10,Credit Limit,Resolved
+1509,622,2026-03-12,Complaint,Waiting Customer
+1510,22,2025-11-27,Credit Limit,Resolved
+1511,748,2025-11-04,Portal Login,Resolved
+1512,644,2025-02-05,Portal Login,Waiting Customer
+1513,485,2025-03-19,Credit Limit,Resolved
+1514,121,2025-05-03,Invoice Query,Waiting Customer
+1515,499,2026-03-12,Invoice Query,Resolved
+1516,276,2025-12-04,Portal Login,Resolved
+1517,402,2025-06-28,Complaint,Waiting Customer
+1518,657,2025-05-01,Credit Limit,Waiting Customer
+1519,232,2025-01-25,Card Issue,Resolved
+1520,390,2025-09-10,Portal Login,Resolved
+1521,689,2025-03-15,Portal Login,Resolved
+1522,407,2025-12-30,Pricing Query,Resolved
+1523,465,2026-06-12,Invoice Query,Waiting Customer
+1524,73,2026-03-10,Complaint,Resolved
+1525,357,2025-06-21,Complaint,Waiting Customer
+1526,98,2026-03-12,Complaint,Resolved
+1527,748,2025-04-21,,Resolved
+1528,185,2026-03-04,Portal Login,Waiting Customer
+1529,506,2025-12-23,,Resolved
+1530,453,2025-06-29,Card Issue,Open
+1531,679,2025-05-07,Pricing Query,Resolved
+1532,547,2026-06-30,Pricing Query,Resolved
+1533,409,2025-10-16,Pricing Query,Resolved
+1534,657,2026-03-13,Invoice Query,Resolved
+1535,688,2025-09-17,Portal Login,Resolved
+1536,231,2025-05-08,Invoice Query,Resolved
+1537,779,2026-04-25,Invoice Query,Waiting Customer
+1538,425,2026-06-03,Portal Login,Waiting Customer
+1539,28,2025-01-10,Pricing Query,Open
+1540,532,2026-03-22,Network Acceptance,Resolved
+1541,371,2025-07-09,Credit Limit,Resolved
+1542,320,2026-01-01,Portal Login,Waiting Customer
+1543,572,2026-03-17,Portal Login,Open
+1544,363,2025-12-24,Pricing Query,Open
+1545,456,2026-02-08,Invoice Query,Resolved
+1546,415,2026-05-21,Network Acceptance,Waiting Customer
+1547,334,2026-05-27,Card Issue,Waiting Customer
+1548,68,2025-05-28,Credit Limit,Resolved
+1549,422,2026-04-18,Complaint,Resolved
+1550,200,2025-08-29,Network Acceptance,Resolved
+1551,273,2025-12-07,Complaint,Open
+1552,324,2026-04-25,Network Acceptance,Resolved
+1553,385,2025-12-10,Complaint,Waiting Customer
+1554,103,2026-06-29,Complaint,Resolved
+1555,663,2026-04-26,Pricing Query,Resolved
+1556,500,2025-04-07,Invoice Query,Resolved
+1557,516,2026-05-03,Complaint,Resolved
+1558,199,2026-05-05,Network Acceptance,Resolved
+1559,741,2025-12-15,Complaint,Resolved
+1560,152,2025-05-23,Card Issue,Resolved
+1561,802,2025-07-29,Complaint,Resolved
+1562,180,2026-05-05,Credit Limit,Resolved
+1563,500,2026-02-24,Network Acceptance,Open
+1564,413,2026-06-02,Credit Limit,Open
+1565,411,2025-05-24,Network Acceptance,Resolved
+1566,449,2026-05-19,Portal Login,Open
+1567,679,2025-11-15,,Open
+1568,582,2026-04-25,Portal Login,Resolved
+1569,733,2025-11-28,,Resolved
+1570,174,2026-05-24,Portal Login,Resolved
+1571,309,2026-03-26,Pricing Query,Resolved
+1572,79,2025-09-18,,Resolved
+1573,147,2025-01-30,Credit Limit,Resolved
+1574,329,2025-10-11,Complaint,Open
+1575,46,2026-05-09,Invoice Query,Resolved
+1576,419,2025-12-10,Invoice Query,Open
+1577,22,2026-01-26,Network Acceptance,Resolved
+1578,695,2025-02-18,Credit Limit,Resolved
+1579,364,2025-10-12,Card Issue,Open
+1580,539,2026-02-02,Portal Login,Resolved
+1581,276,2025-06-04,Pricing Query,Resolved
+1582,359,2025-01-09,Complaint,Resolved
+1583,420,2025-06-28,Credit Limit,Resolved
+1584,846,2025-02-02,Card Issue,Resolved
+1585,54,2026-03-02,Complaint,Waiting Customer
+1586,441,2026-01-16,Card Issue,Waiting Customer
+1587,72,2026-06-12,Credit Limit,Resolved
+1588,114,2025-07-07,Card Issue,Waiting Customer
+1589,673,2026-04-06,Pricing Query,Resolved
+1590,236,2026-01-27,Network Acceptance,Resolved
+1591,218,2025-09-04,Invoice Query,Open
+1592,659,2025-12-24,Credit Limit,Resolved
+1593,275,2025-02-01,Pricing Query,Waiting Customer
+1594,128,2025-04-12,Invoice Query,Waiting Customer
+1595,657,2025-09-16,Invoice Query,Resolved
+1596,626,2025-09-30,Network Acceptance,Waiting Customer
+1597,589,2025-06-01,Credit Limit,Resolved
+1598,351,2025-02-06,Pricing Query,Waiting Customer
+1599,300,2025-02-06,Card Issue,Open
+1600,556,2026-01-12,Portal Login,Resolved
+1601,316,2025-07-04,Pricing Query,Resolved
+1602,113,2025-07-09,Network Acceptance,Open
+1603,681,2025-10-23,Invoice Query,Resolved
+1604,196,2025-11-27,Card Issue,Resolved
+1605,357,2025-09-09,Card Issue,Waiting Customer
+1606,580,2025-03-15,Complaint,Waiting Customer
+1607,421,2025-07-20,Complaint,Resolved
+1608,504,2026-05-04,Portal Login,Resolved
+1609,592,2025-09-30,Card Issue,Open
+1610,629,2026-04-16,Pricing Query,Open
+1611,830,2025-10-03,Pricing Query,Resolved
+1612,595,2025-03-01,Network Acceptance,Resolved
+1613,30,2025-12-09,Complaint,Waiting Customer
+1614,691,2025-07-04,Invoice Query,Resolved
+1615,410,2025-01-13,Portal Login,Resolved
+1616,787,2025-12-02,Complaint,Resolved
+1617,330,2026-03-22,Network Acceptance,Waiting Customer
+1618,32,2025-03-24,Network Acceptance,Resolved
+1619,203,2025-10-13,Pricing Query,Waiting Customer
+1620,475,2025-07-13,Card Issue,Resolved
+1621,689,2025-12-13,Portal Login,Resolved
+1622,416,2026-02-25,Complaint,Resolved
+1623,210,2025-09-30,Invoice Query,Resolved
+1624,811,2025-08-04,Credit Limit,Waiting Customer
+1625,727,2025-08-31,Portal Login,Resolved
+1626,716,2025-05-27,Portal Login,Resolved
+1627,124,2025-07-30,Invoice Query,Waiting Customer
+1628,459,2025-10-09,Invoice Query,Resolved
+1629,192,2025-01-30,Portal Login,Waiting Customer
+1630,435,2025-09-05,Portal Login,Resolved
+1631,40,2025-02-20,Credit Limit,Resolved
+1632,43,2025-11-11,Invoice Query,Open
+1633,651,2025-08-02,Network Acceptance,Resolved
+1634,660,2026-04-19,Credit Limit,Resolved
+1635,281,2025-09-21,Portal Login,Resolved
+1636,91,2025-01-03,Credit Limit,Open
+1637,138,2026-03-30,Credit Limit,Waiting Customer
+1638,663,2026-06-24,Pricing Query,Resolved
+1639,609,2025-01-19,Credit Limit,Waiting Customer
+1640,667,2025-03-08,Complaint,Waiting Customer
+1641,834,2025-11-18,Portal Login,Waiting Customer
+1642,530,2025-03-05,Pricing Query,Open
+1643,45,2025-09-30,Card Issue,Resolved
+1644,136,2026-01-22,Card Issue,Resolved
+1645,149,2026-03-31,Credit Limit,Resolved
+1646,152,2025-05-17,Portal Login,Open
+1647,178,2025-04-24,Portal Login,Resolved
+1648,313,2025-11-20,Network Acceptance,Resolved
+1649,554,2025-05-16,Pricing Query,Resolved
+1650,370,2025-03-09,Network Acceptance,Resolved
+1651,682,2026-03-30,Credit Limit,Resolved
+1652,514,2025-08-04,Invoice Query,Resolved
+1653,163,2025-07-11,Credit Limit,Resolved
+1654,91,2026-04-23,Invoice Query,Waiting Customer
+1655,514,2025-06-29,Network Acceptance,Waiting Customer
+1656,88,2025-09-04,Pricing Query,Resolved
+1657,817,2025-09-22,Network Acceptance,Open
+1658,207,2025-07-17,Card Issue,Waiting Customer
+1659,583,2026-05-11,Portal Login,Resolved
+1660,786,2025-09-10,Complaint,Resolved
+1661,460,2025-10-03,Invoice Query,Resolved
+1662,344,2025-07-21,Network Acceptance,Resolved
+1663,658,2025-08-22,Card Issue,Resolved
+1664,819,2025-07-27,Card Issue,Waiting Customer
+1665,829,2025-12-03,,Waiting Customer
+1666,264,2025-02-14,Card Issue,Resolved
+1667,835,2025-11-12,Card Issue,Resolved
+1668,546,2026-03-22,Card Issue,Resolved
+1669,155,2025-09-03,Complaint,Resolved
+1670,639,2026-05-23,Pricing Query,Waiting Customer
+1671,707,2025-11-19,Invoice Query,Resolved
+1672,61,2025-09-19,Credit Limit,Resolved
+1673,415,2025-03-05,Portal Login,Open
+1674,462,2026-02-23,Invoice Query,Resolved
+1675,750,2025-07-02,Credit Limit,Resolved
+1676,688,2026-01-24,Portal Login,Waiting Customer
+1677,834,2025-08-22,Credit Limit,Resolved
+1678,818,2026-02-14,Card Issue,Waiting Customer
+1679,537,2025-04-16,Card Issue,Resolved
+1680,370,2026-06-26,Network Acceptance,Open
+1681,668,2025-10-07,Card Issue,Resolved
+1682,744,2025-07-03,Portal Login,Resolved
+1683,648,2025-10-10,Portal Login,Resolved
+1684,606,2025-12-06,Credit Limit,Resolved
+1685,239,2025-01-04,Portal Login,Resolved
+1686,69,2025-07-12,Credit Limit,Open
+1687,519,2025-03-14,Complaint,Resolved
+1688,806,2026-01-02,Credit Limit,Resolved
+1689,204,2025-01-30,Pricing Query,Resolved
+1690,46,2025-01-08,Pricing Query,Resolved
+1691,534,2025-10-30,Complaint,Resolved
+1692,359,2025-08-13,Card Issue,Resolved
+1693,367,2025-08-30,Complaint,Waiting Customer
+1694,118,2026-05-17,Complaint,Open
+1695,158,2025-05-27,Complaint,Resolved
+1696,683,2026-02-23,,Waiting Customer
+1697,483,2025-05-28,Pricing Query,Resolved
+1698,210,2026-06-11,Credit Limit,Resolved
+1699,436,2025-02-18,Portal Login,Resolved
+1700,532,2025-10-24,Portal Login,Resolved
+1701,667,2025-05-04,Network Acceptance,Waiting Customer
+1702,212,2025-10-01,Complaint,Open
+1703,568,2025-10-26,Complaint,Resolved
+1704,518,2025-08-03,Network Acceptance,Resolved
+1705,769,2025-07-13,Invoice Query,Waiting Customer
+1706,613,2026-04-20,Complaint,Open
+1707,271,2026-03-23,Card Issue,Resolved
+1708,435,2025-03-03,Portal Login,Resolved
+1709,36,2026-02-19,Complaint,Resolved
+1710,140,2025-04-22,Pricing Query,Resolved
+1711,381,2026-04-01,Portal Login,Waiting Customer
+1712,64,2025-12-24,Pricing Query,Resolved
+1713,142,2025-12-13,Network Acceptance,Resolved
+1714,357,2025-05-25,Credit Limit,Resolved
+1715,599,2026-02-13,Credit Limit,Resolved
+1716,716,2025-03-01,Credit Limit,Resolved
+1717,125,2025-11-04,Credit Limit,Resolved
+1718,319,2026-06-08,Credit Limit,Open
+1719,261,2025-01-10,Card Issue,Resolved
+1720,582,2025-10-27,Complaint,Resolved
+1721,405,2026-06-07,Invoice Query,Resolved
+1722,344,2025-09-25,Card Issue,Resolved
+1723,341,2025-12-02,Credit Limit,Waiting Customer
+1724,30,2025-11-04,Complaint,Open
+1725,65,2025-01-05,Network Acceptance,Resolved
+1726,5,2025-10-12,Credit Limit,Resolved
+1727,821,2025-11-14,Pricing Query,Resolved
+1728,640,2025-05-22,Credit Limit,Resolved
+1729,821,2025-02-20,Pricing Query,Resolved
+1730,338,2025-11-01,Credit Limit,Waiting Customer
+1731,319,2025-07-27,Credit Limit,Resolved
+1732,1,2025-01-03,Invoice Query,Open
+1733,84,2025-10-19,Network Acceptance,Waiting Customer
+1734,583,2025-01-05,Pricing Query,Waiting Customer
+1735,808,2025-07-21,Complaint,Open
+1736,805,2025-07-02,Complaint,Resolved
+1737,477,2025-01-21,Invoice Query,Resolved
+1738,263,2025-12-15,Invoice Query,Resolved
+1739,395,2025-02-18,Network Acceptance,Resolved
+1740,561,2025-08-21,Pricing Query,Open
+1741,189,2025-09-09,Portal Login,Resolved
+1742,850,2026-03-15,Portal Login,Waiting Customer
+1743,24,2025-05-15,Complaint,Resolved
+1744,538,2026-01-27,Invoice Query,Resolved
+1745,639,2026-02-05,Invoice Query,Resolved
+1746,680,2026-05-30,Network Acceptance,Open
+1747,91,2025-10-10,Credit Limit,Waiting Customer
+1748,782,2025-01-29,Pricing Query,Resolved
+1749,252,2026-04-14,Network Acceptance,Resolved
+1750,240,2025-04-20,Invoice Query,Open
+1751,135,2026-04-24,Portal Login,Resolved
+1752,65,2025-05-16,Complaint,Resolved
+1753,296,2025-11-26,,Resolved
+1754,479,2026-06-07,Credit Limit,Resolved
+1755,625,2025-07-04,Invoice Query,Resolved
+1756,364,2025-03-30,Portal Login,Resolved
+1757,662,2026-06-15,Portal Login,Resolved
+1758,60,2026-06-22,Credit Limit,Resolved
+1759,842,2025-01-10,Complaint,Resolved
+1760,152,2025-08-20,Card Issue,Resolved
+1761,332,2025-10-03,Invoice Query,Resolved
+1762,348,2026-02-12,Portal Login,Resolved
+1763,120,2025-07-12,Portal Login,Open
+1764,364,2025-02-14,Card Issue,Resolved
+1765,17,2025-10-28,Credit Limit,Resolved
+1766,785,2025-02-16,Network Acceptance,Resolved
+1767,156,2025-10-23,Network Acceptance,Resolved
+1768,604,2025-12-02,Invoice Query,Resolved
+1769,404,2025-10-01,Pricing Query,Waiting Customer
+1770,522,2026-03-04,Portal Login,Resolved
+1771,562,2025-05-25,Credit Limit,Open
+1772,529,2025-12-08,Pricing Query,Waiting Customer
+1773,617,2025-10-04,Pricing Query,Resolved
+1774,683,2025-01-02,Pricing Query,Resolved
+1775,117,2025-01-31,Complaint,Resolved
+1776,405,2025-08-04,Pricing Query,Resolved
+1777,355,2026-05-20,Credit Limit,Open
+1778,250,2025-08-31,Credit Limit,Resolved
+1779,280,2025-07-18,Pricing Query,Resolved
+1780,519,2025-12-26,Credit Limit,Resolved
+1781,530,2025-12-05,Credit Limit,Resolved
+1782,274,2026-03-15,Credit Limit,Resolved
+1783,556,2025-10-03,Complaint,Resolved
+1784,615,2026-01-10,Portal Login,Open
+1785,783,2025-04-15,Card Issue,Waiting Customer
+1786,648,2025-07-01,Credit Limit,Waiting Customer
+1787,78,2025-02-16,Pricing Query,Resolved
+1788,262,2025-06-15,Card Issue,Resolved
+1789,217,2026-02-05,Complaint,Resolved
+1790,673,2025-04-13,Network Acceptance,Resolved
+1791,346,2025-08-07,Card Issue,Resolved
+1792,399,2025-11-13,Pricing Query,Resolved
+1793,575,2026-06-26,Invoice Query,Open
+1794,675,2026-06-13,Pricing Query,Resolved
+1795,82,2025-02-06,Invoice Query,Resolved
+1796,702,2025-05-10,Network Acceptance,Resolved
+1797,779,2025-06-08,Card Issue,Resolved
+1798,17,2025-08-11,Pricing Query,Resolved
+1799,779,2025-12-13,Card Issue,Resolved
+1800,228,2025-04-15,Portal Login,Resolved
+1801,451,2026-04-08,Invoice Query,Open
+1802,703,2026-02-16,Invoice Query,Resolved
+1803,213,2026-04-29,Network Acceptance,Resolved
+1804,660,2026-04-26,Network Acceptance,Resolved
+1805,258,2025-03-23,Card Issue,Waiting Customer
+1806,444,2026-04-20,Invoice Query,Resolved
+1807,742,2026-05-01,Credit Limit,Resolved
+1808,517,2025-03-16,Complaint,Open
+1809,726,2025-01-08,Network Acceptance,Open
+1810,769,2025-12-31,Pricing Query,Open
+1811,829,2025-02-02,Complaint,Open
+1812,752,2025-10-31,Pricing Query,Resolved
+1813,565,2026-01-21,Credit Limit,Waiting Customer
+1814,11,2025-10-04,,Waiting Customer
+1815,600,2025-05-21,Credit Limit,Waiting Customer
+1816,583,2026-06-14,Portal Login,Waiting Customer
+1817,778,2025-12-13,Network Acceptance,Resolved
+1818,485,2026-06-06,,Open
+1819,408,2026-05-30,,Resolved
+1820,385,2025-12-06,Invoice Query,Resolved
+1821,144,2026-04-28,Complaint,Resolved
+1822,407,2026-03-30,Credit Limit,Resolved
+1823,310,2026-02-28,Pricing Query,Resolved
+1824,277,2025-09-18,Network Acceptance,Resolved
+1825,623,2026-01-27,,Open
+1826,819,2025-09-21,Network Acceptance,Waiting Customer
+1827,629,2026-06-28,Portal Login,Waiting Customer
+1828,726,2025-10-15,Pricing Query,Resolved
+1829,617,2025-06-08,Invoice Query,Open
+1830,620,2025-12-10,Invoice Query,Open
+1831,303,2025-05-23,Invoice Query,Resolved
+1832,253,2026-02-10,Network Acceptance,Resolved
+1833,809,2025-02-14,Pricing Query,Resolved
+1834,545,2025-03-11,Card Issue,Resolved
+1835,259,2026-06-30,Pricing Query,Resolved
+1836,431,2026-03-29,Complaint,Resolved
+1837,44,2025-12-29,Invoice Query,Resolved
+1838,58,2026-01-02,Network Acceptance,Resolved
+1839,154,2025-07-28,Credit Limit,Resolved
+1840,27,2026-02-26,Invoice Query,Resolved
+1841,745,2025-10-26,Complaint,Resolved
+1842,225,2025-08-30,Credit Limit,Resolved
+1843,168,2025-02-24,Card Issue,Open
+1844,452,2026-05-22,Credit Limit,Waiting Customer
+1845,125,2025-06-14,Credit Limit,Resolved
+1846,827,2026-05-27,Portal Login,Resolved
+1847,380,2026-04-19,Network Acceptance,Waiting Customer
+1848,185,2025-08-09,Pricing Query,Resolved
+1849,680,2026-02-06,Complaint,Open
+1850,551,2025-12-15,Complaint,Resolved
+1851,813,2025-12-28,Complaint,Open
+1852,444,2025-11-03,Invoice Query,Open
+1853,563,2026-03-20,Pricing Query,Resolved
+1854,255,2025-07-07,Pricing Query,Resolved
+1855,571,2026-04-21,Invoice Query,Waiting Customer
+1856,25,2026-04-06,Complaint,Resolved
+1857,534,2025-04-21,Credit Limit,Resolved
+1858,161,2026-01-30,Complaint,Resolved
+1859,319,2025-11-22,Portal Login,Resolved
+1860,342,2025-02-22,Credit Limit,Resolved
+1861,17,2026-03-01,Complaint,Resolved
+1862,714,2025-09-11,Invoice Query,Open
+1863,403,2026-01-31,Complaint,Open
+1864,518,2025-09-05,Pricing Query,Resolved
+1865,645,2026-01-18,Complaint,Waiting Customer
+1866,261,2026-02-08,Card Issue,Resolved
+1867,749,2026-03-18,Credit Limit,Resolved
+1868,318,2026-04-23,Card Issue,Resolved
+1869,617,2025-08-23,Credit Limit,Resolved
+1870,741,2025-12-14,Network Acceptance,Waiting Customer
+1871,730,2026-06-27,Portal Login,Waiting Customer
+1872,291,2025-07-01,Credit Limit,Resolved
+1873,124,2025-11-14,Invoice Query,Resolved
+1874,416,2025-05-28,Pricing Query,Waiting Customer
+1875,354,2025-04-17,Card Issue,Resolved
+1876,569,2025-03-05,Invoice Query,Waiting Customer
+1877,358,2025-04-11,Network Acceptance,Open
+1878,475,2025-11-30,Network Acceptance,Open
+1879,163,2025-03-22,Credit Limit,Open
+1880,847,2025-06-17,Complaint,Resolved
+1881,276,2026-04-23,Card Issue,Resolved
+1882,773,2026-06-06,Card Issue,Resolved
+1883,779,2025-03-05,Complaint,Resolved
+1884,300,2025-12-09,Invoice Query,Open
+1885,28,2025-11-13,Complaint,Open
+1886,349,2025-05-10,Invoice Query,Resolved
+1887,793,2025-01-18,Complaint,Resolved
+1888,459,2025-09-10,Pricing Query,Open
+1889,12,2025-02-12,Portal Login,Resolved
+1890,665,2026-02-14,Complaint,Resolved
+1891,526,2025-04-09,Pricing Query,Resolved
+1892,803,2026-02-01,Complaint,Resolved
+1893,445,2026-02-27,Portal Login,Resolved
+1894,112,2026-06-07,Invoice Query,Resolved
+1895,431,2025-01-14,Portal Login,Resolved
+1896,793,2025-06-23,Invoice Query,Waiting Customer
+1897,46,2025-10-01,Card Issue,Open
+1898,702,2025-10-06,Network Acceptance,Resolved
+1899,621,2026-01-15,Portal Login,Resolved
+1900,314,2025-02-10,Credit Limit,Resolved
+1901,297,2025-08-24,Pricing Query,Resolved
+1902,127,2025-08-03,Card Issue,Resolved
+1903,63,2026-06-22,Network Acceptance,Open
+1904,580,2025-12-12,Invoice Query,Open
+1905,623,2025-05-15,,Open
+1906,138,2025-07-06,Complaint,Open
+1907,643,2025-05-07,Credit Limit,Resolved
+1908,763,2025-10-19,Card Issue,Open
+1909,151,2025-01-17,Credit Limit,Resolved
+1910,380,2026-06-05,Pricing Query,Resolved
+1911,399,2025-02-11,Pricing Query,Open
+1912,520,2026-06-11,Portal Login,Waiting Customer
+1913,538,2026-01-17,Invoice Query,Resolved
+1914,621,2025-10-10,Network Acceptance,Resolved
+1915,344,2025-03-06,Card Issue,Resolved
+1916,230,2026-02-01,Network Acceptance,Open
+1917,4,2025-12-17,Credit Limit,Waiting Customer
+1918,749,2026-02-10,Invoice Query,Open
+1919,244,2025-05-16,Complaint,Waiting Customer
+1920,575,2025-04-22,Pricing Query,Resolved
+1921,634,2025-09-11,Network Acceptance,Resolved
+1922,636,2025-11-01,Card Issue,Waiting Customer
+1923,420,2025-10-24,Network Acceptance,Open
+1924,456,2025-02-24,Card Issue,Waiting Customer
+1925,294,2025-07-04,Complaint,Open
+1926,23,2025-04-03,Card Issue,Resolved
+1927,273,2026-03-29,Credit Limit,Resolved
+1928,810,2025-07-04,Network Acceptance,Resolved
+1929,252,2025-04-20,Invoice Query,Resolved
+1930,646,2026-04-06,,Resolved
+1931,686,2026-03-28,Card Issue,Resolved
+1932,670,2025-09-21,Card Issue,Waiting Customer
+1933,357,2025-09-14,Network Acceptance,Resolved
+1934,795,2026-01-20,Network Acceptance,Waiting Customer
+1935,28,2025-09-27,Complaint,Resolved
+1936,694,2025-01-15,Card Issue,Open
+1937,619,2025-06-10,Complaint,Resolved
+1938,341,2026-01-10,Card Issue,Open
+1939,592,2025-04-09,Pricing Query,Open
+1940,771,2025-12-14,Network Acceptance,Open
+1941,425,2026-01-05,,Resolved
+1942,74,2025-09-12,Complaint,Resolved
+1943,404,2026-05-13,Credit Limit,Resolved
+1944,467,2025-05-10,Portal Login,Waiting Customer
+1945,39,2026-01-18,Credit Limit,Resolved
+1946,560,2025-12-03,Invoice Query,Resolved
+1947,768,2025-10-17,Card Issue,Waiting Customer
+1948,740,2025-03-19,Complaint,Resolved
+1949,381,2026-05-09,Card Issue,Waiting Customer
+1950,105,2025-03-31,Complaint,Resolved
+1951,840,2025-01-14,Network Acceptance,Resolved
+1952,709,2025-05-28,Card Issue,Resolved
+1953,497,2026-06-13,Network Acceptance,Resolved
+1954,385,2026-01-13,Credit Limit,Resolved
+1955,840,2025-04-19,Network Acceptance,Waiting Customer
+1956,79,2025-03-30,Credit Limit,Resolved
+1957,251,2025-10-03,Card Issue,Open
+1958,843,2025-06-06,Portal Login,Resolved
+1959,71,2025-02-02,Pricing Query,Resolved
+1960,139,2025-12-16,Credit Limit,Waiting Customer
+1961,788,2025-10-11,Invoice Query,Resolved
+1962,311,2025-05-29,Complaint,Resolved
+1963,207,2025-03-26,Credit Limit,Resolved
+1964,184,2025-01-29,Pricing Query,Resolved
+1965,219,2026-02-02,Pricing Query,Open
+1966,171,2025-12-16,Complaint,Resolved
+1967,676,2025-05-04,Portal Login,Resolved
+1968,65,2025-03-29,Portal Login,Resolved
+1969,40,2025-10-01,Portal Login,Resolved
+1970,385,2025-01-18,Invoice Query,Waiting Customer
+1971,727,2026-03-09,Pricing Query,Resolved
+1972,427,2025-03-03,Card Issue,Resolved
+1973,763,2025-04-04,Card Issue,Resolved
+1974,397,2026-03-20,Complaint,Resolved
+1975,830,2025-06-18,Card Issue,Resolved
+1976,178,2025-04-04,Card Issue,Waiting Customer
+1977,537,2025-06-30,Portal Login,Resolved
+1978,537,2025-02-05,Credit Limit,Resolved
+1979,301,2025-07-29,Credit Limit,Waiting Customer
+1980,115,2026-02-02,Pricing Query,Open
+1981,823,2025-02-12,Pricing Query,Resolved
+1982,248,2025-08-21,Credit Limit,Resolved
+1983,410,2025-06-09,Pricing Query,Resolved
+1984,352,2025-11-30,Complaint,Resolved
+1985,655,2025-03-13,Invoice Query,Resolved
+1986,730,2025-04-30,Network Acceptance,Waiting Customer
+1987,697,2025-08-24,Complaint,Resolved
+1988,752,2025-07-16,Portal Login,Waiting Customer
+1989,799,2025-11-01,Portal Login,Resolved
+1990,835,2025-09-27,Complaint,Resolved
+1991,548,2025-10-31,Portal Login,Waiting Customer
+1992,334,2025-12-26,Portal Login,Waiting Customer
+1993,41,2025-05-01,Invoice Query,Resolved
+1994,844,2025-09-21,Credit Limit,Resolved
+1995,629,2025-12-31,Complaint,Resolved
+1996,391,2025-12-19,Pricing Query,Resolved
+1997,412,2025-01-14,Network Acceptance,Resolved
+1998,639,2025-09-06,Pricing Query,Resolved
+1999,431,2026-05-05,Card Issue,Resolved
+2000,274,2025-08-12,Pricing Query,Open
+2001,345,2025-08-30,Network Acceptance,Resolved
+2002,499,2025-01-06,Network Acceptance,Open
+2003,8,2026-04-20,Network Acceptance,Open
+2004,69,2025-02-13,Network Acceptance,Resolved
+2005,317,2026-06-25,Portal Login,Open
+2006,348,2026-06-15,Invoice Query,Resolved
+2007,104,2025-12-31,Network Acceptance,Resolved
+2008,184,2026-02-07,Pricing Query,Resolved
+2009,611,2026-03-01,Invoice Query,Resolved
+2010,670,2025-03-07,Credit Limit,Waiting Customer
+2011,341,2026-01-27,,Resolved
+2012,465,2026-04-14,Network Acceptance,Waiting Customer
+2013,125,2025-04-29,Complaint,Waiting Customer
+2014,482,2025-06-19,Portal Login,Resolved
+2015,627,2025-05-02,Network Acceptance,Resolved
+2016,435,2025-07-13,Network Acceptance,Waiting Customer
+2017,359,2025-06-22,Credit Limit,Resolved
+2018,582,2026-04-12,Invoice Query,Resolved
+2019,299,2026-06-03,Pricing Query,Resolved
+2020,269,2026-03-28,Network Acceptance,Open
+2021,37,2026-03-27,Pricing Query,Resolved
+2022,824,2025-11-09,Network Acceptance,Open
+2023,385,2026-01-29,Network Acceptance,Resolved
+2024,50,2026-03-09,Pricing Query,Waiting Customer
+2025,163,2025-03-21,Portal Login,Resolved
+2026,824,2025-01-21,Invoice Query,Waiting Customer
+2027,335,2025-04-13,Network Acceptance,Waiting Customer
+2028,559,2025-10-18,Invoice Query,Resolved
+2029,754,2025-09-16,Invoice Query,Resolved
+2030,549,2025-11-06,Portal Login,Open
+2031,813,2025-06-13,,Resolved
+2032,300,2026-03-09,Portal Login,Resolved
+2033,842,2025-10-01,Network Acceptance,Resolved
+2034,198,2025-07-26,Complaint,Open
+2035,169,2025-04-03,Card Issue,Resolved
+2036,408,2025-08-26,Portal Login,Open
+2037,273,2025-06-28,Network Acceptance,Open
+2038,331,2025-01-30,Invoice Query,Resolved
+2039,44,2026-03-13,Card Issue,Open
+2040,312,2025-04-03,Pricing Query,Waiting Customer
+2041,203,2025-06-24,Complaint,Resolved
+2042,750,2025-07-13,,Open
+2043,300,2025-10-14,Invoice Query,Resolved
+2044,574,2025-04-30,Portal Login,Resolved
+2045,633,2025-02-05,Pricing Query,Resolved
+2046,714,2025-05-08,Credit Limit,Resolved
+2047,74,2025-05-09,Network Acceptance,Resolved
+2048,613,2026-02-16,Credit Limit,Resolved
+2049,762,2025-04-19,Portal Login,Open
+2050,324,2026-06-04,Card Issue,Waiting Customer
+2051,669,2025-01-17,Card Issue,Resolved
+2052,486,2025-07-30,Credit Limit,Open
+2053,195,2025-08-14,Portal Login,Resolved
+2054,50,2026-06-19,Invoice Query,Resolved
+2055,190,2026-02-13,Card Issue,Resolved
+2056,745,2025-02-13,Complaint,Resolved
+2057,620,2025-01-25,Credit Limit,Resolved
+2058,175,2025-12-13,Invoice Query,Open
+2059,638,2026-01-29,Card Issue,Resolved
+2060,369,2025-06-20,Portal Login,Resolved
+2061,786,2025-08-19,Credit Limit,Waiting Customer
+2062,348,2025-06-01,Portal Login,Resolved
+2063,422,2025-05-23,Pricing Query,Resolved
+2064,314,2025-02-03,Invoice Query,Resolved
+2065,829,2025-05-13,,Resolved
+2066,24,2025-07-16,Complaint,Resolved
+2067,1,2026-06-02,Portal Login,Resolved
+2068,207,2025-03-24,Invoice Query,Resolved
+2069,838,2025-03-25,Invoice Query,Resolved
+2070,205,2025-09-16,Invoice Query,Resolved
+2071,110,2025-08-16,Card Issue,Resolved
+2072,79,2025-04-15,,Open
+2073,397,2026-06-18,Card Issue,Open
+2074,548,2025-09-20,Portal Login,Resolved
+2075,449,2025-09-18,Pricing Query,Resolved
+2076,345,2026-03-30,Invoice Query,Resolved
+2077,810,2025-07-16,Network Acceptance,Resolved
+2078,738,2025-06-18,Portal Login,Resolved
+2079,344,2026-06-21,Network Acceptance,Open
+2080,263,2025-06-06,Card Issue,Waiting Customer
+2081,849,2025-11-30,Card Issue,Open
+2082,347,2025-05-31,Invoice Query,Open
+2083,761,2025-01-26,Network Acceptance,Resolved
+2084,748,2025-07-16,Portal Login,Resolved
+2085,841,2025-09-22,Complaint,Resolved
+2086,56,2025-07-12,Network Acceptance,Resolved
+2087,341,2026-06-30,Pricing Query,Waiting Customer
+2088,842,2025-01-21,Pricing Query,Resolved
+2089,201,2025-12-17,Credit Limit,Resolved
+2090,365,2026-02-10,Network Acceptance,Resolved
+2091,774,2026-01-01,Network Acceptance,Resolved
+2092,361,2026-04-29,Pricing Query,Resolved
+2093,399,2026-02-12,Portal Login,Resolved
+2094,650,2026-05-29,Credit Limit,Open
+2095,639,2025-09-05,,Waiting Customer
+2096,271,2026-03-24,Card Issue,Waiting Customer
+2097,647,2025-09-25,Pricing Query,Resolved
+2098,437,2025-09-05,Card Issue,Resolved
+2099,688,2025-07-14,Credit Limit,Resolved
+2100,328,2025-01-18,Card Issue,Resolved
+2101,341,2026-02-21,Invoice Query,Resolved
+2102,384,2025-07-31,Credit Limit,Resolved
+2103,434,2025-02-01,Invoice Query,Resolved
+2104,97,2025-10-14,Complaint,Waiting Customer
+2105,51,2025-05-02,Pricing Query,Resolved
+2106,221,2025-05-05,Card Issue,Resolved
+2107,64,2026-03-04,Network Acceptance,Resolved
+2108,486,2026-02-09,,Waiting Customer
+2109,691,2026-04-06,Credit Limit,Open
+2110,570,2026-06-03,Card Issue,Resolved
+2111,419,2025-03-31,Complaint,Waiting Customer
+2112,650,2026-03-12,Credit Limit,Resolved
+2113,426,2025-03-10,Invoice Query,Resolved
+2114,685,2025-09-16,Invoice Query,Open
+2115,380,2026-02-14,Card Issue,Waiting Customer
+2116,172,2026-03-07,Complaint,Resolved
+2117,180,2025-07-19,Pricing Query,Open
+2118,796,2025-10-08,,Open
+2119,643,2025-11-03,Network Acceptance,Open
+2120,263,2025-03-21,Network Acceptance,Resolved
+2121,217,2025-03-20,Pricing Query,Resolved
+2122,575,2025-02-17,Card Issue,Resolved
+2123,442,2025-06-27,Card Issue,Waiting Customer
+2124,136,2025-03-30,Pricing Query,Open
+2125,608,2025-08-01,Card Issue,Resolved
+2126,331,2025-02-28,Credit Limit,Resolved
+2127,561,2025-10-03,Network Acceptance,Resolved
+2128,250,2025-07-23,Pricing Query,Resolved
+2129,688,2025-01-28,,Resolved
+2130,676,2026-04-20,Invoice Query,Resolved
+2131,370,2026-02-20,Complaint,Resolved
+2132,191,2026-02-18,Complaint,Resolved
+2133,347,2025-09-21,Network Acceptance,Resolved
+2134,220,2026-03-22,Network Acceptance,Waiting Customer
+2135,74,2026-05-13,,Resolved
+2136,535,2026-03-15,Complaint,Waiting Customer
+2137,674,2025-01-20,Invoice Query,Waiting Customer
+2138,294,2025-11-17,Credit Limit,Resolved
+2139,645,2025-01-22,Credit Limit,Resolved
+2140,678,2025-01-29,Complaint,Waiting Customer
+2141,720,2026-06-12,Invoice Query,Waiting Customer
+2142,22,2025-05-10,Invoice Query,Open
+2143,422,2025-12-04,Portal Login,Resolved
+2144,58,2026-03-19,Card Issue,Resolved
+2145,165,2025-12-22,Invoice Query,Waiting Customer
+2146,166,2025-01-26,Credit Limit,Open
+2147,453,2025-01-29,Pricing Query,Resolved
+2148,492,2025-10-21,Network Acceptance,Waiting Customer
+2149,418,2026-04-25,Card Issue,Resolved
+2150,441,2025-09-29,Invoice Query,Open
+2151,766,2025-06-24,Portal Login,Resolved
+2152,426,2026-06-08,Network Acceptance,Resolved
+2153,380,2026-02-11,Credit Limit,Open
+2154,145,2026-02-04,Card Issue,Resolved
+2155,612,2025-01-21,Portal Login,Open
+2156,305,2026-01-13,Pricing Query,Resolved
+2157,677,2025-12-16,Portal Login,Open
+2158,115,2025-09-27,Network Acceptance,Resolved
+2159,210,2026-05-26,Pricing Query,Resolved
+2160,381,2025-05-03,Pricing Query,Open
+2161,833,2025-06-16,Card Issue,Resolved
+2162,179,2025-05-24,Invoice Query,Resolved
+2163,339,2025-10-23,Card Issue,Waiting Customer
+2164,130,2025-10-25,Pricing Query,Waiting Customer
+2165,709,2025-07-09,Pricing Query,Resolved
+2166,808,2026-01-25,Network Acceptance,Open
+2167,267,2025-07-15,Network Acceptance,Waiting Customer
+2168,661,2025-01-16,Pricing Query,Resolved
+2169,352,2025-12-11,Invoice Query,Resolved
+2170,682,2025-09-23,Network Acceptance,Resolved
+2171,646,2025-08-16,Portal Login,Resolved
+2172,293,2025-09-16,Portal Login,Resolved
+2173,468,2025-01-12,Complaint,Resolved
+2174,778,2025-10-17,Invoice Query,Waiting Customer
+2175,139,2025-07-08,Card Issue,Resolved
+2176,112,2025-08-07,Complaint,Resolved
+2177,318,2025-08-06,Credit Limit,Resolved
+2178,249,2025-08-25,Card Issue,Open
+2179,709,2025-03-10,Complaint,Resolved
+2180,252,2025-08-30,Credit Limit,Open
+2181,185,2025-01-07,Invoice Query,Resolved
+2182,834,2026-03-13,Card Issue,Waiting Customer
+2183,335,2025-01-28,Pricing Query,Resolved
+2184,210,2025-02-27,Card Issue,Waiting Customer
+2185,611,2025-05-19,Complaint,Resolved
+2186,765,2025-07-24,Pricing Query,Resolved
+2187,284,2025-04-23,Complaint,Resolved
+2188,441,2026-04-13,Complaint,Open
+2189,580,2026-05-31,Complaint,Open
+2190,375,2026-05-03,Card Issue,Resolved
+2191,25,2025-04-24,Complaint,Resolved
+2192,766,2025-11-24,Complaint,Resolved
+2193,530,2026-01-04,Network Acceptance,Open
+2194,137,2026-03-10,Pricing Query,Resolved
+2195,751,2025-11-08,Pricing Query,Waiting Customer
+2196,236,2025-12-25,Portal Login,Open
+2197,228,2025-04-05,Portal Login,Resolved
+2198,444,2025-08-13,Portal Login,Resolved
+2199,206,2025-10-14,Network Acceptance,Resolved
+2200,703,2025-03-19,Network Acceptance,Resolved
+2201,262,2025-08-05,Network Acceptance,Waiting Customer
+2202,604,2026-06-16,Invoice Query,Resolved
+2203,696,2026-06-27,Credit Limit,Resolved
+2204,1,2025-01-28,Invoice Query,Resolved
+2205,330,2026-04-23,Credit Limit,Waiting Customer
+2206,491,2025-05-31,Invoice Query,Resolved
+2207,637,2026-05-28,Network Acceptance,Open
+2208,376,2025-02-25,,Open
+2209,235,2026-06-08,Invoice Query,Resolved
+2210,347,2026-06-10,Pricing Query,Resolved
+2211,456,2026-02-07,Pricing Query,Resolved
+2212,306,2025-06-29,Portal Login,Waiting Customer
+2213,256,2025-09-20,Portal Login,Resolved
+2214,384,2025-03-13,Card Issue,Resolved
+2215,311,2025-10-19,Card Issue,Resolved
+2216,233,2026-01-30,Complaint,Resolved
+2217,350,2025-02-07,Invoice Query,Open
+2218,757,2025-03-31,Complaint,Open
+2219,813,2025-01-24,Portal Login,Open
+2220,170,2025-03-30,Card Issue,Open
+2221,634,2025-06-22,Network Acceptance,Resolved
+2222,288,2025-09-13,Pricing Query,Resolved
+2223,790,2025-07-03,Pricing Query,Open
+2224,116,2025-02-17,Portal Login,Resolved
+2225,485,2025-08-28,Portal Login,Waiting Customer
+2226,3,2025-03-29,Pricing Query,Resolved
+2227,205,2025-04-30,Credit Limit,Resolved
+2228,837,2025-01-24,Network Acceptance,Open
+2229,652,2025-05-09,Credit Limit,Open
+2230,7,2025-03-01,Card Issue,Waiting Customer
+2231,792,2026-04-10,Credit Limit,Open
+2232,494,2026-06-09,Card Issue,Resolved
+2233,472,2025-09-13,Card Issue,Waiting Customer
+2234,810,2025-03-05,Card Issue,Waiting Customer
+2235,822,2026-04-23,Portal Login,Resolved
+2236,192,2025-02-20,Credit Limit,Resolved
+2237,182,2025-10-09,Credit Limit,Resolved
+2238,374,2025-04-03,Card Issue,Resolved
+2239,394,2026-04-05,Pricing Query,Resolved
+2240,2,2025-10-19,Card Issue,Open
+2241,623,2026-03-20,Card Issue,Resolved
+2242,388,2025-06-06,Complaint,Resolved
+2243,156,2025-09-17,Pricing Query,Resolved
+2244,263,2025-09-30,Network Acceptance,Waiting Customer
+2245,239,2025-05-20,Invoice Query,Resolved
+2246,304,2026-05-08,Portal Login,Waiting Customer
+2247,541,2025-12-28,Card Issue,Waiting Customer
+2248,37,2026-01-09,Network Acceptance,Waiting Customer
+2249,580,2025-08-09,Complaint,Waiting Customer
+2250,829,2025-09-08,Card Issue,Waiting Customer
+2251,18,2026-01-29,Card Issue,Resolved
+2252,697,2025-03-08,Card Issue,Resolved
+2253,711,2025-01-29,Network Acceptance,Resolved
+2254,830,2026-03-13,Pricing Query,Resolved
+2255,375,2025-03-12,Invoice Query,Waiting Customer
+2256,164,2026-05-13,Credit Limit,Resolved
+2257,63,2025-02-16,Invoice Query,Resolved
+2258,370,2025-05-02,Network Acceptance,Waiting Customer
+2259,338,2025-03-21,Card Issue,Waiting Customer
+2260,360,2025-09-08,Invoice Query,Resolved
+2261,409,2025-10-15,Portal Login,Resolved
+2262,453,2026-06-10,Pricing Query,Resolved
+2263,659,2026-04-23,Card Issue,Waiting Customer
+2264,367,2025-07-09,Credit Limit,Resolved
+2265,763,2026-06-16,Network Acceptance,Resolved
+2266,628,2026-04-06,Complaint,Open
+2267,745,2026-02-23,Credit Limit,Resolved
+2268,7,2025-08-27,Portal Login,Resolved
+2269,789,2025-11-11,Invoice Query,Resolved
+2270,307,2025-09-02,Portal Login,Waiting Customer
+2271,795,2025-11-21,Portal Login,Resolved
+2272,20,2025-08-01,Complaint,Resolved
+2273,218,2025-08-05,,Open
+2274,455,2026-03-17,Network Acceptance,Resolved
+2275,191,2025-03-01,Card Issue,Resolved
+2276,512,2026-03-18,Pricing Query,Waiting Customer
+2277,440,2025-09-12,Credit Limit,Resolved
+2278,787,2026-02-16,Network Acceptance,Resolved
+2279,316,2026-03-12,Network Acceptance,Resolved
+2280,174,2025-12-26,Pricing Query,Open
+2281,469,2025-11-14,Card Issue,Open
+2282,628,2026-02-28,Card Issue,Resolved
+2283,368,2026-04-17,Credit Limit,Resolved
+2284,737,2025-11-16,Credit Limit,Open
+2285,314,2026-01-01,Complaint,Resolved
+2286,505,2025-02-13,Invoice Query,Waiting Customer
+2287,818,2025-05-23,Pricing Query,Waiting Customer
+2288,83,2025-10-21,Complaint,Open
+2289,233,2026-01-25,Invoice Query,Open
+2290,279,2026-04-14,Complaint,Resolved
+2291,685,2025-06-04,Pricing Query,Open
+2292,800,2026-03-19,Card Issue,Open
+2293,86,2025-11-01,Card Issue,Open
+2294,107,2026-02-05,Portal Login,Open
+2295,236,2025-09-17,Complaint,Waiting Customer
+2296,55,2025-12-22,Card Issue,Open
+2297,671,2026-01-29,Pricing Query,Open
+2298,670,2025-07-13,Complaint,Resolved
+2299,609,2025-05-11,Complaint,Resolved
+2300,153,2026-02-23,Invoice Query,Resolved
+2301,66,2026-03-27,Complaint,Resolved
+2302,686,2026-03-01,,Resolved
+2303,599,2025-08-21,Complaint,Resolved
+2304,584,2025-01-27,Invoice Query,Open
+2305,211,2026-03-22,Credit Limit,Open
+2306,607,2025-04-29,Invoice Query,Open
+2307,457,2025-06-05,Invoice Query,Resolved
+2308,76,2026-02-25,Portal Login,Resolved
+2309,263,2025-11-20,Complaint,Waiting Customer
+2310,61,2025-12-20,Card Issue,Open
+2311,394,2025-07-01,Pricing Query,Waiting Customer
+2312,148,2025-08-04,Card Issue,Resolved
+2313,567,2025-07-15,Credit Limit,Waiting Customer
+2314,99,2025-11-29,Complaint,Waiting Customer
+2315,198,2025-02-05,Pricing Query,Resolved
+2316,111,2025-04-27,,Waiting Customer
+2317,233,2026-06-05,Pricing Query,Resolved
+2318,540,2026-01-03,Network Acceptance,Resolved
+2319,10,2025-08-18,Invoice Query,Waiting Customer
+2320,619,2026-05-24,Pricing Query,Waiting Customer
+2321,457,2025-08-03,Portal Login,Resolved
+2322,804,2025-04-24,Card Issue,Resolved
+2323,373,2025-03-17,Credit Limit,Resolved
+2324,817,2026-04-16,Network Acceptance,Waiting Customer
+2325,777,2025-01-25,Card Issue,Resolved
+2326,596,2025-08-06,Complaint,Open
+2327,667,2026-06-08,Invoice Query,Open
+2328,377,2025-05-30,Card Issue,Resolved
+2329,570,2026-04-20,Network Acceptance,Open
+2330,44,2025-08-31,Portal Login,Resolved
+2331,319,2025-07-29,,Open
+2332,512,2025-03-18,Pricing Query,Resolved
+2333,342,2025-09-29,Complaint,Resolved
+2334,588,2026-01-24,Portal Login,Resolved
+2335,665,2025-06-27,Network Acceptance,Waiting Customer
+2336,652,2025-07-23,Complaint,Resolved
+2337,769,2025-08-30,Pricing Query,Resolved
+2338,34,2025-12-20,Credit Limit,Waiting Customer
+2339,302,2025-12-17,Card Issue,Resolved
+2340,85,2025-08-17,Invoice Query,Waiting Customer
+2341,398,2025-03-06,Portal Login,Resolved
+2342,518,2025-06-21,Pricing Query,Resolved
+2343,707,2026-01-23,Complaint,Resolved
+2344,433,2025-01-19,Complaint,Open
+2345,27,2026-01-21,Portal Login,Open
+2346,89,2025-10-01,Card Issue,Resolved
+2347,451,2025-03-07,Pricing Query,Open
+2348,406,2025-10-30,Network Acceptance,Resolved
+2349,11,2025-11-10,Credit Limit,Open
+2350,745,2025-06-13,Portal Login,Resolved
+2351,188,2025-11-17,Network Acceptance,Resolved
+2352,695,2026-03-11,Network Acceptance,Waiting Customer
+2353,220,2026-03-03,Card Issue,Open
+2354,79,2025-12-04,Portal Login,Open
+2355,316,2025-03-11,Credit Limit,Open
+2356,450,2026-04-12,Invoice Query,Resolved
+2357,205,2025-11-16,Credit Limit,Waiting Customer
+2358,355,2025-01-10,Invoice Query,Open
+2359,771,2025-05-08,Network Acceptance,Waiting Customer
+2360,224,2025-02-05,Invoice Query,Resolved
+2361,586,2026-04-26,Portal Login,Resolved
+2362,723,2025-10-05,Card Issue,Resolved
+2363,206,2025-10-14,Pricing Query,Open
+2364,752,2026-05-02,Portal Login,Open
+2365,269,2025-09-22,Network Acceptance,Waiting Customer
+2366,201,2026-06-28,Network Acceptance,Open
+2367,429,2026-01-10,Complaint,Resolved
+2368,528,2025-05-14,Credit Limit,Resolved
+2369,32,2026-04-28,Credit Limit,Waiting Customer
+2370,482,2025-11-21,Pricing Query,Waiting Customer
+2371,656,2026-01-08,Complaint,Waiting Customer
+2372,740,2025-09-08,Pricing Query,Open
+2373,682,2025-12-06,Network Acceptance,Resolved
+2374,392,2026-03-05,Network Acceptance,Resolved
+2375,573,2026-02-04,Pricing Query,Waiting Customer
+2376,849,2025-07-05,Credit Limit,Resolved
+2377,236,2025-05-25,Credit Limit,Open
+2378,22,2025-04-13,Credit Limit,Waiting Customer
+2379,365,2025-01-27,Network Acceptance,Resolved
+2380,743,2025-11-15,Card Issue,Resolved
+2381,643,2025-08-19,Card Issue,Resolved
+2382,168,2025-01-08,Pricing Query,Open
+2383,224,2026-02-03,Portal Login,Open
+2384,664,2025-02-28,Pricing Query,Open
+2385,836,2025-02-15,Complaint,Open
+2386,89,2025-09-14,Pricing Query,Open
+2387,624,2025-03-08,Portal Login,Resolved
+2388,471,2025-11-20,Credit Limit,Open
+2389,671,2025-08-17,Pricing Query,Open
+2390,415,2025-04-03,Network Acceptance,Resolved
+2391,620,2025-01-28,Portal Login,Resolved
+2392,181,2025-10-10,Invoice Query,Resolved
+2393,116,2025-09-24,Pricing Query,Resolved
+2394,364,2025-12-11,Card Issue,Resolved
+2395,578,2026-05-02,Credit Limit,Resolved
+2396,542,2025-08-02,Network Acceptance,Open
+2397,14,2025-11-22,Network Acceptance,Open
+2398,840,2025-11-15,Network Acceptance,Resolved
+2399,530,2025-12-23,Invoice Query,Resolved
+2400,382,2025-11-20,Complaint,Resolved
+2401,760,2026-06-28,Portal Login,Resolved
+2402,454,2025-06-20,Pricing Query,Resolved
+2403,850,2026-03-01,Portal Login,Waiting Customer
+2404,142,2026-06-04,Complaint,Open
+2405,70,2025-11-24,Portal Login,Resolved
+2406,837,2026-03-19,Credit Limit,Open
+2407,429,2025-03-08,Complaint,Waiting Customer
+2408,521,2025-12-02,Portal Login,Resolved
+2409,726,2026-05-27,Complaint,Resolved
+2410,402,2026-01-22,Pricing Query,Waiting Customer
+2411,220,2026-05-22,Network Acceptance,Waiting Customer
+2412,83,2025-12-23,Invoice Query,Waiting Customer
+2413,797,2026-05-13,Card Issue,Resolved
+2414,77,2025-11-06,Card Issue,Waiting Customer
+2415,721,2026-05-23,Complaint,Resolved
+2416,312,2025-07-08,,Resolved
+2417,186,2025-07-19,Complaint,Open
+2418,639,2025-12-23,Card Issue,Waiting Customer
+2419,94,2026-01-18,Pricing Query,Waiting Customer
+2420,619,2026-05-07,Credit Limit,Resolved
+2421,446,2025-11-14,Complaint,Resolved
+2422,812,2025-04-26,Card Issue,Resolved
+2423,697,2026-04-09,Pricing Query,Resolved
+2424,81,2025-07-22,Network Acceptance,Open
+2425,805,2025-09-19,Complaint,Resolved
+2426,248,2025-04-02,Complaint,Resolved
+2427,260,2026-04-10,Credit Limit,Open
+2428,324,2025-09-13,Invoice Query,Open
+2429,502,2025-11-06,Complaint,Resolved
+2430,2,2026-06-19,Network Acceptance,Open
+2431,491,2025-01-20,Card Issue,Resolved
+2432,594,2025-04-16,Credit Limit,Resolved
+2433,821,2025-07-25,Portal Login,Resolved
+2434,296,2025-06-04,Credit Limit,Waiting Customer
+2435,689,2025-09-30,Pricing Query,Resolved
+2436,38,2026-04-09,Card Issue,Resolved
+2437,212,2025-01-30,Invoice Query,Resolved
+2438,662,2026-05-27,Invoice Query,Waiting Customer
+2439,196,2025-11-21,Portal Login,Resolved
+2440,80,2025-04-02,,Resolved
+2441,773,2025-05-25,Credit Limit,Resolved
+2442,763,2026-02-28,Invoice Query,Resolved
+2443,130,2026-04-14,Card Issue,Open
+2444,582,2025-05-24,Card Issue,Resolved
+2445,146,2026-05-10,Portal Login,Open
+2446,528,2025-07-19,Invoice Query,Resolved
+2447,84,2025-12-03,Invoice Query,Resolved
+2448,408,2025-10-10,Credit Limit,Resolved
+2449,395,2025-03-10,Complaint,Resolved
+2450,723,2025-08-17,Portal Login,Resolved
+2451,621,2026-02-26,Network Acceptance,Waiting Customer
+2452,113,2025-07-13,Invoice Query,Resolved
+2453,252,2025-07-01,Invoice Query,Resolved
+2454,59,2026-03-14,Network Acceptance,Resolved
+2455,720,2026-05-24,Card Issue,Open
+2456,418,2025-04-16,Credit Limit,Resolved
+2457,321,2025-12-29,Network Acceptance,Waiting Customer
+2458,779,2025-07-06,Pricing Query,Open
+2459,336,2025-07-23,Pricing Query,Resolved
+2460,589,2025-05-05,Credit Limit,Resolved
+2461,844,2025-05-24,,Resolved
+2462,847,2025-10-11,Credit Limit,Resolved
+2463,35,2026-04-23,Invoice Query,Resolved
+2464,241,2025-06-01,Card Issue,Open
+2465,455,2025-12-19,Pricing Query,Open
+2466,96,2025-04-05,Complaint,Resolved
+2467,500,2025-08-25,Pricing Query,Resolved
+2468,591,2025-05-09,Credit Limit,Waiting Customer
+2469,707,2026-01-05,Invoice Query,Open
+2470,90,2025-10-19,Portal Login,Waiting Customer
+2471,240,2026-06-18,Network Acceptance,Waiting Customer
+2472,220,2025-06-01,Portal Login,Resolved
+2473,641,2026-06-17,Card Issue,Resolved
+2474,690,2025-03-21,Portal Login,Open
+2475,252,2025-06-13,Credit Limit,Open
+2476,460,2025-09-06,Complaint,Resolved
+2477,839,2025-12-15,Network Acceptance,Open
+2478,796,2026-01-14,Pricing Query,Resolved
+2479,65,2025-12-07,Pricing Query,Resolved
+2480,605,2026-04-20,Pricing Query,Resolved
+2481,561,2025-02-12,Pricing Query,Resolved
+2482,670,2025-08-24,Pricing Query,Resolved
+2483,18,2025-09-22,Portal Login,Resolved
+2484,463,2025-10-06,Invoice Query,Waiting Customer
+2485,586,2026-04-07,Invoice Query,Resolved
+2486,699,2025-09-26,Pricing Query,Resolved
+2487,704,2025-04-12,Invoice Query,Waiting Customer
+2488,664,2026-03-09,Pricing Query,Resolved
+2489,745,2025-10-01,,Resolved
+2490,554,2026-05-06,Pricing Query,Resolved
+2491,148,2026-06-03,Complaint,Waiting Customer
+2492,182,2026-04-30,Invoice Query,Resolved
+2493,516,2025-12-21,Pricing Query,Resolved
+2494,42,2025-03-05,Card Issue,Resolved
+2495,135,2025-08-06,Network Acceptance,Resolved
+2496,207,2025-10-18,Portal Login,Resolved
+2497,461,2026-05-16,Pricing Query,Resolved
+2498,29,2026-06-10,Network Acceptance,Resolved
+2499,689,2025-01-25,Card Issue,Resolved
+2500,334,2025-08-24,Card Issue,Resolved
+2501,687,2025-03-19,Pricing Query,Waiting Customer
+2502,339,2025-03-23,Network Acceptance,Waiting Customer
+2503,764,2025-05-30,Invoice Query,Resolved
+2504,564,2025-02-21,Invoice Query,Resolved
+2505,513,2026-06-06,Complaint,Resolved
+2506,190,2025-04-24,Card Issue,Resolved
+2507,497,2025-06-27,Credit Limit,Resolved
+2508,185,2025-06-06,Pricing Query,Resolved
+2509,399,2026-02-17,Network Acceptance,Open
+2510,473,2026-04-21,Complaint,Open
+2511,518,2025-09-08,Complaint,Waiting Customer
+2512,165,2025-04-14,Complaint,Resolved
+2513,552,2026-01-09,Credit Limit,Resolved
+2514,402,2025-04-11,Network Acceptance,Open
+2515,485,2026-05-04,Portal Login,Resolved
+2516,231,2026-02-16,Portal Login,Open
+2517,772,2025-10-11,Network Acceptance,Resolved
+2518,518,2025-12-26,Pricing Query,Resolved
+2519,344,2025-12-13,Network Acceptance,Resolved
+2520,122,2026-05-21,,Resolved
+2521,792,2026-02-23,Card Issue,Resolved
+2522,437,2026-06-14,Portal Login,Resolved
+2523,495,2025-12-13,Network Acceptance,Open
+2524,547,2025-09-21,Credit Limit,Waiting Customer
+2525,249,2025-01-06,Portal Login,Resolved
+2526,65,2025-08-28,Invoice Query,Open
+2527,815,2026-01-30,Card Issue,Resolved
+2528,220,2025-06-16,Card Issue,Resolved
+2529,546,2025-10-09,Complaint,Waiting Customer
+2530,535,2026-01-15,Credit Limit,Open
+2531,762,2025-08-14,Complaint,Waiting Customer
+2532,399,2025-04-22,Credit Limit,Waiting Customer
+2533,447,2025-12-27,Credit Limit,Resolved
+2534,202,2026-02-22,Network Acceptance,Resolved
+2535,243,2026-05-30,Card Issue,Open
+2536,164,2025-07-19,Pricing Query,Resolved
+2537,740,2026-06-19,Card Issue,Waiting Customer
+2538,146,2025-05-26,Pricing Query,Open
+2539,631,2026-05-05,Network Acceptance,Resolved
+2540,318,2025-05-05,Portal Login,Resolved
+2541,136,2026-03-02,Complaint,Open
+2542,143,2025-11-14,Complaint,Waiting Customer
+2543,742,2025-07-14,Credit Limit,Waiting Customer
+2544,555,2025-07-31,Network Acceptance,Open
+2545,81,2025-10-27,Pricing Query,Resolved
+2546,835,2025-01-03,Pricing Query,Open
+2547,702,2026-06-16,Portal Login,Open
+2548,147,2026-05-16,Credit Limit,Resolved
+2549,593,2025-09-24,Invoice Query,Waiting Customer
+2550,67,2025-04-20,Credit Limit,Waiting Customer
+2551,620,2025-04-11,Pricing Query,Resolved
+2552,406,2026-03-30,Credit Limit,Resolved
+2553,93,2025-07-10,Complaint,Waiting Customer
+2554,445,2026-06-18,Invoice Query,Resolved
+2555,305,2026-05-03,Credit Limit,Resolved
+2556,795,2026-02-21,Pricing Query,Open
+2557,40,2026-02-02,Portal Login,Waiting Customer
+2558,848,2025-08-17,Pricing Query,Resolved
+2559,192,2025-11-24,Complaint,Open
+2560,81,2026-02-16,Invoice Query,Waiting Customer
+2561,238,2025-08-29,Pricing Query,Resolved
+2562,472,2025-02-11,Credit Limit,Resolved
+2563,740,2025-11-22,Complaint,Waiting Customer
+2564,173,2025-06-09,Complaint,Waiting Customer
+2565,793,2026-03-10,Pricing Query,Resolved
+2566,247,2026-06-22,Credit Limit,Resolved
+2567,533,2026-06-18,Network Acceptance,Resolved
+2568,335,2026-03-06,Credit Limit,Open
+2569,448,2025-04-21,Invoice Query,Resolved
+2570,131,2025-06-10,Complaint,Resolved
+2571,236,2026-05-15,Pricing Query,Open
+2572,842,2025-03-31,Credit Limit,Resolved
+2573,376,2025-07-22,Pricing Query,Open
+2574,71,2025-07-25,Portal Login,Waiting Customer
+2575,846,2026-02-22,Credit Limit,Open
+2576,374,2025-12-09,Invoice Query,Waiting Customer
+2577,234,2025-12-13,Complaint,Open
+2578,620,2025-05-30,Portal Login,Resolved
+2579,746,2025-06-29,Pricing Query,Resolved
+2580,627,2026-01-11,Complaint,Open
+2581,163,2025-10-11,Credit Limit,Resolved
+2582,478,2025-11-18,Complaint,Resolved
+2583,330,2026-01-25,Complaint,Resolved
+2584,255,2025-11-27,Card Issue,Waiting Customer
+2585,214,2025-06-25,Portal Login,Open
+2586,196,2025-08-22,Network Acceptance,Resolved
+2587,61,2025-01-26,Complaint,Resolved
+2588,622,2025-12-15,Credit Limit,Waiting Customer
+2589,157,2025-06-29,Complaint,Resolved
+2590,1,2025-12-12,Card Issue,Waiting Customer
+2591,532,2026-03-22,Pricing Query,Resolved
+2592,72,2025-07-11,Invoice Query,Resolved
+2593,723,2025-09-04,Pricing Query,Resolved
+2594,296,2025-05-08,Complaint,Resolved
+2595,303,2025-03-13,Invoice Query,Resolved
+2596,555,2025-09-28,Network Acceptance,Open
+2597,483,2026-04-07,Card Issue,Resolved
+2598,433,2025-07-19,Card Issue,Waiting Customer
+2599,38,2026-02-06,Portal Login,Open
+2600,159,2026-04-29,Invoice Query,Resolved
+2601,638,2026-05-20,,Resolved
+2602,120,2025-05-27,Complaint,Waiting Customer
+2603,116,2025-05-03,,Resolved
+2604,282,2025-01-13,Pricing Query,Open
+2605,59,2025-01-01,Card Issue,Open
+2606,283,2025-03-08,Network Acceptance,Resolved
+2607,94,2025-11-29,,Resolved
+2608,729,2026-04-17,Portal Login,Waiting Customer
+2609,222,2026-04-03,Card Issue,Waiting Customer
+2610,476,2026-02-15,Invoice Query,Waiting Customer
+2611,459,2026-05-23,Credit Limit,Waiting Customer
+2612,216,2025-05-23,Network Acceptance,Resolved
+2613,231,2025-06-09,Network Acceptance,Waiting Customer
+2614,667,2026-04-17,Complaint,Resolved
+2615,706,2025-08-26,Complaint,Resolved
+2616,132,2025-08-09,Credit Limit,Resolved
+2617,742,2026-02-04,Network Acceptance,Resolved
+2618,457,2026-06-28,Invoice Query,Open
+2619,684,2026-05-19,Credit Limit,Resolved
+2620,112,2025-03-24,Invoice Query,Waiting Customer
+2621,722,2025-09-09,Credit Limit,Resolved
+2622,184,2026-02-06,Portal Login,Waiting Customer
+2623,494,2025-05-23,Card Issue,Resolved
+2624,160,2025-09-02,Pricing Query,Resolved
+2625,486,2026-01-18,Invoice Query,Waiting Customer
+2626,702,2025-08-04,Complaint,Resolved
+2627,562,2026-02-23,Complaint,Resolved
+2628,291,2026-01-10,Portal Login,Resolved
+2629,143,2025-11-01,Card Issue,Resolved
+2630,250,2025-09-07,Credit Limit,Resolved
+2631,224,2025-05-16,Network Acceptance,Open
+2632,285,2025-08-08,Credit Limit,Resolved
+2633,428,2025-10-22,Credit Limit,Resolved
+2634,479,2026-02-18,Invoice Query,Resolved
+2635,338,2026-01-03,Network Acceptance,Resolved
+2636,142,2025-11-11,Complaint,Resolved
+2637,692,2025-03-01,Credit Limit,Resolved
+2638,613,2025-01-23,Complaint,Resolved
+2639,341,2025-07-22,Network Acceptance,Resolved
+2640,386,2025-02-01,Pricing Query,Waiting Customer
+2641,689,2025-07-29,Portal Login,Resolved
+2642,539,2026-06-24,Network Acceptance,Resolved
+2643,232,2025-02-26,Pricing Query,Resolved
+2644,2,2026-04-12,Invoice Query,Resolved
+2645,282,2025-11-28,Portal Login,Resolved
+2646,836,2025-01-13,Card Issue,Resolved
+2647,470,2025-10-22,Pricing Query,Open
+2648,697,2025-05-01,Credit Limit,Resolved
+2649,572,2025-03-31,Complaint,Waiting Customer
+2650,224,2025-12-27,Card Issue,Resolved
+2651,295,2025-02-16,Complaint,Open
+2652,827,2025-05-10,Network Acceptance,Resolved
+2653,623,2025-07-06,Credit Limit,Waiting Customer
+2654,175,2025-08-08,Invoice Query,Resolved
+2655,440,2025-12-29,Complaint,Waiting Customer
+2656,678,2025-01-10,Pricing Query,Resolved
+2657,635,2025-03-19,Network Acceptance,Open
+2658,390,2026-02-26,Portal Login,Open
+2659,280,2025-05-19,,Resolved
+2660,345,2025-10-09,Invoice Query,Resolved
+2661,119,2026-06-13,Complaint,Waiting Customer
+2662,731,2025-08-24,Invoice Query,Resolved
+2663,835,2025-08-15,Network Acceptance,Resolved
+2664,491,2025-07-09,Credit Limit,Resolved
+2665,521,2025-01-20,Portal Login,Waiting Customer
+2666,342,2025-02-21,Complaint,Resolved
+2667,195,2026-04-13,Portal Login,Resolved
+2668,525,2026-03-05,Pricing Query,Waiting Customer
+2669,485,2026-04-28,Card Issue,Resolved
+2670,487,2026-04-11,Portal Login,Resolved
+2671,386,2025-06-28,Credit Limit,Resolved
+2672,114,2026-02-26,Network Acceptance,Resolved
+2673,843,2026-01-20,Network Acceptance,Waiting Customer
+2674,591,2025-02-20,Network Acceptance,Resolved
+2675,9,2026-01-12,Network Acceptance,Open
+2676,475,2025-07-14,Pricing Query,Resolved
+2677,70,2026-02-07,Network Acceptance,Waiting Customer
+2678,308,2025-09-20,Card Issue,Resolved
+2679,469,2025-09-15,Credit Limit,Open
+2680,299,2025-09-18,Invoice Query,Resolved
+2681,326,2025-03-26,Network Acceptance,Waiting Customer
+2682,469,2025-08-05,Invoice Query,Open
+2683,290,2025-04-07,Invoice Query,Resolved
+2684,614,2025-12-07,Card Issue,Resolved
+2685,723,2026-05-11,Pricing Query,Resolved
+2686,406,2025-02-22,Network Acceptance,Open
+2687,393,2026-06-10,Pricing Query,Waiting Customer
+2688,163,2025-06-17,Invoice Query,Resolved
+2689,797,2025-05-06,Network Acceptance,Resolved
+2690,441,2026-01-12,Pricing Query,Waiting Customer
+2691,615,2025-06-20,Invoice Query,Waiting Customer
+2692,342,2025-09-01,Invoice Query,Open
+2693,194,2025-04-04,Pricing Query,Open
+2694,204,2026-04-02,Card Issue,Resolved
+2695,156,2025-10-26,Invoice Query,Waiting Customer
+2696,413,2026-04-02,Card Issue,Resolved
+2697,845,2026-04-28,,Resolved
+2698,398,2026-03-20,Network Acceptance,Open
+2699,218,2026-06-07,Complaint,Resolved
+2700,546,2025-04-01,Portal Login,Waiting Customer
+2701,309,2025-06-25,Credit Limit,Resolved
+2702,343,2025-02-19,Complaint,Open
+2703,813,2026-05-31,Portal Login,Resolved
+2704,444,2025-10-21,Portal Login,Open
+2705,481,2025-08-14,Invoice Query,Open
+2706,415,2025-03-06,Card Issue,Resolved
+2707,570,2026-04-11,Complaint,Open
+2708,49,2025-03-13,Complaint,Waiting Customer
+2709,236,2025-06-01,Complaint,Resolved
+2710,531,2026-01-31,Network Acceptance,Resolved
+2711,643,2026-04-01,Complaint,Resolved
+2712,699,2025-11-05,Network Acceptance,Waiting Customer
+2713,755,2026-03-18,Card Issue,Waiting Customer
+2714,804,2026-03-06,Credit Limit,Waiting Customer
+2715,518,2025-11-14,Invoice Query,Resolved
+2716,5,2025-11-26,Pricing Query,Resolved
+2717,360,2026-06-19,Invoice Query,Resolved
+2718,354,2025-09-07,Credit Limit,Waiting Customer
+2719,197,2026-03-23,Card Issue,Resolved
+2720,87,2026-02-04,Credit Limit,Waiting Customer
+2721,680,2026-06-07,Credit Limit,Open
+2722,485,2025-04-20,Pricing Query,Open
+2723,656,2026-06-12,Portal Login,Resolved
+2724,343,2025-09-05,,Resolved
+2725,401,2025-11-30,Credit Limit,Resolved
+2726,156,2025-08-04,Credit Limit,Waiting Customer
+2727,372,2026-03-05,Credit Limit,Open
+2728,338,2026-01-19,Complaint,Resolved
+2729,125,2025-12-09,Pricing Query,Resolved
+2730,649,2025-07-06,Portal Login,Resolved
+2731,522,2025-06-05,Invoice Query,Resolved
+2732,179,2025-12-11,Pricing Query,Waiting Customer
+2733,296,2025-11-10,Network Acceptance,Resolved
+2734,575,2025-04-26,Invoice Query,Resolved
+2735,304,2025-03-21,Credit Limit,Open
+2736,846,2025-10-27,Invoice Query,Open
+2737,26,2026-05-11,Credit Limit,Waiting Customer
+2738,833,2025-10-29,Pricing Query,Resolved
+2739,163,2025-05-05,Credit Limit,Waiting Customer
+2740,97,2026-06-21,Complaint,Resolved
+2741,268,2025-10-29,Network Acceptance,Waiting Customer
+2742,347,2026-04-18,Invoice Query,Resolved
+2743,380,2026-02-10,Portal Login,Waiting Customer
+2744,479,2026-02-06,Credit Limit,Open
+2745,693,2025-04-22,Credit Limit,Waiting Customer
+2746,32,2025-09-10,Credit Limit,Waiting Customer
+2747,603,2026-06-16,Network Acceptance,Resolved
+2748,292,2025-07-22,Credit Limit,Resolved
+2749,614,2025-09-22,Portal Login,Resolved
+2750,695,2025-03-31,Complaint,Resolved
+2751,43,2025-06-11,Invoice Query,Resolved
+2752,692,2025-01-27,Complaint,Resolved
+2753,25,2025-04-12,Pricing Query,Waiting Customer
+2754,10,2026-06-06,Card Issue,Resolved
+2755,122,2025-09-13,Credit Limit,Waiting Customer
+2756,521,2025-04-21,Credit Limit,Resolved
+2757,232,2025-01-03,Card Issue,Open
+2758,752,2025-03-26,Complaint,Open
+2759,16,2025-02-23,Card Issue,Waiting Customer
+2760,206,2025-04-18,Pricing Query,Resolved
+2761,198,2025-04-21,Credit Limit,Resolved
+2762,42,2025-01-14,Pricing Query,Resolved
+2763,104,2025-10-13,Complaint,Resolved
+2764,78,2025-05-20,Complaint,Resolved
+2765,219,2025-11-01,Credit Limit,Resolved
+2766,178,2025-04-15,Portal Login,Resolved
+2767,524,2025-04-24,Portal Login,Resolved
+2768,333,2025-02-23,Card Issue,Open
+2769,156,2026-02-22,Network Acceptance,Waiting Customer
+2770,639,2025-03-30,Card Issue,Resolved
+2771,150,2025-01-23,Portal Login,Waiting Customer
+2772,609,2025-11-07,Portal Login,Resolved
+2773,655,2025-11-22,Credit Limit,Waiting Customer
+2774,574,2025-08-08,Credit Limit,Waiting Customer
+2775,48,2025-07-26,Credit Limit,Resolved
+2776,593,2026-01-15,Pricing Query,Resolved
+2777,682,2025-10-29,Invoice Query,Resolved
+2778,186,2026-04-19,Invoice Query,Waiting Customer
+2779,321,2026-03-06,Portal Login,Resolved
+2780,237,2025-02-19,Portal Login,Resolved
+2781,577,2025-10-11,Credit Limit,Open
+2782,447,2025-01-30,Invoice Query,Waiting Customer
+2783,733,2025-06-26,Network Acceptance,Resolved
+2784,487,2025-12-14,Complaint,Open
+2785,622,2025-10-18,Credit Limit,Waiting Customer
+2786,832,2026-02-27,Pricing Query,Resolved
+2787,411,2025-05-23,Pricing Query,Resolved
+2788,789,2025-06-30,Network Acceptance,Resolved
+2789,33,2026-04-05,Complaint,Resolved
+2790,290,2025-04-30,Credit Limit,Open
+2791,2,2025-03-06,Invoice Query,Waiting Customer
+2792,616,2026-06-06,Network Acceptance,Open
+2793,407,2025-12-23,Complaint,Open
+2794,487,2025-10-01,Network Acceptance,Resolved
+2795,34,2025-02-28,Credit Limit,Waiting Customer
+2796,698,2025-10-10,,Resolved
+2797,311,2025-05-26,Network Acceptance,Waiting Customer
+2798,624,2025-10-26,Portal Login,Resolved
+2799,616,2025-07-10,Card Issue,Open
+2800,748,2025-03-08,Credit Limit,Open
+2801,402,2025-07-05,Portal Login,Open
+2802,15,2026-03-29,Pricing Query,Open
+2803,112,2026-03-08,Credit Limit,Resolved
+2804,514,2025-02-11,Portal Login,Resolved
+2805,247,2025-09-11,Complaint,Open
+2806,130,2025-06-16,Network Acceptance,Resolved
+2807,43,2025-12-20,Invoice Query,Open
+2808,484,2025-03-19,,Resolved
+2809,668,2025-06-22,Portal Login,Open
+2810,370,2025-11-10,Card Issue,Waiting Customer
+2811,94,2026-02-14,Invoice Query,Waiting Customer
+2812,28,2025-05-28,Credit Limit,Waiting Customer
+2813,673,2025-04-29,Pricing Query,Waiting Customer
+2814,508,2025-09-15,Invoice Query,Resolved
+2815,201,2026-05-05,Credit Limit,Resolved
+2816,284,2025-08-04,Network Acceptance,Resolved
+2817,545,2025-07-02,Portal Login,Waiting Customer
+2818,559,2025-07-03,Network Acceptance,Resolved
+2819,186,2025-07-19,Credit Limit,Resolved
+2820,451,2025-08-21,Card Issue,Resolved
+2821,663,2026-02-19,Portal Login,Open
+2822,6,2025-06-20,Complaint,Resolved
+2823,441,2025-05-09,Network Acceptance,Open
+2824,416,2026-04-04,Pricing Query,Waiting Customer
+2825,386,2026-01-27,Portal Login,Resolved
+2826,185,2025-06-29,Pricing Query,Resolved
+2827,423,2026-04-11,Complaint,Resolved
+2828,817,2026-05-25,Complaint,Waiting Customer
+2829,579,2025-06-01,Complaint,Resolved
+2830,844,2026-01-05,Complaint,Resolved
+2831,762,2025-11-19,Card Issue,Open
+2832,91,2025-11-30,Network Acceptance,Open
+2833,444,2025-09-09,Portal Login,Resolved
+2834,81,2025-09-26,Credit Limit,Resolved
+2835,391,2025-01-24,Portal Login,Resolved
+2836,369,2025-11-22,Invoice Query,Resolved
+2837,46,2026-01-27,Pricing Query,Resolved
+2838,606,2025-07-20,Portal Login,Waiting Customer
+2839,445,2026-02-10,Credit Limit,Open
+2840,708,2026-01-17,Complaint,Resolved
+2841,165,2026-04-03,Network Acceptance,Waiting Customer
+2842,119,2025-10-02,Credit Limit,Open
+2843,55,2026-02-28,Credit Limit,Open
+2844,138,2026-03-07,Portal Login,Resolved
+2845,518,2025-04-06,Invoice Query,Waiting Customer
+2846,336,2025-08-09,Pricing Query,Resolved
+2847,568,2025-12-06,Credit Limit,Resolved
+2848,576,2025-07-16,Card Issue,Resolved
+2849,618,2025-05-31,Portal Login,Waiting Customer
+2850,765,2025-07-26,Card Issue,Waiting Customer
+2851,387,2025-11-02,Complaint,Resolved
+2852,209,2026-05-19,Portal Login,Open
+2853,340,2025-03-14,Credit Limit,Resolved
+2854,568,2025-08-16,Credit Limit,Resolved
+2855,794,2026-05-02,Complaint,Resolved
+2856,833,2025-09-04,Network Acceptance,Open
+2857,316,2025-10-20,Invoice Query,Resolved
+2858,402,2025-03-29,Credit Limit,Resolved
+2859,245,2026-01-18,Invoice Query,Resolved
+2860,545,2025-08-18,Complaint,Resolved
+2861,155,2025-01-27,Card Issue,Waiting Customer
+2862,806,2025-09-10,Invoice Query,Resolved
+2863,624,2025-08-16,Portal Login,Resolved
+2864,63,2026-02-15,Complaint,Resolved
+2865,171,2026-03-04,Card Issue,Waiting Customer
+2866,418,2026-05-27,Credit Limit,Resolved
+2867,268,2026-04-23,Pricing Query,Resolved
+2868,337,2025-11-12,Network Acceptance,Waiting Customer
+2869,125,2025-08-01,Credit Limit,Resolved
+2870,321,2026-06-18,Complaint,Resolved
+2871,827,2026-03-03,Portal Login,Open
+2872,428,2025-07-17,Network Acceptance,Resolved
+2873,152,2026-05-10,Invoice Query,Open
+2874,704,2026-01-04,Card Issue,Open
+2875,272,2025-06-25,Portal Login,Open
+2876,728,2026-04-17,Complaint,Resolved
+2877,751,2026-03-06,,Resolved
+2878,546,2025-06-20,Portal Login,Open
+2879,676,2025-04-11,Network Acceptance,Resolved
+2880,560,2025-05-26,Credit Limit,Resolved
+2881,205,2026-06-29,Network Acceptance,Resolved
+2882,662,2025-10-24,Portal Login,Waiting Customer
+2883,466,2026-05-17,Network Acceptance,Resolved
+2884,219,2026-01-23,Credit Limit,Resolved
+2885,48,2025-08-10,Network Acceptance,Waiting Customer
+2886,104,2026-03-06,Invoice Query,Resolved
+2887,202,2026-04-07,Credit Limit,Resolved
+2888,429,2025-10-07,Portal Login,Resolved
+2889,688,2026-05-16,Network Acceptance,Resolved
+2890,431,2026-04-12,Network Acceptance,Waiting Customer
+2891,570,2025-09-07,,Waiting Customer
+2892,422,2025-11-01,Invoice Query,Waiting Customer
+2893,837,2025-01-18,Complaint,Resolved
+2894,197,2025-11-22,Pricing Query,Resolved
+2895,482,2025-08-12,Complaint,Open
+2896,515,2026-01-07,Credit Limit,Resolved
+2897,460,2025-06-02,Portal Login,Resolved
+2898,101,2025-03-18,Complaint,Waiting Customer
+2899,271,2025-01-06,Credit Limit,Waiting Customer
+2900,429,2025-09-16,Network Acceptance,Resolved
+2901,736,2026-04-03,Complaint,Resolved
+2902,606,2025-02-03,Credit Limit,Waiting Customer
+2903,424,2025-06-26,,Resolved
+2904,599,2025-12-22,Portal Login,Open
+2905,475,2025-11-17,Portal Login,Open
+2906,451,2025-08-08,Card Issue,Resolved
+2907,715,2025-07-08,Card Issue,Resolved
+2908,454,2026-06-19,,Open
+2909,271,2025-03-14,Card Issue,Resolved
+2910,613,2025-06-11,Network Acceptance,Resolved
+2911,796,2026-03-30,Credit Limit,Open
+2912,353,2025-12-24,Network Acceptance,Resolved
+2913,27,2025-09-08,Pricing Query,Resolved
+2914,357,2025-09-18,Pricing Query,Resolved
+2915,530,2025-06-02,Complaint,Open
+2916,684,2025-06-27,Network Acceptance,Open
+2917,262,2025-02-06,Credit Limit,Waiting Customer
+2918,636,2026-03-25,Credit Limit,Resolved
+2919,536,2025-01-25,Pricing Query,Resolved
+2920,814,2025-08-23,Complaint,Resolved
+2921,742,2026-01-04,Credit Limit,Resolved
+2922,223,2026-02-02,Complaint,Resolved
+2923,597,2025-10-01,Portal Login,Resolved
+2924,548,2025-04-11,Pricing Query,Resolved
+2925,791,2025-05-09,Invoice Query,Resolved
+2926,721,2025-07-07,Network Acceptance,Open
+2927,296,2026-06-08,Complaint,Resolved
+2928,665,2025-06-15,,Resolved
+2929,615,2025-08-03,Credit Limit,Resolved
+2930,657,2025-09-07,Complaint,Waiting Customer
+2931,255,2026-05-06,Credit Limit,Resolved
+2932,266,2026-03-12,Credit Limit,Resolved
+2933,759,2025-06-07,Complaint,Resolved
+2934,510,2025-10-07,Credit Limit,Resolved
+2935,735,2026-05-04,Complaint,Resolved
+2936,521,2025-08-02,,Waiting Customer
+2937,543,2026-01-08,Network Acceptance,Resolved
+2938,144,2026-05-26,Complaint,Open
+2939,295,2025-07-24,Invoice Query,Resolved
+2940,364,2025-01-09,Card Issue,Open
+2941,167,2025-02-03,Portal Login,Resolved
+2942,217,2026-04-27,Invoice Query,Resolved
+2943,450,2025-02-23,Invoice Query,Open
+2944,1,2025-10-14,,Open
+2945,274,2025-10-10,Invoice Query,Resolved
+2946,505,2025-09-22,Network Acceptance,Open
+2947,137,2025-10-31,Pricing Query,Waiting Customer
+2948,308,2025-02-23,Network Acceptance,Waiting Customer
+2949,440,2025-06-11,Network Acceptance,Resolved
+2950,46,2026-02-01,Complaint,Waiting Customer
+2951,549,2025-12-14,Card Issue,Waiting Customer
+2952,199,2025-09-20,Credit Limit,Waiting Customer
+2953,107,2025-02-28,Card Issue,Waiting Customer
+2954,476,2025-07-17,Pricing Query,Open
+2955,233,2025-08-30,Card Issue,Resolved
+2956,257,2025-11-15,Network Acceptance,Resolved
+2957,796,2026-04-14,Network Acceptance,Resolved
+2958,162,2026-05-20,Network Acceptance,Open
+2959,425,2025-05-08,Network Acceptance,Open
+2960,16,2025-08-08,Invoice Query,Waiting Customer
+2961,614,2025-12-27,Portal Login,Open
+2962,296,2025-07-16,Network Acceptance,Resolved
+2963,369,2025-11-02,Portal Login,Open
+2964,177,2025-12-27,Invoice Query,Resolved
+2965,392,2025-12-26,Pricing Query,Open
+2966,843,2025-08-07,Pricing Query,Resolved
+2967,596,2025-04-13,Portal Login,Resolved
+2968,68,2026-03-20,Network Acceptance,Open
+2969,89,2025-12-11,Invoice Query,Resolved
+2970,238,2026-05-23,Network Acceptance,Resolved
+2971,731,2025-11-01,Pricing Query,Waiting Customer
+2972,673,2025-11-27,Pricing Query,Resolved
+2973,40,2026-01-02,Card Issue,Open
+2974,112,2025-05-13,Complaint,Resolved
+2975,620,2025-08-09,Complaint,Resolved
+2976,796,2025-12-20,Credit Limit,Open
+2977,188,2025-07-07,Complaint,Waiting Customer
+2978,534,2026-02-25,Network Acceptance,Resolved
+2979,391,2025-06-29,Credit Limit,Resolved
+2980,2,2025-03-23,Credit Limit,Waiting Customer
+2981,85,2025-05-28,Credit Limit,Resolved
+2982,309,2025-06-22,Complaint,Resolved
+2983,134,2026-01-05,Complaint,Resolved
+2984,839,2025-11-10,Credit Limit,Open
+2985,320,2025-08-20,Credit Limit,Resolved
+2986,547,2026-06-20,Portal Login,Resolved
+2987,360,2025-03-12,Card Issue,Resolved
+2988,343,2026-03-10,Portal Login,Resolved
+2989,650,2025-09-26,Credit Limit,Resolved
+2990,323,2026-05-12,Invoice Query,Resolved
+2991,580,2026-03-15,Card Issue,Resolved
+2992,413,2026-02-05,Credit Limit,Resolved
+2993,397,2025-01-09,Complaint,Open
+2994,773,2026-02-02,Card Issue,Resolved
+2995,238,2025-05-26,Complaint,Resolved
+2996,68,2025-12-18,Card Issue,Resolved
+2997,441,2025-06-17,Network Acceptance,Waiting Customer
+2998,158,2025-12-10,Network Acceptance,Resolved
+2999,767,2026-03-26,Complaint,Open
+3000,784,2025-04-21,Pricing Query,Open
+3001,622,2025-12-22,Pricing Query,Open
+3002,220,2025-04-14,Network Acceptance,Resolved
+3003,234,2025-07-18,Invoice Query,Resolved
+3004,58,2026-04-01,Card Issue,Resolved
+3005,491,2025-05-08,Pricing Query,Open
+3006,615,2025-11-06,Card Issue,Waiting Customer
+3007,92,2025-03-23,Credit Limit,Resolved
+3008,105,2025-04-20,Invoice Query,Waiting Customer
+3009,826,2025-08-14,Invoice Query,Resolved
+3010,517,2025-09-06,Complaint,Resolved
+3011,495,2025-04-26,Complaint,Waiting Customer
+3012,420,2025-09-02,Network Acceptance,Resolved
+3013,508,2026-03-02,Credit Limit,Resolved
+3014,471,2026-01-24,Complaint,Resolved
+3015,254,2026-02-21,Credit Limit,Resolved
+3016,676,2025-01-12,Credit Limit,Waiting Customer
+3017,568,2026-04-24,Card Issue,Waiting Customer
+3018,108,2025-06-29,Complaint,Resolved
+3019,807,2025-07-05,Network Acceptance,Waiting Customer
+3020,746,2025-12-10,,Waiting Customer
+3021,825,2025-11-13,Card Issue,Waiting Customer
+3022,432,2026-01-24,Invoice Query,Resolved
+3023,73,2026-06-13,Network Acceptance,Resolved
+3024,162,2025-04-20,Pricing Query,Resolved
+3025,38,2025-09-01,Card Issue,Resolved
+3026,834,2026-06-26,Pricing Query,Resolved
+3027,529,2026-06-04,Portal Login,Resolved
+3028,584,2026-01-25,Credit Limit,Resolved
+3029,838,2025-04-01,Network Acceptance,Open
+3030,161,2026-05-25,Card Issue,Open
+3031,157,2026-03-31,Invoice Query,Open
+3032,842,2026-03-22,Pricing Query,Open
+3033,608,2025-05-14,Complaint,Resolved
+3034,407,2025-10-28,Complaint,Waiting Customer
+3035,450,2025-11-02,Complaint,Resolved
+3036,330,2025-04-10,Network Acceptance,Resolved
+3037,388,2026-06-24,Network Acceptance,Resolved
+3038,437,2025-04-14,Pricing Query,Waiting Customer
+3039,410,2026-02-27,Invoice Query,Resolved
+3040,641,2025-06-03,Pricing Query,Resolved
+3041,766,2025-01-02,Network Acceptance,Resolved
+3042,533,2025-06-20,Card Issue,Resolved
+3043,129,2025-09-04,Pricing Query,Resolved
+3044,315,2026-05-23,Card Issue,Resolved
+3045,730,2025-03-08,Credit Limit,Resolved
+3046,650,2025-01-26,Portal Login,Resolved
+3047,269,2025-04-27,Complaint,Resolved
+3048,295,2026-04-21,Credit Limit,Resolved
+3049,800,2025-02-11,Credit Limit,Resolved
+3050,305,2025-06-10,Complaint,Open
+3051,87,2026-05-22,Invoice Query,Waiting Customer
+3052,544,2025-03-17,Credit Limit,Resolved
+3053,497,2025-05-16,Complaint,Open
+3054,317,2026-01-11,Pricing Query,Open
+3055,663,2025-07-07,Credit Limit,Waiting Customer
+3056,535,2025-02-14,Invoice Query,Resolved
+3057,204,2025-05-19,Card Issue,Resolved
+3058,589,2026-03-30,Credit Limit,Waiting Customer
+3059,694,2026-01-03,Network Acceptance,Resolved
+3060,291,2025-01-09,Card Issue,Resolved
+3061,213,2026-05-14,Card Issue,Resolved
+3062,9,2025-11-08,Pricing Query,Resolved
+3063,599,2025-06-02,Portal Login,Waiting Customer
+3064,488,2025-06-16,Pricing Query,Resolved
+3065,820,2025-03-06,Network Acceptance,Waiting Customer
+3066,167,2025-11-02,,Resolved
+3067,514,2025-09-20,Credit Limit,Open
+3068,363,2025-03-25,,Waiting Customer
+3069,811,2025-11-21,,Resolved
+3070,287,2025-04-04,Credit Limit,Resolved
+3071,212,2026-06-29,Card Issue,Waiting Customer
+3072,610,2025-04-01,Network Acceptance,Waiting Customer
+3073,702,2025-12-28,Invoice Query,Resolved
+3074,848,2026-03-09,Credit Limit,Resolved
+3075,701,2025-08-07,Invoice Query,Resolved
+3076,186,2025-12-16,Portal Login,Waiting Customer
+3077,366,2026-01-07,Card Issue,Resolved
+3078,443,2025-07-29,Card Issue,Resolved
+3079,597,2025-03-17,Network Acceptance,Waiting Customer
+3080,285,2026-04-14,Portal Login,Resolved
+3081,4,2025-12-09,Pricing Query,Open
+3082,612,2025-01-08,Complaint,Resolved
+3083,273,2025-02-14,Pricing Query,Waiting Customer
+3084,840,2025-03-17,Credit Limit,Resolved
+3085,53,2026-04-12,Network Acceptance,Resolved
+3086,283,2025-11-01,Card Issue,Open
+3087,599,2025-04-24,Pricing Query,Waiting Customer
+3088,137,2025-05-19,Credit Limit,Resolved
+3089,234,2025-09-08,Pricing Query,Resolved
+3090,474,2026-06-28,Card Issue,Waiting Customer
+3091,122,2025-04-19,Complaint,Waiting Customer
+3092,489,2025-06-23,Pricing Query,Waiting Customer
+3093,475,2025-02-25,Portal Login,Open
+3094,130,2025-07-20,Complaint,Resolved
+3095,429,2025-08-19,Portal Login,Resolved
+3096,741,2026-02-17,Invoice Query,Resolved
+3097,744,2025-04-04,,Resolved
+3098,363,2025-11-25,Portal Login,Open
+3099,46,2025-08-31,Complaint,Resolved
+3100,693,2026-04-26,Network Acceptance,Waiting Customer
+3101,166,2025-05-24,Pricing Query,Open
+3102,113,2026-05-29,Portal Login,Waiting Customer
+3103,15,2025-05-29,Invoice Query,Resolved
+3104,773,2026-01-03,Invoice Query,Open
+3105,438,2025-08-03,Network Acceptance,Resolved
+3106,264,2025-12-02,Portal Login,Open
+3107,798,2026-05-22,Portal Login,Resolved
+3108,300,2026-03-22,Credit Limit,Waiting Customer
+3109,847,2026-03-22,Portal Login,Resolved
+3110,371,2025-07-10,Complaint,Resolved
+3111,201,2026-03-02,Network Acceptance,Resolved
+3112,689,2025-03-31,Complaint,Resolved
+3113,77,2025-07-16,Complaint,Resolved
+3114,14,2026-02-19,Network Acceptance,Waiting Customer
+3115,19,2025-01-24,,Waiting Customer
+3116,698,2025-07-22,Network Acceptance,Resolved
+3117,391,2026-03-05,Invoice Query,Waiting Customer
+3118,100,2025-12-17,Pricing Query,Resolved
+3119,571,2026-04-24,Card Issue,Open
+3120,746,2025-11-29,Pricing Query,Resolved
+3121,316,2026-04-03,Complaint,Open
+3122,600,2025-04-21,Network Acceptance,Waiting Customer
+3123,277,2026-01-30,Network Acceptance,Resolved
+3124,350,2026-03-31,Complaint,Resolved
+3125,18,2025-10-30,Card Issue,Resolved
+3126,812,2025-06-01,Portal Login,Resolved
+3127,356,2025-09-14,Complaint,Waiting Customer
+3128,799,2025-10-24,Pricing Query,Open
+3129,1,2026-06-13,Network Acceptance,Resolved
+3130,416,2025-08-19,Portal Login,Resolved
+3131,486,2025-03-21,Credit Limit,Open
+3132,733,2026-04-25,Network Acceptance,Waiting Customer
+3133,74,2026-01-07,Complaint,Resolved
+3134,9,2025-09-27,Portal Login,Resolved
+3135,217,2026-06-02,Network Acceptance,Resolved
+3136,287,2025-11-02,Network Acceptance,Resolved
+3137,269,2025-07-30,Portal Login,Open
+3138,763,2025-05-02,Card Issue,Resolved
+3139,640,2025-12-30,,Waiting Customer
+3140,715,2026-03-23,Pricing Query,Resolved
+3141,497,2025-12-05,Complaint,Open
+3142,804,2025-01-12,Pricing Query,Waiting Customer
+3143,606,2025-11-11,Invoice Query,Open
+3144,573,2025-12-24,Invoice Query,Resolved
+3145,174,2025-06-16,Card Issue,Resolved
+3146,579,2025-09-20,Credit Limit,Waiting Customer
+3147,294,2025-05-11,Invoice Query,Resolved
+3148,675,2025-04-27,Credit Limit,Resolved
+3149,725,2026-03-29,Credit Limit,Resolved
+3150,837,2026-06-19,Card Issue,Resolved
+3151,87,2026-02-27,Complaint,Waiting Customer
+3152,44,2025-01-10,Network Acceptance,Waiting Customer
+3153,439,2026-05-22,Pricing Query,Waiting Customer
+3154,306,2025-10-21,Network Acceptance,Resolved
+3155,698,2025-06-21,Pricing Query,Resolved
+3156,621,2026-04-21,Card Issue,Resolved
+3157,534,2025-11-18,,Resolved
+3158,146,2025-07-09,Portal Login,Open
+3159,548,2025-12-09,Portal Login,Resolved
+3160,665,2025-01-11,Portal Login,Waiting Customer
+3161,8,2025-10-06,Pricing Query,Open
+3162,383,2025-11-18,Network Acceptance,Resolved
+3163,668,2025-06-14,Pricing Query,Resolved
+3164,90,2025-06-03,Network Acceptance,Resolved
+3165,263,2025-12-17,Invoice Query,Resolved
+3166,752,2025-06-14,Pricing Query,Resolved
+3167,208,2026-01-04,Complaint,Resolved
+3168,749,2026-01-27,Invoice Query,Resolved
+3169,287,2026-04-05,Portal Login,Resolved
+3170,719,2025-12-05,Network Acceptance,Resolved
+3171,647,2025-11-20,Card Issue,Open
+3172,316,2025-05-17,Card Issue,Resolved
+3173,362,2025-11-29,Invoice Query,Waiting Customer
+3174,340,2025-08-18,Complaint,Waiting Customer
+3175,130,2025-11-17,Network Acceptance,Open
+3176,209,2025-08-31,Card Issue,Open
+3177,380,2025-09-30,Card Issue,Resolved
+3178,56,2026-03-31,Pricing Query,Resolved
+3179,767,2026-04-26,Network Acceptance,Open
+3180,120,2026-03-05,Invoice Query,Open
+3181,332,2026-04-24,Pricing Query,Resolved
+3182,113,2026-05-08,Card Issue,Open
+3183,640,2025-10-01,Pricing Query,Open
+3184,720,2025-08-04,Invoice Query,Open
+3185,671,2025-11-30,Credit Limit,Waiting Customer
+3186,637,2025-08-07,Portal Login,Resolved
+3187,694,2025-09-08,Portal Login,Waiting Customer
+3188,73,2026-06-20,Credit Limit,Resolved
+3189,819,2025-12-31,Network Acceptance,Resolved
+3190,29,2026-04-08,Complaint,Resolved
+3191,154,2025-07-10,Portal Login,Open
+3192,296,2025-02-28,Portal Login,Resolved
+3193,295,2025-06-07,Network Acceptance,Resolved
+3194,746,2025-10-13,Credit Limit,Resolved
+3195,791,2026-02-07,Portal Login,Open
+3196,27,2025-01-26,Complaint,Waiting Customer
+3197,350,2026-02-02,Complaint,Resolved
+3198,149,2025-05-23,Credit Limit,Resolved
+3199,590,2025-03-11,Network Acceptance,Resolved
+3200,485,2025-02-23,Complaint,Resolved
+3201,805,2025-03-19,Card Issue,Resolved
+3202,121,2026-04-23,Credit Limit,Resolved
+3203,278,2026-05-22,Invoice Query,Resolved
+3204,124,2025-05-27,Pricing Query,Resolved
+3205,87,2025-10-07,Portal Login,Resolved
+3206,603,2025-03-05,Credit Limit,Resolved
+3207,22,2025-11-03,Complaint,Waiting Customer
+3208,818,2025-06-04,Pricing Query,Resolved
+3209,383,2025-11-12,Card Issue,Open
+3210,536,2025-08-22,Invoice Query,Waiting Customer
+3211,641,2025-10-15,Card Issue,Resolved
+3212,355,2025-01-17,Card Issue,Resolved
+3213,387,2026-01-24,Complaint,Resolved
+3214,228,2025-05-19,Card Issue,Waiting Customer
+3215,117,2025-08-31,Pricing Query,Resolved
+3216,850,2025-01-16,Complaint,Waiting Customer
+3217,666,2026-06-07,Card Issue,Resolved
+3218,551,2026-05-26,Portal Login,Open
+3219,366,2025-07-26,Network Acceptance,Resolved
+3220,149,2026-05-19,Network Acceptance,Resolved
+3221,227,2025-06-19,Complaint,Waiting Customer
+3222,269,2025-07-03,Credit Limit,Resolved
+3223,684,2025-12-18,Credit Limit,Open
+3224,326,2025-03-20,Complaint,Resolved
+3225,411,2025-07-30,Complaint,Resolved
+3226,625,2026-06-14,Credit Limit,Resolved
+3227,237,2025-05-16,Credit Limit,Resolved
+3228,191,2025-06-11,Complaint,Resolved
+3229,674,2026-06-10,Credit Limit,Resolved
+3230,656,2025-12-12,Portal Login,Resolved
+3231,795,2026-02-09,Invoice Query,Open
+3232,693,2025-01-05,Invoice Query,Resolved
+3233,487,2026-01-28,Card Issue,Resolved
+3234,361,2026-01-14,Network Acceptance,Waiting Customer
+3235,67,2026-01-19,Complaint,Waiting Customer
+3236,595,2026-05-06,Credit Limit,Resolved
+3237,745,2025-03-09,Invoice Query,Resolved
+3238,444,2025-04-04,Network Acceptance,Resolved
+3239,221,2026-04-03,Invoice Query,Resolved
+3240,653,2025-09-23,Credit Limit,Resolved
+3241,809,2025-03-14,Pricing Query,Waiting Customer
+3242,605,2025-04-08,Invoice Query,Resolved
+3243,702,2025-09-25,Card Issue,Waiting Customer
+3244,510,2025-02-06,Portal Login,Resolved
+3245,198,2025-10-04,,Resolved
+3246,243,2025-12-21,Network Acceptance,Resolved
+3247,238,2025-10-14,Complaint,Resolved
+3248,776,2025-09-09,Network Acceptance,Resolved
+3249,774,2026-02-03,Complaint,Resolved
+3250,44,2026-06-01,Complaint,Resolved
+3251,203,2025-12-12,Invoice Query,Waiting Customer
+3252,36,2026-04-01,Card Issue,Resolved
+3253,829,2026-06-23,Portal Login,Waiting Customer
+3254,668,2025-07-29,,Waiting Customer
+3255,839,2025-06-08,Pricing Query,Resolved
+3256,137,2025-11-17,Network Acceptance,Waiting Customer
+3257,338,2025-01-22,Complaint,Resolved
+3258,357,2026-02-19,Card Issue,Resolved
+3259,197,2025-10-13,Portal Login,Resolved
+3260,334,2025-09-17,Credit Limit,Resolved
+3261,681,2025-11-10,Network Acceptance,Waiting Customer
+3262,69,2026-02-04,Invoice Query,Resolved
+3263,29,2026-05-11,Card Issue,Resolved
+3264,572,2026-06-23,Complaint,Resolved
+3265,243,2025-04-10,Network Acceptance,Resolved
+3266,527,2026-04-03,Card Issue,Resolved
+3267,264,2025-08-14,Credit Limit,Resolved
+3268,136,2025-09-26,Invoice Query,Resolved
+3269,479,2025-04-04,Portal Login,Resolved
+3270,445,2026-06-27,Pricing Query,Resolved
+3271,641,2026-04-11,Pricing Query,Open
+3272,195,2025-02-02,Portal Login,Waiting Customer
+3273,174,2025-09-06,Invoice Query,Resolved
+3274,737,2026-01-23,Complaint,Resolved
+3275,100,2026-02-11,Invoice Query,Waiting Customer
+3276,717,2026-04-04,Pricing Query,Open
+3277,756,2026-05-03,Portal Login,Resolved
+3278,535,2026-01-18,,Resolved
+3279,836,2025-06-22,Network Acceptance,Waiting Customer
+3280,273,2025-03-22,Invoice Query,Resolved
+3281,420,2026-01-13,Network Acceptance,Resolved
+3282,50,2025-12-08,Complaint,Resolved
+3283,218,2026-03-24,Network Acceptance,Open
+3284,87,2025-07-18,Pricing Query,Resolved
+3285,326,2025-03-03,Portal Login,Resolved
+3286,654,2025-02-19,Card Issue,Resolved
+3287,466,2026-01-13,Complaint,Resolved
+3288,86,2026-02-07,,Resolved
+3289,813,2025-04-30,Credit Limit,Open
+3290,409,2025-09-18,Complaint,Resolved
+3291,812,2026-02-04,Credit Limit,Resolved
+3292,647,2025-06-16,Pricing Query,Resolved
+3293,547,2025-07-29,Network Acceptance,Resolved
+3294,686,2025-01-09,Complaint,Resolved
+3295,741,2025-12-29,Invoice Query,Waiting Customer
+3296,14,2025-05-22,Pricing Query,Resolved
+3297,613,2025-08-16,Complaint,Resolved
+3298,248,2025-12-10,Card Issue,Resolved
+3299,315,2025-04-19,Credit Limit,Resolved
+3300,533,2026-02-16,Pricing Query,Resolved
+3301,389,2025-03-20,Pricing Query,Resolved
+3302,469,2026-06-30,Credit Limit,Resolved
+3303,577,2025-05-29,Network Acceptance,Resolved
+3304,71,2026-02-06,,Waiting Customer
+3305,262,2026-06-25,Card Issue,Resolved
+3306,688,2025-11-10,Network Acceptance,Open
+3307,397,2025-12-18,Pricing Query,Resolved
+3308,166,2025-11-07,Credit Limit,Waiting Customer
+3309,505,2025-02-01,Card Issue,Resolved
+3310,708,2025-04-17,Complaint,Resolved
+3311,314,2026-05-31,Network Acceptance,Open
+3312,20,2025-03-10,Credit Limit,Waiting Customer
+3313,737,2026-04-19,Card Issue,Waiting Customer
+3314,629,2025-03-06,Credit Limit,Resolved
+3315,773,2026-06-20,Card Issue,Open
+3316,159,2025-02-15,Credit Limit,Resolved
+3317,585,2026-03-21,Invoice Query,Waiting Customer
+3318,194,2025-08-08,Pricing Query,Waiting Customer
+3319,640,2025-08-22,Invoice Query,Resolved
+3320,628,2025-09-21,Card Issue,Waiting Customer
+3321,574,2026-01-17,Network Acceptance,Waiting Customer
+3322,420,2025-10-04,Network Acceptance,Open
+3323,809,2026-03-20,Portal Login,Resolved
+3324,386,2025-10-05,Pricing Query,Resolved
+3325,417,2025-08-05,Pricing Query,Open
+3326,780,2025-03-10,Invoice Query,Resolved
+3327,294,2026-01-16,Complaint,Resolved
+3328,307,2026-03-25,Pricing Query,Resolved
+3329,397,2025-11-17,Portal Login,Resolved
+3330,662,2025-08-04,Credit Limit,Waiting Customer
+3331,679,2025-09-25,Complaint,Waiting Customer
+3332,89,2026-04-26,Complaint,Waiting Customer
+3333,473,2025-08-15,Pricing Query,Resolved
+3334,542,2026-04-15,Complaint,Resolved
+3335,457,2026-02-28,Portal Login,Waiting Customer
+3336,694,2026-02-19,Card Issue,Resolved
+3337,284,2025-06-03,Invoice Query,Resolved
+3338,593,2026-01-03,Credit Limit,Resolved
+3339,210,2026-04-26,Complaint,Resolved
+3340,190,2026-06-17,Invoice Query,Open
+3341,99,2025-09-08,Credit Limit,Waiting Customer
+3342,780,2025-11-24,Credit Limit,Resolved
+3343,467,2025-06-02,Complaint,Resolved
+3344,812,2026-06-27,Portal Login,Resolved
+3345,792,2026-03-13,Credit Limit,Resolved
+3346,265,2025-06-24,Invoice Query,Resolved
+3347,228,2025-12-14,Credit Limit,Waiting Customer
+3348,391,2025-05-27,Portal Login,Waiting Customer
+3349,151,2026-02-28,Complaint,Open
+3350,280,2025-07-07,Invoice Query,Open
+3351,10,2025-08-15,Network Acceptance,Open
+3352,431,2025-06-07,Portal Login,Open
+3353,772,2025-04-21,Pricing Query,Waiting Customer
+3354,817,2025-08-15,Pricing Query,Resolved
+3355,655,2025-07-08,Network Acceptance,Resolved
+3356,715,2025-05-27,Network Acceptance,Open
+3357,357,2025-03-11,Network Acceptance,Resolved
+3358,29,2026-04-03,Invoice Query,Resolved
+3359,561,2025-03-21,Pricing Query,Waiting Customer
+3360,94,2025-07-01,Card Issue,Open
+3361,306,2025-11-11,Portal Login,Resolved
+3362,210,2026-04-14,Network Acceptance,Open
+3363,112,2025-12-28,Invoice Query,Resolved
+3364,431,2025-05-29,Card Issue,Resolved
+3365,293,2025-03-04,Pricing Query,Open
+3366,575,2026-01-24,Pricing Query,Resolved
+3367,564,2026-01-30,Invoice Query,Open
+3368,120,2025-03-11,Portal Login,Open
+3369,228,2026-04-28,Invoice Query,Resolved
+3370,578,2025-10-05,Pricing Query,Waiting Customer
+3371,606,2026-04-17,Credit Limit,Waiting Customer
+3372,411,2025-06-09,Invoice Query,Waiting Customer
+3373,635,2025-09-06,Complaint,Open
+3374,733,2026-04-05,Pricing Query,Open
+3375,410,2026-06-29,Card Issue,Resolved
+3376,350,2026-05-04,Pricing Query,Resolved
+3377,210,2026-01-24,Credit Limit,Open
+3378,535,2026-02-17,Pricing Query,Resolved
+3379,96,2025-02-08,Network Acceptance,Waiting Customer
+3380,380,2025-04-18,Complaint,Resolved
+3381,712,2025-03-14,Credit Limit,Waiting Customer
+3382,323,2025-04-01,Credit Limit,Waiting Customer
+3383,118,2025-03-08,Credit Limit,Resolved
+3384,839,2025-12-26,Card Issue,Resolved
+3385,287,2026-05-04,Card Issue,Resolved
+3386,309,2025-09-24,Invoice Query,Waiting Customer
+3387,518,2025-09-06,Card Issue,Resolved
+3388,841,2026-01-29,Complaint,Open
+3389,181,2026-06-08,,Resolved
+3390,628,2026-02-06,Portal Login,Resolved
+3391,567,2026-06-03,Invoice Query,Resolved
+3392,422,2025-02-17,Pricing Query,Resolved
+3393,36,2025-10-22,Invoice Query,Resolved
+3394,822,2025-10-09,Pricing Query,Open
+3395,562,2025-10-17,Credit Limit,Resolved
+3396,708,2025-03-14,Complaint,Resolved
+3397,707,2026-01-24,Invoice Query,Waiting Customer
+3398,529,2026-04-15,Portal Login,Resolved
+3399,534,2025-07-06,Invoice Query,Resolved
+3400,769,2026-05-21,Credit Limit,Resolved
+3401,256,2026-04-18,Invoice Query,Resolved
+3402,250,2026-02-19,Invoice Query,Open
+3403,243,2025-04-24,Card Issue,Resolved
+3404,317,2025-06-28,Invoice Query,Waiting Customer
+3405,279,2025-08-16,Card Issue,Open
+3406,200,2025-12-27,Pricing Query,Resolved
+3407,376,2026-04-06,Complaint,Waiting Customer
+3408,166,2025-06-14,Network Acceptance,Resolved
+3409,743,2025-08-12,Pricing Query,Waiting Customer
+3410,631,2025-01-21,Network Acceptance,Resolved
+3411,697,2026-03-07,Portal Login,Open
+3412,288,2025-09-14,Pricing Query,Waiting Customer
+3413,183,2025-09-11,Pricing Query,Resolved
+3414,226,2025-05-07,Network Acceptance,Open
+3415,679,2026-03-20,Complaint,Resolved
+3416,269,2025-12-22,Pricing Query,Resolved
+3417,671,2025-01-25,Card Issue,Resolved
+3418,797,2026-06-14,Credit Limit,Waiting Customer
+3419,208,2025-03-14,Pricing Query,Open
+3420,166,2025-12-10,Card Issue,Resolved
+3421,844,2025-03-19,Complaint,Waiting Customer
+3422,657,2025-12-07,Credit Limit,Resolved
+3423,452,2025-07-16,Invoice Query,Waiting Customer
+3424,788,2025-03-13,Portal Login,Open
+3425,792,2026-04-03,Complaint,Resolved
+3426,638,2026-05-24,Card Issue,Open
+3427,602,2026-01-27,Network Acceptance,Resolved
+3428,663,2025-01-08,Card Issue,Resolved
+3429,561,2025-06-03,Pricing Query,Resolved
+3430,441,2025-09-25,Network Acceptance,Resolved
+3431,324,2025-05-30,Network Acceptance,Resolved
+3432,547,2026-02-16,Complaint,Open
+3433,49,2026-02-15,Network Acceptance,Resolved
+3434,193,2025-03-05,Card Issue,Resolved
+3435,674,2025-05-06,Network Acceptance,Resolved
+3436,482,2025-01-28,Invoice Query,Waiting Customer
+3437,170,2026-03-02,Credit Limit,Resolved
+3438,816,2025-09-05,Portal Login,Open
+3439,745,2026-05-18,Credit Limit,Open
+3440,14,2025-09-27,Pricing Query,Open
+3441,100,2026-05-31,Network Acceptance,Waiting Customer
+3442,141,2026-01-24,Card Issue,Open
+3443,405,2025-01-17,Credit Limit,Resolved
+3444,574,2025-01-11,Network Acceptance,Open
+3445,477,2025-11-24,Network Acceptance,Resolved
+3446,731,2025-07-29,Portal Login,Resolved
+3447,78,2025-11-20,Card Issue,Resolved
+3448,429,2025-02-19,Network Acceptance,Open
+3449,643,2025-12-22,Complaint,Open
+3450,267,2026-03-29,Credit Limit,Resolved
+3451,790,2025-07-11,Card Issue,Resolved
+3452,810,2026-05-05,,Waiting Customer
+3453,88,2025-04-15,Credit Limit,Open
+3454,692,2026-05-20,Pricing Query,Waiting Customer
+3455,691,2026-05-06,Credit Limit,Resolved
+3456,57,2025-03-27,Network Acceptance,Resolved
+3457,466,2025-10-01,Invoice Query,Open
+3458,688,2026-06-16,Invoice Query,Resolved
+3459,769,2025-02-06,Invoice Query,Resolved
+3460,128,2026-01-05,,Waiting Customer
+3461,727,2025-02-11,Complaint,Resolved
+3462,567,2025-01-28,Card Issue,Resolved
+3463,14,2026-06-16,Credit Limit,Waiting Customer
+3464,509,2025-01-14,Card Issue,Waiting Customer
+3465,794,2026-02-16,Network Acceptance,Resolved
+3466,783,2025-03-31,Credit Limit,Resolved
+3467,678,2025-09-05,Complaint,Resolved
+3468,497,2025-04-26,Network Acceptance,Waiting Customer
+3469,288,2025-08-29,Network Acceptance,Open
+3470,570,2025-11-01,Network Acceptance,Resolved
+3471,350,2025-11-14,Invoice Query,Open
+3472,713,2025-01-12,Portal Login,Waiting Customer
+3473,773,2025-10-15,Invoice Query,Resolved
+3474,116,2025-06-02,Portal Login,Resolved
+3475,87,2025-03-25,Portal Login,Resolved
+3476,228,2025-03-26,Complaint,Resolved
+3477,573,2025-04-15,Credit Limit,Resolved
+3478,727,2025-05-04,Portal Login,Resolved
+3479,830,2026-03-21,Portal Login,Open
+3480,165,2026-02-14,Invoice Query,Resolved
+3481,384,2026-04-18,Portal Login,Resolved
+3482,657,2025-12-10,Network Acceptance,Resolved
+3483,126,2025-01-09,Portal Login,Open
+3484,785,2025-09-08,Credit Limit,Waiting Customer
+3485,258,2026-04-25,Credit Limit,Resolved
+3486,172,2025-12-10,Invoice Query,Resolved
+3487,762,2026-01-12,Pricing Query,Open
+3488,548,2026-04-10,Invoice Query,Open
+3489,647,2025-10-10,Card Issue,Resolved
+3490,621,2026-05-29,Credit Limit,Open
+3491,93,2026-01-20,Card Issue,Open
+3492,308,2025-08-02,Card Issue,Waiting Customer
+3493,804,2025-05-18,Network Acceptance,Waiting Customer
+3494,615,2025-08-03,Portal Login,Resolved
+3495,676,2025-12-31,Card Issue,Waiting Customer
+3496,622,2025-12-03,Invoice Query,Resolved
+3497,123,2025-08-18,Network Acceptance,Open
+3498,295,2025-10-04,Complaint,Resolved
+3499,323,2026-01-12,Portal Login,Open
+3500,567,2025-11-13,Portal Login,Resolved

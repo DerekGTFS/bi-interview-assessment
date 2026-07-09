@@ -1,0 +1,851 @@
+CustomerID,AccountNumber,CustomerName,Industry,Region,AccountManagerID,FirstDrawnDate,CreditLimit,PaymentTermsDays,CustomerStatus
+1,100001,Greenacre Haulage Ltd,Haulage,South West,5,2024-08-16,7500,30,Active
+2,100002,Nova Groundworks Ltd,Construction,Wales,6,2024-01-31,5000,7,Active
+3,100003,Silverline Logistics Ltd,Retail Distribution,South East,11,2024-08-13,75000,30,Active
+4,100004,Clearway Logistics Ltd,Plant Hire,Wales,6,2024-10-11,7500,7,Active
+5,100005,Bluebird Haulage Ltd,Construction,Wales,6,2025-01-02,25000,30,Active
+6,100006,Crown Facilities Ltd,Retail Distribution,North West,10,2024-03-21,100000,14,Active
+7,100007,Silverline Distribution Ltd,Manufacturing,South East,3,2024-02-16,10000,14,Active
+8,100008,Clearway Plant Hire Ltd,Construction,Wales,6,2025-04-09,25000,7,Active
+9,100009,Redstone Fleet Services Ltd,Construction,North East,7,2024-06-16,75000,14,Active
+10,100010,Atlas Groundworks Ltd,Courier,Scotland,8,2024-08-22,2500,14,Active
+11,100011,Summit Plant Hire Ltd,Manufacturing,Scotland,8,2025-11-02,75000,14,Active
+12,100012,Greenacre Facilities Ltd,Plant Hire,South West,5,2024-09-09,100000,30,Active
+13,100013,Westbrook Civil Engineering Ltd,Manufacturing,Wales,6,2024-08-12,7500,30,Active
+14,100014,Albion Logistics Ltd,Construction,North East,7,2025-11-27,50000,30,Dormant
+15,100015,Pioneer Recycling Ltd,Facilities,South West,5,2025-11-27,5000,30,Active
+16,100016,Albion Fleet Services Ltd,Agriculture,North West,10,2025-03-21,7500,14,Dormant
+17,100017,Nova Fleet Services Ltd,Retail Distribution,North East,7,2025-10-02,15000,30,Active
+18,100018,Redstone Transport Ltd,Agriculture,North East,7,2025-09-05,25000,14,Dormant
+19,100019,Atlas Distribution Ltd,Waste Management,South East,3,2024-09-03,150000,7,Active
+20,100020,Metro Haulage Ltd,Retail Distribution,North East,7,2025-11-06,75000,30,Active
+21,100021,Evergreen Recycling Ltd,Coach & Bus,South East,3,2025-12-31,15000,14,Active
+22,100022,Greenacre Distribution Ltd,Facilities,London,4,2024-09-10,10000,7,Active
+23,100023,Westbrook Groundworks Ltd,Courier,South East,3,2024-03-13,2500,7,Dormant
+24,100024,Crown Distribution Ltd,Construction,South East,11,2025-11-16,75000,7,Active
+25,100025,Nova Recycling Ltd,Manufacturing,London,4,2025-04-29,50000,7,Active
+26,100026,Premier Civil Engineering Ltd,Agriculture,Wales,6,2025-04-23,2500,30,Active
+27,100027,Greenacre Haulage Ltd,Haulage,Wales,6,2024-04-21,10000,7,Active
+28,100028,Arrow Transport Ltd,Coach & Bus,North East,7,2025-04-18,10000,7,Active
+29,100029,Clearway Groundworks Ltd,Construction,Midlands,1,2024-04-05,10000,7,Active
+30,100030,Metro Plant Hire Ltd,Coach & Bus,Midlands,1,2025-01-23,2500,14,Active
+31,100031,Phoenix Facilities Ltd,Waste Management,Wales,6,2024-06-07,10000,14,Active
+32,100032,Crown Recycling Ltd,Retail Distribution,Midlands,9,2024-02-28,2500,30,Active
+33,100033,Atlas Groundworks Ltd,Plant Hire,Midlands,1,2024-07-09,5000,30,Dormant
+34,100034,Clearway Plant Hire Ltd,Coach & Bus,North West,2,2025-08-15,150000,7,Active
+35,100035,Horizon Recycling Ltd,Manufacturing,Scotland,8,2024-07-28,25000,7,Active
+36,100036,Bridgeway Fleet Services Ltd,Facilities,Scotland,8,2024-01-10,75000,30,Active
+37,100037,Falcon Haulage Ltd,Retail Distribution,South East,11,2024-05-15,25000,7,Active
+38,100038,Mercury Fleet Services Ltd,Plant Hire,London,4,2025-09-18,100000,7,Active
+39,100039,Kingsway Fleet Services Ltd,Construction,North East,7,2024-04-28,5000,30,Active
+40,100040,Sterling Fleet Services Ltd,Manufacturing,South East,11,2024-07-27,15000,30,Active
+41,100041,Rapid Logistics Ltd,Construction,Wales,6,2024-02-15,2500,14,Active
+42,100042,Greenacre Fleet Services Ltd,Plant Hire,London,4,2025-07-28,2500,7,Dormant
+43,100043,Rapid Transport Ltd,Retail Distribution,Midlands,9,2025-08-19,100000,7,Active
+44,100044,Crown Fleet Services Ltd,Agriculture,Midlands,9,2024-08-03,10000,30,Active
+45,100045,Albion Groundworks Ltd,Coach & Bus,North East,7,2024-06-15,7500,14,Dormant
+46,100046,Nova Distribution Ltd,Coach & Bus,South East,11,2024-06-12,5000,14,Active
+47,100047,Clearway Facilities Ltd,Courier,South East,11,2024-12-24,15000,7,Active
+48,100048,Premier Plant Hire Ltd,Coach & Bus,Scotland,8,2024-03-12,15000,14,At Risk
+49,100049,Pioneer Groundworks Ltd,Agriculture,Midlands,1,2024-09-24,7500,30,Active
+50,100050,Sterling Logistics Ltd,Construction,Wales,6,2024-11-17,50000,30,Active
+51,100051,Falcon Civil Engineering Ltd,Manufacturing,South East,11,2024-02-15,50000,7,Active
+52,100052,Phoenix Groundworks Ltd,Courier,Scotland,8,2024-03-12,25000,30,Active
+53,100053,Clearway Haulage Ltd,Waste Management,South West,12,2024-11-30,50000,30,Active
+54,100054,Bridgeway Plant Hire Ltd,Coach & Bus,Wales,6,2025-09-22,150000,14,Active
+55,100055,Beacon Logistics Ltd,Waste Management,South West,5,2025-03-16,150000,30,Active
+56,100056,Arrow Facilities Ltd,Facilities,South East,11,2024-06-22,5000,14,Active
+57,100057,Greenacre Recycling Ltd,Agriculture,North West,2,2025-11-19,15000,7,Active
+58,100058,Bridgeway Logistics Ltd,Haulage,South East,11,2025-09-17,5000,14,Active
+59,100059,Greenacre Recycling Ltd,Courier,Wales,6,2025-02-13,10000,7,Active
+60,100060,Apex Haulage Ltd,Coach & Bus,South East,3,2025-12-13,100000,14,Dormant
+61,100061,Harbour Haulage Ltd,Facilities,North East,7,2025-11-14,100000,30,Active
+62,100062,Albion Facilities Ltd,Manufacturing,Wales,6,2024-06-11,75000,14,Active
+63,100063,Harbour Fleet Services Ltd,Retail Distribution,London,4,2024-10-08,75000,7,Active
+64,100064,Harbour Fleet Services Ltd,Agriculture,Scotland,8,2024-05-21,7500,7,Active
+65,100065,Bridgeway Plant Hire Ltd,Construction,Wales,6,2024-12-04,100000,14,Active
+66,100066,Redstone Civil Engineering Ltd,Coach & Bus,Midlands,9,2025-05-03,2500,14,Active
+67,100067,Pioneer Civil Engineering Ltd,Retail Distribution,South East,11,2024-08-12,15000,14,Active
+68,100068,Pioneer Distribution Ltd,Coach & Bus,North East,7,2024-05-10,150000,30,Dormant
+69,100069,Pioneer Recycling Ltd,Manufacturing,Midlands,1,2025-10-20,50000,7,Active
+70,100070,Oakfield Logistics Ltd,Waste Management,Wales,6,2024-08-04,75000,14,Active
+71,100071,Rapid Civil Engineering Ltd,Waste Management,Wales,6,2024-03-24,75000,7,Active
+72,100072,Crown Distribution Ltd,Courier,North West,2,2024-02-01,10000,7,Active
+73,100073,Silverline Transport Ltd,Courier,North East,7,2025-11-16,5000,30,Active
+74,100074,Arrow Fleet Services Ltd,Agriculture,North East,7,2024-06-16,15000,7,Active
+75,100075,Atlas Fleet Services Ltd,Manufacturing,Wales,6,2024-07-22,5000,30,Active
+76,100076,Greenacre Plant Hire Ltd,Construction,South West,5,2025-08-02,2500,14,Active
+77,100077,Premier Distribution Ltd,Construction,Scotland,8,2025-03-06,75000,7,Active
+78,100078,Mercury Facilities Ltd,Plant Hire,Wales,6,2025-06-18,15000,30,Active
+79,100079,Kingsway Facilities Ltd,Facilities,Wales,6,2024-11-26,10000,7,Active
+80,100080,Arrow Plant Hire Ltd,Facilities,Wales,6,2024-01-30,75000,14,Active
+81,100081,Redstone Distribution Ltd,Waste Management,Scotland,8,2025-09-02,15000,30,Dormant
+82,100082,Redstone Haulage Ltd,Courier,Wales,6,2025-07-22,10000,30,Active
+83,100083,Centurion Facilities Ltd,Facilities,Midlands,1,2024-10-28,10000,14,Active
+84,100084,Northgate Recycling Ltd,Agriculture,London,4,2025-03-11,100000,14,Active
+85,100085,Arrow Fleet Services Ltd,Waste Management,South West,5,2024-05-03,10000,14,Active
+86,100086,Kingsway Transport Ltd,Courier,South East,11,2024-10-10,150000,30,Active
+87,100087,Falcon Plant Hire Ltd,Waste Management,South East,11,2024-07-02,15000,7,Active
+88,100088,Bridgeway Fleet Services Ltd,Haulage,Midlands,9,2025-12-15,7500,30,Active
+89,100089,Metro Haulage Ltd,Haulage,South West,12,2025-05-05,75000,14,Active
+90,100090,Crown Fleet Services Ltd,Facilities,North West,2,2025-02-14,75000,7,Active
+91,100091,Premier Logistics Ltd,Plant Hire,North East,7,2024-03-28,10000,7,Active
+92,100092,Horizon Recycling Ltd,Manufacturing,South East,11,2025-04-06,75000,14,Active
+93,100093,Horizon Fleet Services Ltd,Manufacturing,Midlands,1,2024-07-31,10000,14,Active
+94,100094,Oakfield Plant Hire Ltd,Plant Hire,North West,2,2024-01-03,50000,14,Active
+95,100095,Metro Fleet Services Ltd,Haulage,South East,11,2025-12-24,15000,30,Active
+96,100096,Summit Plant Hire Ltd,Waste Management,South East,11,2024-04-27,100000,7,Active
+97,100097,Atlas Fleet Services Ltd,Plant Hire,North West,2,2024-06-18,15000,30,Active
+98,100098,Westbrook Fleet Services Ltd,Facilities,North West,10,2025-12-06,15000,30,Active
+99,100099,Sterling Groundworks Ltd,Retail Distribution,London,4,2024-03-23,150000,7,Active
+100,100100,Nova Distribution Ltd,Manufacturing,South West,5,2024-04-03,10000,30,Active
+101,100101,NOVA DISTRIBUTION LIMITED,Haulage,South West,5,2024-06-28,75000,30,Active
+102,100102,Atlas Fleet Services Ltd,Plant Hire,Wales,6,2024-04-03,75000,14,Active
+103,100103,Bluebird Haulage Ltd,Plant Hire,Scotland,8,2025-12-11,75000,14,Active
+104,100104,Pioneer Groundworks Ltd,Haulage,London,4,2024-11-18,15000,14,Active
+105,100105,Albion Civil Engineering Ltd,Retail Distribution,Midlands,9,2025-02-27,2500,7,Active
+106,100106,Silverline Facilities Ltd,Facilities,Midlands,1,2024-09-30,100000,7,Active
+107,100107,Arrow Facilities Ltd,Construction,Midlands,1,2025-12-27,7500,14,Active
+108,100108,Kingsway Civil Engineering Ltd,Construction,South East,3,2025-04-17,5000,30,Active
+109,100109,Metro Fleet Services Ltd,Retail Distribution,South West,12,2025-05-09,75000,7,Active
+110,100110,Bridgeway Civil Engineering Ltd,Courier,North East,7,2024-10-09,50000,14,Active
+111,100111,Evergreen Fleet Services Ltd,Haulage,South West,12,2025-08-24,150000,30,Active
+112,100112,Bridgeway Facilities Ltd,Retail Distribution,London,4,2024-12-06,100000,30,Active
+113,100113,Atlas Distribution Ltd,Courier,South East,11,2024-08-27,50000,7,Active
+114,100114,Metro Civil Engineering Ltd,Coach & Bus,North East,7,2024-02-07,7500,30,Active
+115,100115,Bluebird Haulage Ltd,Facilities,North West,10,2024-01-16,7500,14,Active
+116,100116,Bridgeway Haulage Ltd,Facilities,South West,12,2025-09-30,50000,30,Active
+117,100117,Bluebird Groundworks Ltd,Coach & Bus,Scotland,8,2025-07-08,2500,30,Dormant
+118,100118,Greenacre Fleet Services Ltd,Courier,North West,10,2024-04-10,5000,14,Active
+119,100119,Northgate Logistics Ltd,Haulage,Scotland,8,2024-10-27,25000,14,Active
+120,100120,Harbour Groundworks Ltd,Coach & Bus,North East,7,2024-06-28,5000,30,Active
+121,100121,Silverline Plant Hire Ltd,Facilities,North East,7,2025-04-17,15000,14,Active
+122,100122,Apex Facilities Ltd,Waste Management,North East,7,2025-03-28,25000,30,Active
+123,100123,Horizon Fleet Services Ltd,Facilities,South West,5,2025-01-28,75000,7,Active
+124,100124,Westbrook Distribution Ltd,Manufacturing,South West,12,2024-01-23,50000,14,Dormant
+125,100125,Clearway Logistics Ltd,Manufacturing,London,4,2024-08-23,150000,14,Active
+126,100126,Redstone Recycling Ltd,Waste Management,North East,7,2025-10-04,2500,14,Active
+127,100127,Crown Recycling Ltd,Agriculture,North East,7,2024-10-29,25000,30,Active
+128,100128,Redstone Transport Ltd,Retail Distribution,Scotland,8,2024-06-17,15000,14,Active
+129,100129,Northgate Distribution Ltd,Construction,London,4,2024-05-24,10000,30,Active
+130,100130,Pioneer Groundworks Ltd,Agriculture,North West,10,2024-01-15,15000,30,Active
+131,100131,Mercury Fleet Services Ltd,Manufacturing,Wales,6,2024-04-20,10000,14,Dormant
+132,100132,Rapid Groundworks Ltd,Agriculture,South East,3,2025-10-12,75000,30,Active
+133,100133,Horizon Haulage Ltd,Plant Hire,Midlands,1,2024-11-07,75000,7,Active
+134,100134,Rapid Groundworks Ltd,Plant Hire,Wales,6,2025-01-14,100000,14,Active
+135,100135,Nova Transport Ltd,Coach & Bus,North West,10,2025-09-22,50000,14,Dormant
+136,100136,Mercury Plant Hire Ltd,Facilities,London,4,2025-01-06,5000,30,Active
+137,100137,Rapid Distribution Ltd,Haulage,Wales,6,2024-07-13,5000,14,Active
+138,100138,Redstone Recycling Ltd,Haulage,Midlands,9,2024-09-06,7500,30,Active
+139,100139,Beacon Groundworks Ltd,Courier,South East,3,2024-12-02,7500,30,Dormant
+140,100140,Clearway Transport Ltd,Plant Hire,South West,5,2024-04-22,2500,7,Dormant
+141,100141,Phoenix Plant Hire Ltd,Manufacturing,Scotland,8,2024-06-27,15000,7,Active
+142,100142,Horizon Groundworks Ltd,Construction,North West,10,2025-04-04,25000,30,Active
+143,100143,Arrow Groundworks Ltd,Courier,Midlands,9,2025-04-14,2500,7,Active
+144,100144,Clearway Civil Engineering Ltd,Coach & Bus,North West,10,2025-12-30,75000,7,Active
+145,100145,Bluebird Recycling Ltd,Plant Hire,North West,2,2024-10-08,150000,30,Active
+146,100146,Centurion Distribution Ltd,Coach & Bus,South West,12,2025-06-01,150000,14,Active
+147,100147,Centurion Haulage Ltd,Retail Distribution,South East,11,2025-04-07,10000,14,Active
+148,100148,Arrow Civil Engineering Ltd,Coach & Bus,North West,10,2025-03-13,25000,30,Active
+149,100149,Bridgeway Facilities Ltd,Construction,North West,2,2024-04-05,50000,7,Active
+150,100150,Mercury Transport Ltd,Retail Distribution,Midlands,9,2025-11-17,5000,14,Active
+151,100151,Premier Civil Engineering Ltd,Haulage,South West,12,2024-12-26,5000,30,Active
+152,100152,Bridgeway Facilities Ltd,Courier,North West,10,2025-07-23,25000,7,Active
+153,100153,Westbrook Plant Hire Ltd,Coach & Bus,Midlands,9,2024-01-30,7500,14,Active
+154,100154,Northgate Distribution Ltd,Agriculture,Midlands,1,2024-05-26,150000,30,Active
+155,100155,Bridgeway Logistics Ltd,Construction,South East,11,2025-03-05,75000,14,Active
+156,100156,Northgate Distribution Ltd,Manufacturing,North West,2,2024-06-08,7500,30,Dormant
+157,100157,Summit Fleet Services Ltd,Facilities,Wales,6,2025-09-13,75000,14,Active
+158,100158,Albion Groundworks Ltd,Construction,Scotland,8,2024-04-23,15000,30,Active
+159,100159,Metro Groundworks Ltd,Waste Management,Midlands,1,2025-02-08,150000,7,Dormant
+160,100160,Northgate Plant Hire Ltd,Plant Hire,South West,12,2024-12-01,5000,7,Active
+161,100161,Horizon Transport Ltd,Plant Hire,Wales,6,2025-05-27,100000,30,Active
+162,100162,Summit Civil Engineering Ltd,Haulage,Wales,6,2025-04-15,5000,14,Active
+163,100163,Westbrook Civil Engineering Ltd,Coach & Bus,South West,5,2025-02-18,2500,14,Active
+164,100164,Silverline Facilities Ltd,Agriculture,North West,10,2024-04-18,10000,14,Active
+165,100165,Evergreen Haulage Ltd,Coach & Bus,South West,12,2024-08-14,25000,7,Dormant
+166,100166,Greenacre Haulage Ltd,Retail Distribution,South East,11,2024-12-25,7500,7,Active
+167,100167,Sterling Plant Hire Ltd,Plant Hire,North East,7,2024-06-30,75000,14,Active
+168,100168,Albion Recycling Ltd,Facilities,Scotland,8,2024-06-03,75000,7,Active
+169,100169,Greenacre Fleet Services Ltd,Waste Management,Midlands,9,2025-06-03,5000,14,Active
+170,100170,Crown Logistics Ltd,Agriculture,South West,5,2025-10-22,5000,30,Active
+171,100171,Pioneer Facilities Ltd,Manufacturing,Midlands,9,2025-08-08,10000,14,Active
+172,100172,Evergreen Transport Ltd,Haulage,London,4,2024-12-17,5000,30,Active
+173,100173,Crown Plant Hire Ltd,Facilities,London,4,2025-01-07,25000,14,Active
+174,100174,Albion Distribution Ltd,Manufacturing,Midlands,9,2024-03-08,25000,7,Active
+175,100175,Pioneer Fleet Services Ltd,Waste Management,North East,7,2024-03-24,150000,30,Active
+176,100176,Mercury Fleet Services Ltd,Coach & Bus,North East,7,2024-11-13,100000,14,Active
+177,100177,Bluebird Transport Ltd,Retail Distribution,North West,10,2025-06-04,25000,7,Active
+178,100178,Oakfield Plant Hire Ltd,Agriculture,London,4,2024-08-19,7500,7,Dormant
+179,100179,Clearway Haulage Ltd,Retail Distribution,Midlands,9,2025-09-24,7500,30,At Risk
+180,100180,Oakfield Transport Ltd,Manufacturing,North East,7,2024-02-14,50000,14,Active
+181,100181,Harbour Facilities Ltd,Manufacturing,South West,12,2024-08-27,100000,7,Active
+182,100182,Phoenix Facilities Ltd,Courier,Scotland,8,2025-04-17,15000,14,Active
+183,100183,Horizon Transport Ltd,Courier,North East,7,2024-02-23,75000,14,Active
+184,100184,Falcon Groundworks Ltd,Construction,South West,5,2024-06-13,15000,14,Active
+185,100185,Bridgeway Civil Engineering Ltd,Construction,South East,11,2024-12-23,2500,14,Dormant
+186,100186,Evergreen Distribution Ltd,Courier,Wales,6,2025-01-18,10000,7,Active
+187,100187,Falcon Distribution Ltd,Plant Hire,North East,7,2024-10-20,75000,30,Active
+188,100188,Albion Facilities Ltd,Facilities,Midlands,1,2024-01-20,15000,7,Active
+189,100189,Kingsway Recycling Ltd,Retail Distribution,Wales,6,2024-10-22,10000,14,Active
+190,100190,Harbour Civil Engineering Ltd,Manufacturing,London,4,2024-04-23,75000,30,Active
+191,100191,Greenacre Groundworks Ltd,Manufacturing,South East,3,2024-10-25,50000,7,Active
+192,100192,Harbour Recycling Ltd,Coach & Bus,North East,7,2025-06-20,25000,7,Active
+193,100193,Kingsway Groundworks Ltd,Retail Distribution,Midlands,9,2025-04-26,2500,30,Active
+194,100194,Mercury Fleet Services Ltd,Haulage,Scotland,8,2024-12-19,10000,30,Active
+195,100195,Falcon Recycling Ltd,Agriculture,North East,7,2024-12-26,100000,14,Active
+196,100196,Oakfield Facilities Ltd,Facilities,North East,7,2024-03-05,75000,7,Active
+197,100197,Crown Plant Hire Ltd,Haulage,Scotland,8,2025-06-11,50000,30,Active
+198,100198,Crown Plant Hire Ltd,Waste Management,Scotland,8,2025-11-02,25000,14,Active
+199,100199,Mercury Civil Engineering Ltd,Coach & Bus,London,4,2024-12-13,7500,14,Active
+200,100200,Mercury Groundworks Ltd,Waste Management,North West,10,2024-03-21,50000,30,Active
+201,100201,Oakfield Groundworks Ltd,Waste Management,Scotland,8,2024-03-22,25000,30,Active
+202,100202,OAKFIELD GROUNDWORKS LIMITED,Coach & Bus,North East,7,2024-12-25,75000,7,Active
+203,100203,Atlas Distribution Ltd,Manufacturing,Wales,6,2025-10-16,2500,7,Active
+204,100204,Pioneer Distribution Ltd,Retail Distribution,North East,7,2024-05-26,150000,30,Active
+205,100205,Crown Transport Ltd,Construction,South East,11,2025-01-05,50000,30,Dormant
+206,100206,Bridgeway Facilities Ltd,Agriculture,Scotland,8,2024-03-19,150000,7,Active
+207,100207,Pioneer Distribution Ltd,Waste Management,South East,3,2024-01-27,7500,14,Active
+208,100208,Atlas Groundworks Ltd,Construction,South West,12,2025-12-21,75000,7,Active
+209,100209,Northgate Facilities Ltd,Courier,North West,2,2024-03-16,75000,7,Active
+210,100210,Arrow Haulage Ltd,Agriculture,Scotland,8,2025-07-17,100000,14,Active
+211,100211,Clearway Transport Ltd,Plant Hire,Scotland,8,2024-05-04,10000,7,Active
+212,100212,Metro Logistics Ltd,Agriculture,Scotland,8,2025-07-18,7500,30,Active
+213,100213,Summit Fleet Services Ltd,Coach & Bus,London,4,2025-02-23,150000,7,Active
+214,100214,Bluebird Haulage Ltd,Facilities,London,4,2024-05-11,100000,30,Active
+215,100215,Albion Transport Ltd,Coach & Bus,Midlands,1,2025-06-14,7500,14,Active
+216,100216,Bluebird Plant Hire Ltd,Agriculture,South West,5,2024-09-13,10000,30,Active
+217,100217,Sterling Transport Ltd,Waste Management,North West,2,2025-08-29,150000,7,Active
+218,100218,Silverline Recycling Ltd,Agriculture,Midlands,1,2024-03-24,2500,30,Active
+219,100219,Sterling Plant Hire Ltd,Manufacturing,Wales,6,2025-05-24,100000,14,Active
+220,100220,Northgate Facilities Ltd,Courier,Wales,6,2025-04-09,5000,30,Dormant
+221,100221,Arrow Civil Engineering Ltd,Facilities,London,4,2024-12-14,150000,7,Active
+222,100222,Centurion Distribution Ltd,Agriculture,Wales,6,2025-01-14,100000,30,Active
+223,100223,Harbour Facilities Ltd,Construction,South West,12,2024-09-10,7500,7,Dormant
+224,100224,Pioneer Recycling Ltd,Coach & Bus,South East,3,2024-12-01,150000,30,Active
+225,100225,Albion Transport Ltd,Facilities,London,4,2024-11-11,75000,7,Active
+226,100226,Pioneer Groundworks Ltd,Facilities,South East,3,2025-08-20,25000,7,Dormant
+227,100227,Metro Recycling Ltd,Facilities,South West,5,2024-04-20,50000,7,Active
+228,100228,Nova Distribution Ltd,Coach & Bus,Scotland,8,2025-02-14,2500,30,Active
+229,100229,Mercury Groundworks Ltd,Waste Management,North West,10,2025-05-31,75000,30,Active
+230,100230,Silverline Recycling Ltd,Construction,North East,7,2025-02-07,25000,14,Active
+231,100231,Mercury Transport Ltd,Courier,Wales,6,2024-02-16,2500,7,Active
+232,100232,Phoenix Facilities Ltd,Retail Distribution,London,4,2025-09-12,100000,7,Active
+233,100233,Silverline Distribution Ltd,Plant Hire,Wales,6,2025-08-30,25000,30,Active
+234,100234,Kingsway Facilities Ltd,Manufacturing,South West,12,2024-01-18,25000,14,Active
+235,100235,Horizon Recycling Ltd,Waste Management,Midlands,9,2024-09-28,150000,30,Active
+236,100236,Crown Recycling Ltd,Facilities,North East,7,2024-05-31,10000,7,Active
+237,100237,Centurion Haulage Ltd,Courier,Midlands,9,2024-11-17,50000,7,Active
+238,100238,Redstone Civil Engineering Ltd,Retail Distribution,London,4,2025-12-23,7500,30,Active
+239,100239,Bluebird Facilities Ltd,Retail Distribution,Wales,6,2024-06-26,75000,30,Active
+240,100240,Mercury Fleet Services Ltd,Manufacturing,London,4,2024-09-09,15000,30,Active
+241,100241,Northgate Fleet Services Ltd,Courier,London,4,2025-05-06,25000,30,Active
+242,100242,Phoenix Fleet Services Ltd,Waste Management,North West,10,2025-02-08,25000,7,Active
+243,100243,Northgate Haulage Ltd,Agriculture,London,4,2025-05-05,10000,7,Active
+244,100244,Sterling Groundworks Ltd,Waste Management,North East,7,2025-09-22,150000,7,Active
+245,100245,Premier Groundworks Ltd,Courier,South East,3,2024-04-12,50000,14,Active
+246,100246,Falcon Transport Ltd,Haulage,North East,7,2025-10-30,75000,14,Active
+247,100247,Albion Fleet Services Ltd,Agriculture,South West,5,2024-04-01,150000,7,Active
+248,100248,Nova Logistics Ltd,Plant Hire,Wales,6,2024-02-07,50000,14,Active
+249,100249,Nova Fleet Services Ltd,Haulage,Midlands,9,2025-08-04,150000,7,Active
+250,100250,Bluebird Fleet Services Ltd,Facilities,London,4,2025-05-31,75000,14,Active
+251,100251,Falcon Distribution Ltd,Plant Hire,London,4,2024-07-09,2500,30,Active
+252,100252,Northgate Recycling Ltd,Courier,North East,7,2025-03-13,100000,14,Active
+253,100253,Premier Haulage Ltd,Plant Hire,North East,7,2024-11-27,10000,7,Active
+254,100254,Harbour Facilities Ltd,Waste Management,Scotland,8,2025-08-19,150000,7,Active
+255,100255,Mercury Plant Hire Ltd,Haulage,North West,10,2024-11-10,7500,14,Active
+256,100256,Atlas Fleet Services Ltd,Construction,South West,12,2025-09-21,10000,7,Active
+257,100257,Metro Transport Ltd,Facilities,Scotland,8,2025-12-19,100000,14,Active
+258,100258,Phoenix Plant Hire Ltd,Courier,North West,10,2025-06-24,25000,7,Active
+259,100259,Falcon Logistics Ltd,Retail Distribution,South East,3,2024-06-17,25000,30,Active
+260,100260,Premier Plant Hire Ltd,Manufacturing,London,4,2025-06-06,75000,7,Active
+261,100261,Evergreen Civil Engineering Ltd,Facilities,Midlands,9,2025-11-19,15000,30,Dormant
+262,100262,Sterling Logistics Ltd,Courier,North West,2,2025-03-09,25000,30,Dormant
+263,100263,Crown Haulage Ltd,Facilities,Midlands,9,2025-02-22,7500,7,Active
+264,100264,Nova Civil Engineering Ltd,Agriculture,Wales,6,2025-01-21,50000,7,Active
+265,100265,Premier Groundworks Ltd,Plant Hire,Scotland,8,2024-07-01,100000,14,Active
+266,100266,Nova Plant Hire Ltd,Haulage,Midlands,9,2025-04-19,100000,14,Active
+267,100267,Beacon Plant Hire Ltd,Courier,London,4,2024-06-07,15000,7,Active
+268,100268,Nova Haulage Ltd,Haulage,Wales,6,2024-09-03,10000,7,Active
+269,100269,Crown Facilities Ltd,Manufacturing,Midlands,1,2024-02-15,50000,14,Active
+270,100270,Redstone Logistics Ltd,Plant Hire,South West,5,2025-08-12,25000,30,Active
+271,100271,Premier Distribution Ltd,Courier,South West,5,2025-11-07,100000,7,Active
+272,100272,Sterling Logistics Ltd,Retail Distribution,North East,7,2025-07-23,75000,7,Active
+273,100273,Greenacre Civil Engineering Ltd,Retail Distribution,Scotland,8,2025-02-22,7500,14,Active
+274,100274,Albion Groundworks Ltd,Facilities,South East,3,2024-11-03,7500,14,Active
+275,100275,Kingsway Civil Engineering Ltd,Coach & Bus,North East,7,2024-09-05,15000,7,Active
+276,100276,Summit Facilities Ltd,Agriculture,North West,2,2024-02-22,15000,14,Active
+277,100277,Silverline Logistics Ltd,Construction,South East,3,2025-05-05,10000,14,Active
+278,100278,Atlas Logistics Ltd,Courier,South East,3,2025-05-05,10000,30,Active
+279,100279,Redstone Civil Engineering Ltd,Courier,Scotland,8,2025-01-24,75000,30,Active
+280,100280,Northgate Fleet Services Ltd,Agriculture,London,4,2024-04-10,75000,14,Active
+281,100281,Mercury Distribution Ltd,Coach & Bus,Midlands,1,2024-05-29,2500,14,Active
+282,100282,Westbrook Recycling Ltd,Coach & Bus,South West,5,2024-07-19,25000,7,Active
+283,100283,Beacon Plant Hire Ltd,Facilities,Scotland,8,2025-05-15,75000,14,Active
+284,100284,Phoenix Distribution Ltd,Plant Hire,North East,7,2024-07-07,100000,30,Active
+285,100285,Evergreen Logistics Ltd,Construction,Midlands,1,2025-02-26,7500,30,Active
+286,100286,Centurion Transport Ltd,Haulage,South East,11,2025-01-17,2500,30,Active
+287,100287,Atlas Recycling Ltd,Facilities,London,4,2024-01-07,100000,30,Active
+288,100288,Apex Groundworks Ltd,Waste Management,South West,5,2025-05-29,50000,7,Active
+289,100289,Falcon Groundworks Ltd,Plant Hire,South East,3,2025-09-26,100000,14,Active
+290,100290,Sterling Civil Engineering Ltd,Construction,Scotland,8,2025-04-15,150000,7,Active
+291,100291,Harbour Fleet Services Ltd,Construction,Midlands,1,2025-02-19,50000,14,Active
+292,100292,Crown Logistics Ltd,Plant Hire,North West,10,2025-03-20,25000,30,Active
+293,100293,Falcon Groundworks Ltd,Haulage,South East,3,2025-12-09,150000,14,Active
+294,100294,Atlas Haulage Ltd,Waste Management,Midlands,1,2024-11-18,2500,7,Active
+295,100295,Albion Civil Engineering Ltd,Construction,South West,5,2025-07-31,10000,30,Active
+296,100296,Pioneer Groundworks Ltd,Agriculture,Wales,6,2025-12-06,5000,30,Active
+297,100297,Mercury Logistics Ltd,Construction,Wales,6,2024-03-18,25000,30,Active
+298,100298,Silverline Civil Engineering Ltd,Agriculture,Midlands,9,2025-04-06,75000,7,Active
+299,100299,Pioneer Civil Engineering Ltd,Plant Hire,Wales,6,2025-09-25,15000,7,Active
+300,100300,Summit Fleet Services Ltd,Plant Hire,Wales,6,2025-02-02,25000,14,Active
+301,100301,Apex Fleet Services Ltd,Facilities,Scotland,8,2024-04-14,7500,7,Active
+302,100302,Arrow Groundworks Ltd,Retail Distribution,Wales,6,2024-01-27,5000,14,Active
+303,100303,ARROW GROUNDWORKS LIMITED,Agriculture,Wales,6,2024-10-25,50000,14,Active
+304,100304,Nova Groundworks Ltd,Courier,North East,7,2024-06-22,7500,14,Active
+305,100305,Metro Transport Ltd,Construction,North East,7,2024-10-09,50000,14,Active
+306,100306,Summit Distribution Ltd,Waste Management,South East,11,2025-08-31,150000,7,Active
+307,100307,Bridgeway Fleet Services Ltd,Haulage,Wales,6,2025-09-27,50000,14,Active
+308,100308,Horizon Recycling Ltd,Plant Hire,South West,12,2025-09-09,10000,14,Active
+309,100309,Pioneer Distribution Ltd,Waste Management,London,4,2024-11-29,50000,14,Active
+310,100310,Pioneer Distribution Ltd,Construction,South East,3,2025-11-29,100000,7,Active
+311,100311,Arrow Plant Hire Ltd,Facilities,South West,5,2025-02-22,75000,7,Active
+312,100312,Harbour Fleet Services Ltd,Plant Hire,Wales,6,2024-03-16,75000,30,Active
+313,100313,Pioneer Groundworks Ltd,Retail Distribution,Wales,6,2025-01-03,100000,30,Active
+314,100314,Summit Haulage Ltd,Courier,Scotland,8,2025-10-24,150000,7,Active
+315,100315,Greenacre Civil Engineering Ltd,Agriculture,Wales,6,2024-01-11,5000,14,Active
+316,100316,Nova Groundworks Ltd,Retail Distribution,South East,11,2025-01-18,50000,14,Active
+317,100317,Westbrook Groundworks Ltd,Plant Hire,Scotland,8,2025-05-09,5000,14,Active
+318,100318,Summit Haulage Ltd,Plant Hire,Scotland,8,2024-12-17,75000,7,Active
+319,100319,Mercury Facilities Ltd,Construction,London,4,2024-11-22,5000,14,Dormant
+320,100320,Centurion Haulage Ltd,Haulage,Scotland,8,2025-11-24,7500,30,Active
+321,100321,Oakfield Groundworks Ltd,Plant Hire,Scotland,8,2025-04-18,10000,14,Active
+322,100322,Oakfield Civil Engineering Ltd,Coach & Bus,Midlands,1,2025-04-05,150000,14,Active
+323,100323,Centurion Plant Hire Ltd,Courier,South West,5,2025-08-14,5000,30,Active
+324,100324,Bluebird Plant Hire Ltd,Facilities,North West,10,2025-11-17,75000,30,Active
+325,100325,Bluebird Recycling Ltd,Coach & Bus,Wales,6,2024-12-22,25000,14,Active
+326,100326,Beacon Fleet Services Ltd,Manufacturing,North West,2,2024-11-16,5000,7,Active
+327,100327,Oakfield Distribution Ltd,Plant Hire,Wales,6,2025-09-02,7500,30,Active
+328,100328,Oakfield Facilities Ltd,Retail Distribution,North East,7,2025-05-16,15000,7,Active
+329,100329,Beacon Facilities Ltd,Manufacturing,Midlands,9,2024-01-10,75000,7,Active
+330,100330,Pioneer Groundworks Ltd,Retail Distribution,London,4,2025-12-02,75000,14,Active
+331,100331,Arrow Facilities Ltd,Plant Hire,North West,2,2024-08-13,15000,7,Active
+332,100332,Kingsway Fleet Services Ltd,Plant Hire,London,4,2025-07-16,100000,7,Active
+333,100333,Sterling Groundworks Ltd,Agriculture,Midlands,9,2025-07-13,10000,14,Active
+334,100334,Beacon Plant Hire Ltd,Waste Management,Midlands,9,2024-09-26,25000,7,Active
+335,100335,Falcon Plant Hire Ltd,Courier,Scotland,8,2024-06-18,150000,7,Active
+336,100336,Beacon Plant Hire Ltd,Haulage,Scotland,8,2025-09-03,100000,7,Active
+337,100337,Centurion Fleet Services Ltd,Waste Management,South West,5,2024-05-18,50000,7,Active
+338,100338,Clearway Transport Ltd,Plant Hire,South East,3,2025-12-29,25000,7,Active
+339,100339,Premier Civil Engineering Ltd,Facilities,North East,7,2025-10-04,50000,14,Active
+340,100340,Greenacre Haulage Ltd,Coach & Bus,South West,12,2025-04-10,75000,14,Active
+341,100341,Clearway Haulage Ltd,Facilities,Scotland,8,2025-07-01,50000,7,Active
+342,100342,Beacon Plant Hire Ltd,Facilities,South West,12,2024-10-17,25000,30,Active
+343,100343,Westbrook Facilities Ltd,Agriculture,Midlands,1,2024-04-11,75000,7,Active
+344,100344,Clearway Transport Ltd,Facilities,London,4,2025-03-14,10000,30,Active
+345,100345,Rapid Fleet Services Ltd,Plant Hire,South West,5,2025-11-01,25000,14,Active
+346,100346,Premier Transport Ltd,Haulage,Wales,6,2025-12-17,10000,14,Active
+347,100347,Centurion Haulage Ltd,Haulage,South East,11,2024-03-20,7500,30,Active
+348,100348,Premier Facilities Ltd,Haulage,Midlands,9,2024-05-03,50000,30,Active
+349,100349,Summit Plant Hire Ltd,Coach & Bus,North West,2,2024-04-15,25000,14,Active
+350,100350,Bridgeway Civil Engineering Ltd,Plant Hire,North East,7,2025-06-27,150000,7,Active
+351,100351,Oakfield Facilities Ltd,Agriculture,South East,3,2025-02-25,150000,30,Active
+352,100352,Redstone Haulage Ltd,Construction,North East,7,2025-08-26,50000,14,Active
+353,100353,Bluebird Transport Ltd,Courier,South West,5,2024-09-11,100000,30,Active
+354,100354,Silverline Fleet Services Ltd,Haulage,South West,5,2025-06-14,150000,30,Active
+355,100355,Pioneer Fleet Services Ltd,Haulage,South East,11,2025-01-30,5000,7,Active
+356,100356,Silverline Haulage Ltd,Retail Distribution,Midlands,9,2024-11-20,7500,14,Active
+357,100357,Westbrook Civil Engineering Ltd,Agriculture,North East,7,2024-03-15,2500,30,Dormant
+358,100358,Sterling Plant Hire Ltd,Haulage,Midlands,9,2025-06-02,15000,30,Active
+359,100359,Albion Civil Engineering Ltd,Coach & Bus,Wales,6,2025-10-17,100000,30,Active
+360,100360,Sterling Haulage Ltd,Waste Management,North West,2,2024-06-08,100000,14,Active
+361,100361,Greenacre Haulage Ltd,Waste Management,Wales,6,2024-02-29,10000,7,Active
+362,100362,Falcon Facilities Ltd,Manufacturing,Midlands,9,2025-11-13,7500,7,Dormant
+363,100363,Bridgeway Logistics Ltd,Plant Hire,London,4,2025-06-19,100000,30,Active
+364,100364,Mercury Transport Ltd,Waste Management,North West,2,2024-12-09,50000,14,Active
+365,100365,Sterling Recycling Ltd,Construction,London,4,2025-06-07,25000,7,Active
+366,100366,Westbrook Transport Ltd,Agriculture,North East,7,2024-04-15,150000,30,Active
+367,100367,Harbour Groundworks Ltd,Haulage,Midlands,1,2024-09-07,2500,14,Active
+368,100368,Atlas Transport Ltd,Plant Hire,Midlands,9,2024-08-17,25000,7,Active
+369,100369,Nova Distribution Ltd,Waste Management,North West,10,2024-05-02,100000,30,Active
+370,100370,Oakfield Plant Hire Ltd,Retail Distribution,Midlands,9,2024-03-11,75000,14,Active
+371,100371,Northgate Distribution Ltd,Construction,London,4,2025-01-12,10000,14,Active
+372,100372,Northgate Recycling Ltd,Courier,London,4,2025-08-28,75000,7,Active
+373,100373,Kingsway Plant Hire Ltd,Plant Hire,Midlands,9,2024-01-25,10000,30,Active
+374,100374,Beacon Logistics Ltd,Agriculture,Midlands,9,2024-11-10,5000,7,Active
+375,100375,Harbour Civil Engineering Ltd,Facilities,Midlands,1,2025-12-29,15000,7,Dormant
+376,100376,Harbour Groundworks Ltd,Coach & Bus,Scotland,8,2024-03-27,150000,7,Active
+377,100377,Greenacre Civil Engineering Ltd,Construction,Midlands,9,2025-11-09,7500,7,At Risk
+378,100378,Clearway Distribution Ltd,Coach & Bus,Scotland,8,2025-04-08,15000,7,Dormant
+379,100379,Redstone Transport Ltd,Manufacturing,North West,2,2024-04-18,7500,14,Active
+380,100380,Horizon Haulage Ltd,Retail Distribution,Scotland,8,2025-04-07,15000,14,Active
+381,100381,Falcon Haulage Ltd,Plant Hire,South West,5,2024-08-08,25000,7,Active
+382,100382,Harbour Distribution Ltd,Coach & Bus,Midlands,9,2024-09-23,7500,7,Active
+383,100383,Clearway Facilities Ltd,Retail Distribution,South East,3,2025-04-18,5000,7,Active
+384,100384,Crown Plant Hire Ltd,Plant Hire,South East,11,2025-01-16,5000,30,Active
+385,100385,Atlas Haulage Ltd,Haulage,North West,2,2025-10-23,75000,7,Active
+386,100386,Clearway Distribution Ltd,Construction,Midlands,9,2024-02-21,7500,30,Active
+387,100387,Nova Civil Engineering Ltd,Facilities,Midlands,9,2025-11-30,50000,7,Active
+388,100388,Atlas Transport Ltd,Waste Management,South West,12,2024-06-01,2500,30,Active
+389,100389,Harbour Fleet Services Ltd,Facilities,Wales,6,2024-03-03,5000,14,Active
+390,100390,Horizon Plant Hire Ltd,Retail Distribution,South East,3,2025-01-26,25000,14,Active
+391,100391,Metro Distribution Ltd,Manufacturing,Scotland,8,2024-10-03,7500,7,Active
+392,100392,Harbour Logistics Ltd,Waste Management,Midlands,9,2025-06-26,25000,30,Active
+393,100393,Oakfield Haulage Ltd,Courier,South East,11,2025-06-30,2500,7,Active
+394,100394,Phoenix Civil Engineering Ltd,Agriculture,North East,7,2024-08-30,150000,14,Active
+395,100395,Centurion Distribution Ltd,Manufacturing,Midlands,9,2025-08-04,150000,7,Active
+396,100396,Redstone Facilities Ltd,Retail Distribution,South West,5,2025-05-17,2500,7,Dormant
+397,100397,Silverline Plant Hire Ltd,Haulage,London,4,2024-12-05,150000,7,Active
+398,100398,Bluebird Transport Ltd,Agriculture,Midlands,1,2024-05-31,150000,30,Active
+399,100399,Albion Haulage Ltd,Retail Distribution,Scotland,8,2025-01-17,50000,30,Active
+400,100400,Northgate Distribution Ltd,Plant Hire,North East,7,2025-10-16,75000,30,Active
+401,100401,Centurion Groundworks Ltd,Manufacturing,Scotland,8,2025-11-12,150000,7,Active
+402,100402,Nova Fleet Services Ltd,Plant Hire,North East,7,2025-12-19,150000,14,Active
+403,100403,Albion Recycling Ltd,Haulage,North East,7,2025-09-18,10000,30,Active
+404,100404,ALBION RECYCLING LIMITED,Plant Hire,Scotland,8,2024-08-31,25000,14,Active
+405,100405,Rapid Haulage Ltd,Agriculture,London,4,2024-09-28,10000,7,Active
+406,100406,Mercury Fleet Services Ltd,Construction,Midlands,1,2025-01-30,75000,30,Active
+407,100407,Oakfield Civil Engineering Ltd,Facilities,Wales,6,2025-07-13,50000,7,Active
+408,100408,Phoenix Recycling Ltd,Courier,North East,7,2024-03-16,2500,14,Dormant
+409,100409,Sterling Haulage Ltd,Construction,Scotland,8,2025-01-19,7500,30,Dormant
+410,100410,Rapid Haulage Ltd,Agriculture,London,4,2025-03-17,7500,30,Active
+411,100411,Oakfield Logistics Ltd,Construction,Scotland,8,2024-07-13,50000,30,Active
+412,100412,Atlas Groundworks Ltd,Waste Management,South West,12,2024-08-31,5000,7,Active
+413,100413,Kingsway Facilities Ltd,Plant Hire,Midlands,9,2024-01-04,50000,7,Active
+414,100414,Premier Recycling Ltd,Facilities,South East,3,2024-01-27,10000,7,Active
+415,100415,Summit Facilities Ltd,Construction,South West,12,2025-04-27,75000,30,Active
+416,100416,Greenacre Groundworks Ltd,Coach & Bus,North East,7,2025-01-25,25000,7,Active
+417,100417,Sterling Facilities Ltd,Facilities,South West,5,2024-10-02,150000,7,Active
+418,100418,Centurion Haulage Ltd,Construction,Scotland,8,2025-08-26,10000,30,Dormant
+419,100419,Pioneer Groundworks Ltd,Coach & Bus,London,4,2025-05-02,15000,7,Active
+420,100420,Clearway Logistics Ltd,Retail Distribution,North East,7,2025-04-04,7500,7,Active
+421,100421,Phoenix Plant Hire Ltd,Plant Hire,Midlands,9,2024-03-21,50000,7,Active
+422,100422,Greenacre Transport Ltd,Manufacturing,South West,12,2024-03-09,5000,14,Active
+423,100423,Kingsway Distribution Ltd,Waste Management,London,4,2025-12-18,150000,30,Active
+424,100424,Horizon Haulage Ltd,Coach & Bus,North East,7,2025-08-03,150000,30,Active
+425,100425,Falcon Haulage Ltd,Manufacturing,North West,10,2025-07-02,25000,14,Active
+426,100426,Greenacre Facilities Ltd,Manufacturing,London,4,2024-06-25,15000,14,Active
+427,100427,Silverline Civil Engineering Ltd,Haulage,Wales,6,2025-12-08,10000,7,Active
+428,100428,Atlas Fleet Services Ltd,Agriculture,Midlands,9,2024-11-06,15000,14,Active
+429,100429,Clearway Haulage Ltd,Courier,North East,7,2025-03-29,25000,14,Active
+430,100430,Silverline Haulage Ltd,Courier,London,4,2025-02-20,75000,30,Active
+431,100431,Beacon Logistics Ltd,Retail Distribution,North East,7,2024-11-14,100000,14,Active
+432,100432,Clearway Groundworks Ltd,Manufacturing,Midlands,1,2024-07-16,10000,7,Active
+433,100433,Arrow Logistics Ltd,Agriculture,South East,11,2025-01-12,75000,30,Active
+434,100434,Atlas Haulage Ltd,Haulage,South East,11,2025-05-15,150000,14,Active
+435,100435,Clearway Facilities Ltd,Manufacturing,Scotland,8,2024-06-16,15000,30,Active
+436,100436,Summit Fleet Services Ltd,Haulage,Wales,6,2024-06-15,150000,7,Active
+437,100437,Greenacre Plant Hire Ltd,Courier,South West,12,2025-06-09,2500,30,Dormant
+438,100438,Atlas Transport Ltd,Plant Hire,Midlands,1,2024-09-15,150000,14,Active
+439,100439,Centurion Fleet Services Ltd,Coach & Bus,Wales,6,2025-04-15,15000,7,Active
+440,100440,Premier Groundworks Ltd,Manufacturing,Wales,6,2024-01-08,100000,30,Active
+441,100441,Beacon Distribution Ltd,Retail Distribution,South West,12,2025-12-01,5000,14,Dormant
+442,100442,Sterling Distribution Ltd,Waste Management,South West,12,2024-07-11,7500,30,Active
+443,100443,Rapid Logistics Ltd,Manufacturing,Wales,6,2025-11-28,7500,30,Dormant
+444,100444,Metro Fleet Services Ltd,Waste Management,Wales,6,2025-02-01,2500,30,Active
+445,100445,Westbrook Plant Hire Ltd,Agriculture,South East,11,2025-11-18,25000,30,Active
+446,100446,Oakfield Groundworks Ltd,Plant Hire,South West,5,2025-04-27,7500,30,Active
+447,100447,Phoenix Groundworks Ltd,Plant Hire,Scotland,8,2024-08-15,25000,7,Active
+448,100448,Northgate Civil Engineering Ltd,Agriculture,Scotland,8,2025-08-22,15000,14,Active
+449,100449,Metro Logistics Ltd,Manufacturing,North West,10,2024-07-18,100000,7,Active
+450,100450,Pioneer Groundworks Ltd,Waste Management,Wales,6,2024-06-03,7500,7,Active
+451,100451,Westbrook Facilities Ltd,Plant Hire,Scotland,8,2024-03-23,75000,14,Active
+452,100452,Oakfield Distribution Ltd,Haulage,Midlands,9,2024-10-07,10000,7,Active
+453,100453,Oakfield Facilities Ltd,Construction,North East,7,2025-10-10,50000,14,Active
+454,100454,Metro Civil Engineering Ltd,Haulage,Midlands,1,2025-01-17,2500,14,Active
+455,100455,Evergreen Plant Hire Ltd,Haulage,Midlands,1,2024-08-19,25000,14,Active
+456,100456,Pioneer Groundworks Ltd,Manufacturing,South West,5,2024-03-07,2500,14,Active
+457,100457,Arrow Groundworks Ltd,Manufacturing,Scotland,8,2025-12-04,7500,14,Active
+458,100458,Metro Distribution Ltd,Courier,North East,7,2024-01-20,10000,7,Active
+459,100459,Bridgeway Plant Hire Ltd,Haulage,North East,7,2025-01-10,2500,14,Active
+460,100460,Sterling Groundworks Ltd,Manufacturing,Midlands,1,2025-11-08,5000,30,Active
+461,100461,Crown Haulage Ltd,Coach & Bus,London,4,2024-05-06,100000,14,Active
+462,100462,Bridgeway Plant Hire Ltd,Haulage,South West,12,2025-11-08,5000,30,Active
+463,100463,Silverline Recycling Ltd,Plant Hire,Wales,6,2025-06-07,150000,7,Active
+464,100464,Phoenix Haulage Ltd,Facilities,South East,3,2024-09-26,100000,7,Active
+465,100465,Horizon Fleet Services Ltd,Plant Hire,Midlands,9,2024-07-31,75000,14,Active
+466,100466,Apex Haulage Ltd,Construction,London,4,2024-04-02,100000,7,Active
+467,100467,Falcon Fleet Services Ltd,Courier,London,4,2024-09-27,75000,7,Active
+468,100468,Oakfield Logistics Ltd,Waste Management,Scotland,8,2025-03-12,5000,7,Active
+469,100469,Rapid Logistics Ltd,Haulage,North East,7,2024-12-02,25000,14,Active
+470,100470,Sterling Haulage Ltd,Agriculture,Scotland,8,2024-04-26,50000,14,Active
+471,100471,Sterling Civil Engineering Ltd,Facilities,Wales,6,2024-04-25,7500,30,Active
+472,100472,Clearway Transport Ltd,Construction,Wales,6,2025-08-05,75000,7,Active
+473,100473,Albion Distribution Ltd,Manufacturing,Midlands,1,2025-05-09,75000,7,Active
+474,100474,Arrow Logistics Ltd,Construction,South West,12,2024-01-13,100000,30,Active
+475,100475,Westbrook Plant Hire Ltd,Agriculture,North West,10,2025-11-08,10000,14,Active
+476,100476,Premier Civil Engineering Ltd,Plant Hire,Midlands,1,2025-10-20,7500,30,Active
+477,100477,Clearway Facilities Ltd,Plant Hire,North West,10,2024-11-24,10000,14,Active
+478,100478,Crown Groundworks Ltd,Courier,Wales,6,2024-08-28,5000,14,Active
+479,100479,Westbrook Facilities Ltd,Construction,London,4,2024-11-19,5000,14,Active
+480,100480,Apex Haulage Ltd,Coach & Bus,Wales,6,2025-07-24,100000,7,Active
+481,100481,Phoenix Recycling Ltd,Manufacturing,South West,5,2025-11-01,75000,14,Active
+482,100482,Crown Plant Hire Ltd,Facilities,Scotland,8,2025-11-03,25000,30,Active
+483,100483,Falcon Plant Hire Ltd,Haulage,Scotland,8,2025-10-10,15000,30,Active
+484,100484,Centurion Haulage Ltd,Haulage,North East,7,2024-05-23,50000,7,Active
+485,100485,Redstone Plant Hire Ltd,Construction,Wales,6,2025-04-13,10000,30,Active
+486,100486,Albion Civil Engineering Ltd,Haulage,North West,10,2025-04-13,150000,30,Active
+487,100487,Metro Logistics Ltd,Retail Distribution,Midlands,9,2025-08-22,75000,30,Active
+488,100488,Atlas Transport Ltd,Manufacturing,North East,7,2024-04-16,50000,30,Active
+489,100489,Rapid Distribution Ltd,Retail Distribution,Wales,6,2025-09-15,10000,14,Active
+490,100490,Bluebird Fleet Services Ltd,Facilities,North East,7,2025-02-26,150000,30,Active
+491,100491,Evergreen Fleet Services Ltd,Retail Distribution,Scotland,8,2024-07-24,10000,30,Active
+492,100492,Premier Distribution Ltd,Plant Hire,North East,7,2025-12-28,5000,14,Active
+493,100493,Westbrook Recycling Ltd,Coach & Bus,South West,12,2024-01-14,100000,7,Dormant
+494,100494,Bridgeway Logistics Ltd,Haulage,South East,11,2024-06-13,15000,30,Active
+495,100495,Beacon Logistics Ltd,Waste Management,South East,3,2025-01-02,75000,7,Active
+496,100496,Premier Groundworks Ltd,Courier,Wales,6,2025-06-07,15000,30,Active
+497,100497,Atlas Civil Engineering Ltd,Coach & Bus,Wales,6,2025-07-19,2500,7,Active
+498,100498,Redstone Recycling Ltd,Facilities,South East,11,2025-08-25,100000,30,Active
+499,100499,Albion Plant Hire Ltd,Waste Management,London,4,2025-11-30,5000,7,Active
+500,100500,Nova Groundworks Ltd,Construction,Wales,6,2025-03-14,15000,30,Active
+501,100501,Oakfield Recycling Ltd,Waste Management,Midlands,9,2025-04-22,7500,7,Active
+502,100502,Bluebird Recycling Ltd,Haulage,South West,12,2025-08-09,100000,14,Dormant
+503,100503,Centurion Distribution Ltd,Retail Distribution,South East,3,2025-06-17,5000,30,Active
+504,100504,Kingsway Groundworks Ltd,Coach & Bus,North West,10,2024-08-14,10000,30,Active
+505,100505,KINGSWAY GROUNDWORKS LIMITED,Courier,London,4,2024-04-27,25000,14,Active
+506,100506,Greenacre Recycling Ltd,Manufacturing,South East,3,2025-11-29,25000,14,Active
+507,100507,Falcon Civil Engineering Ltd,Waste Management,South West,5,2025-06-13,25000,30,Active
+508,100508,Arrow Facilities Ltd,Haulage,South West,5,2024-11-24,100000,7,Active
+509,100509,Oakfield Groundworks Ltd,Retail Distribution,Midlands,1,2024-08-03,10000,30,Active
+510,100510,Falcon Plant Hire Ltd,Retail Distribution,Wales,6,2025-12-03,7500,7,Active
+511,100511,Bluebird Logistics Ltd,Construction,North West,2,2024-07-01,15000,30,Dormant
+512,100512,Beacon Plant Hire Ltd,Waste Management,Wales,6,2025-04-06,50000,14,Active
+513,100513,Pioneer Haulage Ltd,Retail Distribution,Midlands,1,2025-08-22,2500,30,Active
+514,100514,Mercury Groundworks Ltd,Construction,South West,12,2025-09-13,5000,14,Active
+515,100515,Arrow Civil Engineering Ltd,Coach & Bus,Midlands,9,2024-06-09,100000,7,Active
+516,100516,Pioneer Groundworks Ltd,Waste Management,North East,7,2025-11-24,25000,7,Active
+517,100517,Kingsway Transport Ltd,Construction,Midlands,1,2025-08-09,150000,14,Active
+518,100518,Summit Fleet Services Ltd,Courier,Scotland,8,2025-02-26,100000,7,Active
+519,100519,Harbour Recycling Ltd,Waste Management,South East,3,2024-07-04,150000,7,Active
+520,100520,Atlas Groundworks Ltd,Facilities,North West,10,2025-11-18,5000,14,Active
+521,100521,Nova Recycling Ltd,Facilities,Scotland,8,2024-05-11,10000,7,Active
+522,100522,Summit Plant Hire Ltd,Agriculture,London,4,2024-12-02,150000,30,Active
+523,100523,Westbrook Transport Ltd,Manufacturing,Scotland,8,2025-03-14,7500,7,Active
+524,100524,Phoenix Plant Hire Ltd,Coach & Bus,South West,12,2024-05-17,25000,14,Active
+525,100525,Mercury Fleet Services Ltd,Facilities,North West,2,2025-10-23,150000,7,Active
+526,100526,Clearway Transport Ltd,Retail Distribution,South East,11,2025-10-03,5000,30,Dormant
+527,100527,Apex Groundworks Ltd,Haulage,Wales,6,2024-02-07,100000,14,Active
+528,100528,Kingsway Facilities Ltd,Plant Hire,Scotland,8,2024-08-16,150000,30,Active
+529,100529,Bridgeway Facilities Ltd,Retail Distribution,North West,10,2025-01-07,100000,7,Active
+530,100530,Clearway Recycling Ltd,Plant Hire,North East,7,2024-06-12,7500,30,Active
+531,100531,Premier Transport Ltd,Facilities,Scotland,8,2024-08-12,75000,7,Dormant
+532,100532,Mercury Plant Hire Ltd,Haulage,South East,11,2025-02-01,75000,14,Active
+533,100533,Crown Distribution Ltd,Construction,South West,12,2025-08-15,100000,30,Active
+534,100534,Greenacre Civil Engineering Ltd,Agriculture,North West,10,2025-01-20,10000,30,Active
+535,100535,Beacon Distribution Ltd,Facilities,London,4,2025-05-28,7500,14,Active
+536,100536,Summit Groundworks Ltd,Waste Management,South East,3,2024-07-10,7500,14,Active
+537,100537,Beacon Haulage Ltd,Courier,Wales,6,2024-04-26,75000,30,Active
+538,100538,Redstone Recycling Ltd,Plant Hire,Wales,6,2024-09-06,2500,7,Active
+539,100539,Oakfield Transport Ltd,Retail Distribution,Midlands,1,2024-02-27,7500,14,Active
+540,100540,Evergreen Civil Engineering Ltd,Manufacturing,Midlands,9,2024-03-28,10000,14,Active
+541,100541,Metro Facilities Ltd,Plant Hire,South East,11,2025-09-07,7500,30,Active
+542,100542,Oakfield Recycling Ltd,Retail Distribution,South West,5,2025-12-03,25000,14,Active
+543,100543,Summit Plant Hire Ltd,Coach & Bus,Wales,6,2024-04-21,2500,7,Active
+544,100544,Atlas Groundworks Ltd,Coach & Bus,North East,7,2024-06-30,75000,30,Active
+545,100545,Rapid Groundworks Ltd,Retail Distribution,North West,2,2025-05-08,7500,30,Active
+546,100546,Apex Civil Engineering Ltd,Retail Distribution,Wales,6,2024-02-14,100000,14,Active
+547,100547,Phoenix Facilities Ltd,Coach & Bus,Scotland,8,2025-03-11,7500,14,Active
+548,100548,Harbour Haulage Ltd,Waste Management,Wales,6,2024-07-12,2500,30,Active
+549,100549,Apex Recycling Ltd,Retail Distribution,North West,2,2025-01-19,10000,30,Active
+550,100550,Horizon Distribution Ltd,Construction,North East,7,2025-10-29,150000,14,Active
+551,100551,Kingsway Civil Engineering Ltd,Manufacturing,Scotland,8,2025-11-27,50000,7,Active
+552,100552,Phoenix Groundworks Ltd,Facilities,North East,7,2025-07-26,100000,14,Active
+553,100553,Northgate Recycling Ltd,Agriculture,Wales,6,2025-11-06,5000,30,Active
+554,100554,Phoenix Transport Ltd,Construction,South East,11,2024-12-12,100000,30,Active
+555,100555,Centurion Logistics Ltd,Plant Hire,Wales,6,2024-04-03,7500,14,Active
+556,100556,Horizon Haulage Ltd,Construction,South West,5,2025-01-14,5000,30,Dormant
+557,100557,Pioneer Civil Engineering Ltd,Manufacturing,South West,5,2024-06-28,75000,14,Dormant
+558,100558,Clearway Groundworks Ltd,Waste Management,South East,3,2025-09-05,100000,30,Active
+559,100559,Silverline Transport Ltd,Haulage,Scotland,8,2025-11-01,2500,7,Active
+560,100560,Sterling Civil Engineering Ltd,Agriculture,Wales,6,2025-08-23,10000,30,Dormant
+561,100561,Centurion Haulage Ltd,Construction,South West,12,2024-12-21,15000,7,Active
+562,100562,Redstone Facilities Ltd,Coach & Bus,Midlands,9,2024-06-28,50000,30,Active
+563,100563,Summit Groundworks Ltd,Waste Management,Scotland,8,2025-06-09,15000,30,Active
+564,100564,Westbrook Fleet Services Ltd,Facilities,Wales,6,2024-09-06,25000,14,Active
+565,100565,Rapid Recycling Ltd,Haulage,London,4,2024-09-21,5000,14,Active
+566,100566,Harbour Plant Hire Ltd,Agriculture,Wales,6,2025-06-12,100000,7,Active
+567,100567,Sterling Plant Hire Ltd,Waste Management,North West,10,2025-11-20,25000,7,Active
+568,100568,Oakfield Facilities Ltd,Agriculture,Scotland,8,2025-08-10,15000,7,Active
+569,100569,Premier Plant Hire Ltd,Facilities,South East,3,2024-09-04,15000,7,Active
+570,100570,Beacon Plant Hire Ltd,Manufacturing,Scotland,8,2024-04-19,5000,7,Active
+571,100571,Premier Facilities Ltd,Manufacturing,Midlands,1,2025-05-08,25000,30,Active
+572,100572,Rapid Recycling Ltd,Waste Management,London,4,2025-06-07,15000,14,Active
+573,100573,Westbrook Transport Ltd,Haulage,Wales,6,2025-07-07,2500,30,Active
+574,100574,Clearway Transport Ltd,Facilities,North West,10,2024-11-19,2500,7,Active
+575,100575,Pioneer Recycling Ltd,Construction,Scotland,8,2025-09-19,15000,7,Active
+576,100576,Harbour Fleet Services Ltd,Facilities,Scotland,8,2024-07-07,75000,14,Active
+577,100577,Centurion Distribution Ltd,Agriculture,Wales,6,2025-04-06,7500,30,Active
+578,100578,Westbrook Plant Hire Ltd,Construction,South West,5,2025-07-22,50000,14,Active
+579,100579,Phoenix Transport Ltd,Facilities,Midlands,1,2025-03-07,75000,7,Active
+580,100580,Clearway Groundworks Ltd,Retail Distribution,Scotland,8,2024-11-03,15000,30,Active
+581,100581,Crown Civil Engineering Ltd,Construction,North East,7,2024-08-08,15000,14,Active
+582,100582,Falcon Facilities Ltd,Agriculture,South West,12,2025-01-03,100000,30,Active
+583,100583,Sterling Distribution Ltd,Haulage,Wales,6,2024-12-25,150000,7,Active
+584,100584,Greenacre Groundworks Ltd,Plant Hire,South West,12,2024-11-28,100000,14,Active
+585,100585,Arrow Haulage Ltd,Coach & Bus,South West,12,2025-10-08,7500,7,Active
+586,100586,Atlas Distribution Ltd,Coach & Bus,Wales,6,2024-03-22,7500,14,Active
+587,100587,Bluebird Fleet Services Ltd,Waste Management,Wales,6,2025-03-31,25000,30,Active
+588,100588,Arrow Civil Engineering Ltd,Plant Hire,North East,7,2024-05-08,10000,30,Active
+589,100589,Nova Haulage Ltd,Courier,North East,7,2024-04-15,5000,7,Active
+590,100590,Metro Groundworks Ltd,Haulage,Midlands,9,2025-06-20,5000,7,Active
+591,100591,Bridgeway Haulage Ltd,Coach & Bus,South West,5,2024-09-10,15000,14,Active
+592,100592,Bridgeway Groundworks Ltd,Plant Hire,Midlands,1,2025-11-10,25000,14,Active
+593,100593,Arrow Groundworks Ltd,Waste Management,London,4,2025-12-15,100000,7,Active
+594,100594,Arrow Recycling Ltd,Coach & Bus,South West,12,2025-05-08,100000,7,Active
+595,100595,Arrow Fleet Services Ltd,Agriculture,Wales,6,2024-06-08,15000,7,Dormant
+596,100596,Beacon Transport Ltd,Agriculture,South West,12,2025-07-01,2500,30,Active
+597,100597,Albion Facilities Ltd,Waste Management,Midlands,9,2024-10-26,150000,7,Active
+598,100598,Kingsway Distribution Ltd,Courier,Wales,6,2025-02-08,10000,7,Active
+599,100599,Greenacre Civil Engineering Ltd,Coach & Bus,South East,11,2024-03-22,50000,30,Active
+600,100600,Albion Recycling Ltd,Waste Management,South West,12,2025-02-26,10000,7,Active
+601,100601,Northgate Haulage Ltd,Facilities,London,4,2025-12-18,150000,14,Active
+602,100602,Apex Transport Ltd,Haulage,Midlands,1,2024-04-14,15000,14,Active
+603,100603,Arrow Logistics Ltd,Courier,North West,2,2024-01-16,75000,7,Active
+604,100604,Northgate Facilities Ltd,Agriculture,London,4,2024-12-04,5000,7,Dormant
+605,100605,Albion Civil Engineering Ltd,Construction,London,4,2024-07-15,15000,14,Active
+606,100606,Falcon Plant Hire Ltd,Coach & Bus,London,4,2024-02-04,10000,14,Active
+607,100607,Falcon Groundworks Ltd,Courier,London,4,2025-11-28,15000,14,Active
+608,100608,Nova Logistics Ltd,Retail Distribution,North West,10,2025-05-07,15000,7,Active
+609,100609,Crown Plant Hire Ltd,Construction,South East,11,2024-11-28,2500,7,Active
+610,100610,Westbrook Haulage Ltd,Coach & Bus,South East,3,2024-02-13,150000,30,Active
+611,100611,Silverline Transport Ltd,Agriculture,North West,2,2024-06-10,75000,7,Active
+612,100612,Bluebird Logistics Ltd,Haulage,Scotland,8,2025-12-19,100000,7,Active
+613,100613,Harbour Distribution Ltd,Retail Distribution,Scotland,8,2024-07-16,2500,30,Active
+614,100614,Nova Transport Ltd,Waste Management,Midlands,9,2025-12-24,75000,30,Active
+615,100615,Centurion Facilities Ltd,Courier,North East,7,2024-11-27,75000,14,Active
+616,100616,Silverline Groundworks Ltd,Plant Hire,North West,2,2025-04-05,15000,14,Active
+617,100617,Arrow Logistics Ltd,Retail Distribution,Wales,6,2024-01-20,150000,14,Active
+618,100618,Harbour Distribution Ltd,Construction,Wales,6,2025-06-20,75000,30,Active
+619,100619,Northgate Distribution Ltd,Coach & Bus,Scotland,8,2024-04-08,100000,30,Dormant
+620,100620,Beacon Transport Ltd,Plant Hire,Midlands,1,2024-04-19,75000,7,Active
+621,100621,Westbrook Civil Engineering Ltd,Facilities,South West,5,2025-01-10,10000,30,Active
+622,100622,Apex Plant Hire Ltd,Facilities,North West,10,2025-10-16,2500,14,Active
+623,100623,Rapid Civil Engineering Ltd,Agriculture,Midlands,9,2025-06-25,2500,30,Dormant
+624,100624,Northgate Haulage Ltd,Courier,North West,2,2024-08-24,100000,14,Active
+625,100625,Evergreen Plant Hire Ltd,Manufacturing,North East,7,2024-04-18,150000,14,Active
+626,100626,Centurion Civil Engineering Ltd,Construction,North East,7,2025-07-17,50000,30,Active
+627,100627,Oakfield Groundworks Ltd,Manufacturing,London,4,2024-11-18,100000,14,Active
+628,100628,Horizon Civil Engineering Ltd,Agriculture,South East,3,2025-01-19,100000,30,Active
+629,100629,Arrow Facilities Ltd,Coach & Bus,Midlands,1,2024-10-18,150000,7,Active
+630,100630,Rapid Fleet Services Ltd,Haulage,South West,5,2024-08-07,25000,7,Active
+631,100631,Centurion Fleet Services Ltd,Retail Distribution,North East,7,2024-02-08,75000,14,Active
+632,100632,Sterling Distribution Ltd,Manufacturing,South East,3,2024-09-19,15000,7,Active
+633,100633,Westbrook Plant Hire Ltd,Construction,Scotland,8,2024-06-26,75000,30,Active
+634,100634,Beacon Haulage Ltd,Manufacturing,South West,5,2025-08-13,50000,7,Active
+635,100635,Atlas Distribution Ltd,Agriculture,Wales,6,2024-05-03,10000,30,Active
+636,100636,Silverline Logistics Ltd,Coach & Bus,Midlands,9,2025-06-20,2500,14,Active
+637,100637,Bridgeway Distribution Ltd,Retail Distribution,South East,3,2024-02-21,50000,14,Active
+638,100638,Westbrook Groundworks Ltd,Construction,South East,11,2024-10-23,50000,7,Active
+639,100639,Summit Facilities Ltd,Manufacturing,Midlands,9,2024-09-25,5000,14,Active
+640,100640,Albion Transport Ltd,Plant Hire,London,4,2025-05-14,50000,30,Active
+641,100641,Kingsway Recycling Ltd,Retail Distribution,South East,3,2024-03-14,15000,14,Active
+642,100642,Atlas Recycling Ltd,Construction,North West,10,2025-03-09,25000,14,Active
+643,100643,Mercury Recycling Ltd,Haulage,South West,5,2024-12-24,150000,14,Active
+644,100644,Arrow Logistics Ltd,Courier,South East,11,2024-06-08,5000,7,Active
+645,100645,Harbour Recycling Ltd,Plant Hire,South West,5,2024-12-17,5000,14,Active
+646,100646,Apex Distribution Ltd,Courier,South East,3,2025-07-13,100000,14,Active
+647,100647,Silverline Transport Ltd,Haulage,Wales,6,2024-09-18,7500,7,Active
+648,100648,Phoenix Recycling Ltd,Waste Management,Midlands,9,2025-11-01,2500,7,Active
+649,100649,Sterling Distribution Ltd,Construction,Midlands,9,2025-10-26,50000,7,Active
+650,100650,Evergreen Haulage Ltd,Agriculture,London,4,2024-07-09,10000,30,Active
+651,100651,Kingsway Logistics Ltd,Haulage,South East,11,2024-12-07,75000,14,Active
+652,100652,Apex Distribution Ltd,Agriculture,Scotland,8,2024-08-29,100000,14,Active
+653,100653,Greenacre Fleet Services Ltd,Coach & Bus,Midlands,9,2024-08-18,7500,14,Active
+654,100654,Premier Transport Ltd,Construction,Wales,6,2025-03-03,10000,30,Active
+655,100655,Northgate Recycling Ltd,Agriculture,London,4,2024-07-30,7500,30,Active
+656,100656,Phoenix Plant Hire Ltd,Plant Hire,South West,5,2025-03-16,7500,30,Active
+657,100657,Atlas Transport Ltd,Agriculture,North West,2,2024-07-07,25000,7,Active
+658,100658,Albion Distribution Ltd,Coach & Bus,Wales,6,2025-03-29,15000,7,Active
+659,100659,Falcon Transport Ltd,Plant Hire,Midlands,9,2025-09-12,150000,30,Active
+660,100660,Harbour Plant Hire Ltd,Haulage,Scotland,8,2025-12-05,75000,7,Active
+661,100661,Silverline Facilities Ltd,Agriculture,North East,7,2025-05-18,75000,7,Active
+662,100662,Harbour Logistics Ltd,Coach & Bus,Midlands,9,2025-02-26,10000,30,Active
+663,100663,Redstone Plant Hire Ltd,Construction,North East,7,2025-09-23,75000,30,Active
+664,100664,Arrow Plant Hire Ltd,Coach & Bus,Wales,6,2025-09-14,50000,30,Active
+665,100665,Silverline Recycling Ltd,Manufacturing,Midlands,1,2025-04-07,75000,7,Active
+666,100666,Harbour Groundworks Ltd,Retail Distribution,Wales,6,2025-07-25,50000,30,Active
+667,100667,Crown Plant Hire Ltd,Waste Management,London,4,2024-11-07,15000,14,Active
+668,100668,Northgate Recycling Ltd,Haulage,North East,7,2025-10-23,75000,7,Active
+669,100669,Falcon Transport Ltd,Manufacturing,North East,7,2025-02-27,25000,14,Dormant
+670,100670,Arrow Recycling Ltd,Courier,London,4,2024-09-13,25000,30,Active
+671,100671,Centurion Transport Ltd,Construction,North West,2,2025-12-24,75000,30,Active
+672,100672,Evergreen Civil Engineering Ltd,Retail Distribution,North East,7,2025-07-17,50000,7,Active
+673,100673,Atlas Distribution Ltd,Manufacturing,North East,7,2024-05-28,7500,30,Dormant
+674,100674,Northgate Fleet Services Ltd,Facilities,South West,5,2024-04-30,7500,7,Dormant
+675,100675,Albion Fleet Services Ltd,Haulage,London,4,2025-05-25,100000,7,Active
+676,100676,Metro Plant Hire Ltd,Courier,London,4,2025-02-23,75000,7,Active
+677,100677,Apex Plant Hire Ltd,Retail Distribution,South West,5,2024-02-20,7500,7,Dormant
+678,100678,Mercury Logistics Ltd,Plant Hire,Midlands,9,2024-12-05,5000,7,Active
+679,100679,Oakfield Transport Ltd,Waste Management,North East,7,2025-08-15,25000,7,Active
+680,100680,Northgate Distribution Ltd,Agriculture,Wales,6,2025-03-13,100000,7,Active
+681,100681,Bridgeway Haulage Ltd,Waste Management,Scotland,8,2025-06-21,10000,30,Active
+682,100682,Crown Haulage Ltd,Manufacturing,North West,10,2025-12-06,150000,30,Active
+683,100683,Silverline Distribution Ltd,Waste Management,Scotland,8,2025-09-21,150000,14,Active
+684,100684,Greenacre Facilities Ltd,Facilities,North East,7,2025-12-26,15000,7,Dormant
+685,100685,Apex Facilities Ltd,Construction,South East,11,2025-02-27,2500,14,Active
+686,100686,Phoenix Plant Hire Ltd,Haulage,South East,11,2024-09-17,5000,14,Active
+687,100687,Kingsway Distribution Ltd,Haulage,North West,10,2024-12-15,50000,30,Active
+688,100688,Apex Transport Ltd,Courier,Scotland,8,2025-11-19,75000,14,Active
+689,100689,Greenacre Transport Ltd,Facilities,North East,7,2025-07-03,25000,14,Active
+690,100690,Horizon Logistics Ltd,Retail Distribution,South West,12,2025-07-22,100000,7,Active
+691,100691,Premier Distribution Ltd,Agriculture,North West,2,2024-10-14,2500,14,Active
+692,100692,Greenacre Groundworks Ltd,Plant Hire,Wales,6,2025-09-01,5000,14,Active
+693,100693,Bluebird Logistics Ltd,Waste Management,Wales,6,2025-05-23,10000,14,Active
+694,100694,Northgate Plant Hire Ltd,Retail Distribution,South West,5,2024-04-24,25000,7,Active
+695,100695,Atlas Haulage Ltd,Facilities,Midlands,9,2025-05-27,7500,7,Active
+696,100696,Metro Groundworks Ltd,Waste Management,Scotland,8,2024-04-10,100000,30,Active
+697,100697,Redstone Logistics Ltd,Facilities,Wales,6,2024-01-05,15000,7,Active
+698,100698,Silverline Haulage Ltd,Agriculture,London,4,2024-04-15,100000,30,Active
+699,100699,Apex Recycling Ltd,Waste Management,South East,11,2024-07-24,10000,14,Active
+700,100700,Bluebird Facilities Ltd,Construction,South West,5,2024-06-10,15000,7,Dormant
+701,100701,Silverline Groundworks Ltd,Retail Distribution,North West,2,2025-07-09,25000,30,Active
+702,100702,Bridgeway Fleet Services Ltd,Manufacturing,South East,3,2024-03-13,15000,30,Active
+703,100703,Kingsway Facilities Ltd,Haulage,North East,7,2025-04-27,2500,7,Active
+704,100704,Summit Civil Engineering Ltd,Coach & Bus,North East,7,2025-09-23,25000,14,Active
+705,100705,Redstone Groundworks Ltd,Construction,London,4,2024-04-05,75000,7,Active
+706,100706,Premier Facilities Ltd,Facilities,South East,3,2024-05-27,150000,14,Active
+707,100707,Pioneer Transport Ltd,Agriculture,Scotland,8,2025-05-14,2500,7,Active
+708,100708,Mercury Facilities Ltd,Facilities,North East,7,2024-12-22,150000,30,Active
+709,100709,Falcon Civil Engineering Ltd,Construction,Scotland,8,2024-11-05,100000,14,Active
+710,100710,Horizon Plant Hire Ltd,Manufacturing,South East,3,2025-05-08,50000,7,Active
+711,100711,Beacon Recycling Ltd,Coach & Bus,Wales,6,2025-07-11,10000,7,Active
+712,100712,Summit Recycling Ltd,Facilities,North West,10,2024-11-29,100000,7,Active
+713,100713,Oakfield Fleet Services Ltd,Coach & Bus,North West,2,2025-12-02,150000,14,Active
+714,100714,Greenacre Logistics Ltd,Construction,South East,3,2025-08-17,2500,7,Active
+715,100715,Arrow Groundworks Ltd,Waste Management,Wales,6,2024-07-19,10000,30,Active
+716,100716,Northgate Recycling Ltd,Waste Management,Wales,6,2024-04-01,150000,7,Active
+717,100717,Evergreen Civil Engineering Ltd,Plant Hire,South West,5,2025-01-13,100000,7,Dormant
+718,100718,Kingsway Distribution Ltd,Construction,South West,5,2024-08-28,50000,30,Active
+719,100719,Greenacre Distribution Ltd,Coach & Bus,Wales,6,2025-03-21,100000,7,Active
+720,100720,Metro Transport Ltd,Courier,Wales,6,2025-03-03,7500,14,Active
+721,100721,Premier Transport Ltd,Plant Hire,Midlands,1,2025-10-25,2500,7,Active
+722,100722,Metro Civil Engineering Ltd,Plant Hire,North West,2,2025-10-19,50000,14,Active
+723,100723,Centurion Recycling Ltd,Coach & Bus,North East,7,2025-06-05,50000,30,Active
+724,100724,Pioneer Distribution Ltd,Courier,North East,7,2025-09-11,2500,30,Active
+725,100725,Nova Plant Hire Ltd,Retail Distribution,South West,12,2025-07-13,150000,14,Dormant
+726,100726,Crown Recycling Ltd,Facilities,Scotland,8,2025-08-17,75000,30,Active
+727,100727,Nova Groundworks Ltd,Waste Management,London,4,2025-06-19,150000,7,Active
+728,100728,Greenacre Haulage Ltd,Retail Distribution,South West,5,2024-12-17,100000,7,Active
+729,100729,Evergreen Facilities Ltd,Manufacturing,Scotland,8,2024-12-27,15000,14,Active
+730,100730,Centurion Recycling Ltd,Waste Management,South West,5,2025-10-06,75000,30,Active
+731,100731,Crown Fleet Services Ltd,Manufacturing,Midlands,9,2025-05-11,5000,7,Active
+732,100732,Clearway Fleet Services Ltd,Waste Management,North East,7,2024-10-08,15000,7,Active
+733,100733,Silverline Transport Ltd,Manufacturing,North East,7,2025-01-13,7500,14,Active
+734,100734,Harbour Facilities Ltd,Plant Hire,Midlands,9,2024-03-27,7500,30,Active
+735,100735,Bridgeway Facilities Ltd,Coach & Bus,Wales,6,2025-11-07,75000,30,Active
+736,100736,Redstone Recycling Ltd,Agriculture,Midlands,9,2024-04-28,2500,7,Active
+737,100737,Metro Fleet Services Ltd,Facilities,South East,11,2025-11-30,50000,14,Active
+738,100738,Evergreen Civil Engineering Ltd,Haulage,South West,12,2025-01-26,25000,30,Active
+739,100739,Crown Haulage Ltd,Retail Distribution,Scotland,8,2025-09-17,15000,14,Active
+740,100740,Phoenix Haulage Ltd,Waste Management,Wales,6,2025-11-22,10000,30,Active
+741,100741,Albion Plant Hire Ltd,Retail Distribution,Scotland,8,2024-11-16,100000,7,Active
+742,100742,Beacon Haulage Ltd,Haulage,Wales,6,2025-06-21,5000,30,Active
+743,100743,Harbour Fleet Services Ltd,Waste Management,South East,3,2024-01-25,150000,7,Dormant
+744,100744,Silverline Plant Hire Ltd,Manufacturing,North West,2,2024-03-29,150000,7,Active
+745,100745,Albion Recycling Ltd,Plant Hire,North West,2,2024-09-16,15000,14,Active
+746,100746,Summit Facilities Ltd,Waste Management,Wales,6,2024-09-20,7500,7,Active
+747,100747,Crown Civil Engineering Ltd,Coach & Bus,Scotland,8,2024-09-21,15000,7,Active
+748,100748,Metro Plant Hire Ltd,Manufacturing,Wales,6,2025-10-22,75000,7,Active
+749,100749,Albion Civil Engineering Ltd,Courier,North West,10,2024-09-22,5000,7,Dormant
+750,100750,Westbrook Fleet Services Ltd,Facilities,Midlands,9,2024-06-01,2500,7,Active
+751,100751,Sterling Transport Ltd,Agriculture,Wales,6,2025-06-11,75000,14,Active
+752,100752,Clearway Haulage Ltd,Retail Distribution,South East,3,2025-01-28,75000,7,Active
+753,100753,Atlas Distribution Ltd,Agriculture,South West,12,2024-02-26,5000,14,Active
+754,100754,Bluebird Haulage Ltd,Facilities,South West,5,2024-06-29,100000,7,Active
+755,100755,Premier Plant Hire Ltd,Waste Management,Wales,6,2025-10-07,25000,14,Active
+756,100756,Greenacre Facilities Ltd,Courier,North East,7,2024-07-16,2500,30,Active
+757,100757,Harbour Facilities Ltd,Coach & Bus,North West,10,2025-05-26,100000,14,Active
+758,100758,Apex Logistics Ltd,Agriculture,Midlands,9,2024-02-13,50000,7,Active
+759,100759,Greenacre Groundworks Ltd,Facilities,North East,7,2024-03-14,2500,30,Active
+760,100760,Greenacre Logistics Ltd,Facilities,Midlands,1,2025-12-19,7500,7,Active
+761,100761,Crown Fleet Services Ltd,Construction,London,4,2025-08-28,5000,7,Active
+762,100762,Silverline Recycling Ltd,Courier,North West,2,2025-03-12,25000,30,Active
+763,100763,Bluebird Haulage Ltd,Manufacturing,North East,7,2024-08-06,2500,30,Active
+764,100764,Summit Haulage Ltd,Waste Management,North East,7,2024-06-21,25000,30,Active
+765,100765,Harbour Recycling Ltd,Haulage,North East,7,2025-10-09,150000,14,Active
+766,100766,Apex Facilities Ltd,Construction,Midlands,1,2024-07-02,5000,30,Active
+767,100767,Rapid Fleet Services Ltd,Coach & Bus,London,4,2024-07-30,7500,30,Active
+768,100768,Arrow Civil Engineering Ltd,Courier,North East,7,2025-09-02,7500,30,Active
+769,100769,Summit Fleet Services Ltd,Agriculture,Wales,6,2025-07-25,10000,7,Active
+770,100770,Evergreen Haulage Ltd,Manufacturing,Scotland,8,2025-04-20,10000,14,Dormant
+771,100771,Falcon Transport Ltd,Facilities,London,4,2024-06-12,2500,7,Active
+772,100772,Northgate Plant Hire Ltd,Coach & Bus,South West,12,2025-09-23,75000,7,Active
+773,100773,Crown Groundworks Ltd,Plant Hire,North East,7,2025-05-11,100000,7,Dormant
+774,100774,Harbour Facilities Ltd,Manufacturing,Scotland,8,2024-07-22,25000,7,Active
+775,100775,Bluebird Plant Hire Ltd,Construction,South East,11,2024-07-23,50000,7,Dormant
+776,100776,Westbrook Facilities Ltd,Haulage,Wales,6,2024-08-09,150000,14,Active
+777,100777,Mercury Transport Ltd,Facilities,South East,11,2024-10-03,10000,14,Active
+778,100778,Centurion Recycling Ltd,Haulage,South West,5,2024-04-23,75000,14,Active
+779,100779,Albion Distribution Ltd,Courier,South West,5,2025-10-15,150000,7,Active
+780,100780,Kingsway Plant Hire Ltd,Construction,Wales,6,2024-08-09,150000,14,Active
+781,100781,Sterling Logistics Ltd,Coach & Bus,South East,3,2024-12-01,50000,30,Active
+782,100782,Atlas Recycling Ltd,Plant Hire,Midlands,9,2024-02-15,2500,14,Active
+783,100783,Evergreen Logistics Ltd,Coach & Bus,Wales,6,2025-12-14,5000,14,Active
+784,100784,Summit Groundworks Ltd,Haulage,Wales,6,2024-05-15,25000,14,Active
+785,100785,Summit Logistics Ltd,Facilities,South West,5,2025-12-21,75000,30,Active
+786,100786,Apex Facilities Ltd,Facilities,North East,7,2024-07-08,25000,30,Active
+787,100787,Greenacre Logistics Ltd,Construction,Wales,6,2025-06-27,2500,14,Active
+788,100788,Sterling Recycling Ltd,Retail Distribution,South East,3,2025-09-27,25000,30,Active
+789,100789,Evergreen Distribution Ltd,Haulage,North West,10,2025-01-09,75000,30,Dormant
+790,100790,Mercury Transport Ltd,Retail Distribution,North West,2,2024-05-21,25000,7,Active
+791,100791,Greenacre Facilities Ltd,Manufacturing,South East,3,2024-11-24,25000,14,Active
+792,100792,Horizon Fleet Services Ltd,Haulage,North West,10,2024-12-19,75000,14,Active
+793,100793,Beacon Haulage Ltd,Facilities,South West,12,2025-09-27,25000,30,Active
+794,100794,Phoenix Haulage Ltd,Courier,London,4,2024-03-23,50000,7,Active
+795,100795,Summit Haulage Ltd,Plant Hire,South West,5,2025-12-14,7500,14,Active
+796,100796,Redstone Groundworks Ltd,Haulage,South West,12,2025-11-29,100000,7,Active
+797,100797,Horizon Facilities Ltd,Haulage,South West,5,2024-03-05,2500,7,Active
+798,100798,Evergreen Distribution Ltd,Coach & Bus,Scotland,8,2025-05-12,150000,30,Active
+799,100799,Beacon Groundworks Ltd,Facilities,London,4,2025-08-03,7500,14,Active
+800,100800,Sterling Plant Hire Ltd,Facilities,Scotland,8,2024-02-18,7500,14,Active
+801,100801,Oakfield Recycling Ltd,Plant Hire,South West,5,2024-06-28,7500,7,Active
+802,100802,Crown Distribution Ltd,Manufacturing,North East,7,2024-09-23,25000,7,Active
+803,100803,Centurion Logistics Ltd,Agriculture,Scotland,8,2025-01-16,75000,30,Active
+804,100804,Kingsway Fleet Services Ltd,Construction,Midlands,9,2025-05-26,7500,14,Active
+805,100805,Bridgeway Logistics Ltd,Retail Distribution,Scotland,8,2025-04-30,15000,30,Active
+806,100806,Phoenix Recycling Ltd,Facilities,Scotland,8,2025-05-05,2500,7,Active
+807,100807,Falcon Fleet Services Ltd,Haulage,Wales,6,2025-04-01,25000,7,Active
+808,100808,Silverline Plant Hire Ltd,Manufacturing,South East,11,2024-07-19,2500,7,Active
+809,100809,Arrow Haulage Ltd,Retail Distribution,Wales,6,2025-05-17,25000,30,Active
+810,100810,Crown Distribution Ltd,Coach & Bus,North East,7,2025-01-13,50000,14,Dormant
+811,100811,Mercury Distribution Ltd,Waste Management,London,4,2024-08-08,75000,30,Active
+812,100812,Phoenix Facilities Ltd,Waste Management,North East,7,2025-02-28,7500,30,Active
+813,100813,Bridgeway Plant Hire Ltd,Waste Management,London,4,2024-03-08,150000,14,Active
+814,100814,Horizon Fleet Services Ltd,Coach & Bus,North East,7,2025-12-28,150000,7,Active
+815,100815,Beacon Civil Engineering Ltd,Waste Management,London,4,2024-11-05,150000,14,Active
+816,100816,Nova Facilities Ltd,Courier,Midlands,1,2024-06-06,15000,14,Active
+817,100817,Beacon Facilities Ltd,Construction,South West,12,2024-07-02,75000,30,Active
+818,100818,Apex Haulage Ltd,Waste Management,London,4,2025-09-05,25000,30,Active
+819,100819,Horizon Fleet Services Ltd,Facilities,North West,10,2025-06-08,150000,7,Active
+820,100820,Oakfield Recycling Ltd,Haulage,North East,7,2025-04-17,7500,14,Active
+821,100821,Sterling Distribution Ltd,Coach & Bus,Scotland,8,2024-10-23,15000,30,Active
+822,100822,Summit Groundworks Ltd,Courier,North East,7,2025-09-05,7500,30,Active
+823,100823,Bluebird Fleet Services Ltd,Waste Management,Scotland,8,2025-07-01,150000,14,Active
+824,100824,Apex Transport Ltd,Retail Distribution,South West,12,2025-05-11,50000,14,Active
+825,100825,Oakfield Haulage Ltd,Courier,North East,7,2024-07-11,100000,30,Active
+826,100826,Evergreen Groundworks Ltd,Retail Distribution,North West,10,2025-04-16,5000,7,Active
+827,100827,Atlas Logistics Ltd,Facilities,Scotland,8,2025-12-08,25000,7,Active
+828,100828,Rapid Recycling Ltd,Retail Distribution,Scotland,8,2025-12-27,15000,7,Active
+829,100829,Falcon Plant Hire Ltd,Plant Hire,North East,7,2024-11-10,7500,7,Active
+830,100830,Summit Civil Engineering Ltd,Construction,North West,2,2025-05-10,50000,7,Active
+831,100831,Crown Groundworks Ltd,Manufacturing,Midlands,9,2024-05-01,15000,7,Dormant
+832,100832,Premier Logistics Ltd,Construction,North West,2,2025-08-24,10000,7,Active
+833,100833,Apex Haulage Ltd,Plant Hire,South West,12,2024-12-26,7500,30,Active
+834,100834,Silverline Plant Hire Ltd,Retail Distribution,North West,2,2025-08-15,2500,30,Active
+835,100835,Redstone Fleet Services Ltd,Plant Hire,Midlands,1,2024-08-07,100000,30,Active
+836,100836,Centurion Recycling Ltd,Plant Hire,London,4,2024-07-04,25000,14,Active
+837,100837,Evergreen Plant Hire Ltd,Coach & Bus,North West,10,2024-05-06,75000,7,Active
+838,100838,Metro Distribution Ltd,Waste Management,Midlands,1,2024-12-01,75000,7,Active
+839,100839,Arrow Recycling Ltd,Waste Management,London,4,2025-07-21,50000,14,Active
+840,100840,Horizon Plant Hire Ltd,Construction,London,4,2024-07-02,2500,30,Active
+841,100841,Falcon Civil Engineering Ltd,Facilities,North West,2,2024-05-26,50000,14,Active
+842,100842,Falcon Transport Ltd,Construction,Scotland,8,2024-12-12,10000,30,Active
+843,100843,Pioneer Haulage Ltd,Courier,Wales,6,2024-10-12,150000,30,Active
+844,100844,Phoenix Civil Engineering Ltd,Agriculture,London,4,2025-05-11,100000,14,Active
+845,100845,Arrow Haulage Ltd,Construction,South West,12,2025-05-24,10000,30,Active
+846,100846,Apex Haulage Ltd,Haulage,North West,10,2025-11-25,2500,7,Active
+847,100847,Premier Distribution Ltd,Plant Hire,South West,5,2024-03-19,100000,14,Active
+848,100848,Redstone Fleet Services Ltd,Facilities,London,4,2025-07-09,25000,30,Active
+849,100849,Albion Logistics Ltd,Coach & Bus,North West,10,2025-04-05,25000,14,Active
+850,100850,Crown Logistics Ltd,Plant Hire,South West,5,2025-05-18,50000,7,Active

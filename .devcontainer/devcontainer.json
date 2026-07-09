@@ -1,0 +1,15 @@
+{
+  "name": "BI SQL Interview Assessment",
+  "dockerComposeFile": "docker-compose.yml",
+  "service": "mssql",
+  "workspaceFolder": "/workspaces/bi-interview-assessment",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-mssql.mssql"
+      ]
+    }
+  },
+  "forwardPorts": [1433],
+  "postCreateCommand": "echo 'SQL Server container created. Wait 30 seconds, then run database/01_CreateTables.sql and database/02_LoadData.sql.'"
+}

@@ -1,0 +1,11 @@
+ProductID,ProductName,RevenueCategory,FuelType
+1,Diesel,Fuel,Diesel
+2,Premium Diesel,Fuel,Diesel
+3,Unleaded,Fuel,Petrol
+4,Premium Unleaded,Fuel,Petrol
+5,HVO,Fuel,HVO
+6,AdBlue,AdBlue,AdBlue
+7,EV Charging,EV,EV
+8,Card Fee,Fee,Fee
+9,Replacement Card,Fee,Fee
+10,Late Payment Fee,Fee,Fee
