@@ -1,9 +1,9 @@
-@'
 {
-  "name": "BI SQL Interview Assessment",
-  "dockerComposeFile": "docker-compose.yml",
-  "service": "app",
-  "workspaceFolder": "/workspaces/bi-interview-assessment",
+  "name": "BI Interview SQL Lab",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {
+    "ghcr.io/devcontainers/features/docker-in-docker:2": {}
+  },
   "customizations": {
     "vscode": {
       "extensions": [
@@ -11,7 +11,5 @@
       ]
     }
   },
-  "forwardPorts": [1433],
-  "postCreateCommand": "echo 'Codespace ready. SQL Server may take 30-60 seconds to start.'"
+  "postCreateCommand": "docker run -e 'ACCEPT_EULA=Y' -e 'MSSQL_SA_PASSWORD=YourStrong!Passw0rd' -e 'MSSQL_PID=Developer' -p 1433:1433 --name bi-interview-sql -d mcr.microsoft.com/mssql/server:2022-latest || true"
 }
-'@ | Set-Content .devcontainer\devcontainer.json
