@@ -1,16 +1,12 @@
-# BI Interview Assessment
+# Atlas Fuel Services BI Assessment
 
 A fictional SQL and Power BI assessment for a Business Intelligence Developer / Business Intelligence Analyst role.
-
----
 
 ## Business Scenario
 
 Atlas Fuel Services Ltd is a fictional fuel-card and fleet services provider.
 
 The dataset is fictional but commercially realistic and contains customer, transaction, product, network, account manager, customer service case and target data.
-
----
 
 ## Assessment
 
@@ -22,7 +18,18 @@ Full instructions can be found in:
 
 `assessment/SQL Questions.md`
 
----
+## SQL Connection
+
+Use the following connection details:
+
+| Setting | Value |
+|---|---|
+| Server | `localhost,1433` |
+| Authentication | `SQL Login` |
+| Username | `TFS001` |
+| Password | `TFS!Password1!` |
+| Database | `InterviewDB` |
+| Trust Server Certificate | `Yes` |
 
 ## Database
 
@@ -30,26 +37,20 @@ Full instructions can be found in:
 
 **Schema:** `interview`
 
-The primary transactional table is:
+The dataset contains:
 
-`interview.Transactions`
+- `interview.Customers`
+- `interview.Transactions`
+- `interview.Products`
+- `interview.Networks`
+- `interview.AccountManagers`
+- `interview.Cases`
+- `interview.Targets`
 
-The dataset also contains Customers, Products, Networks, Account Managers, Customer Service Cases and Sales Targets.
+## Verify the Environment
 
----
+After connecting, run:
 
-## Local / Codespaces Setup
-
-The repository includes a Dev Container configuration that automatically provisions SQL Server.
-
-Default SQL Login
-
-- **Server:** localhost
-- **User:** sa
-- **Password:** YourStrong!Passw0rd
-- **Database:** InterviewDB
-
-Once connected, execute:
-
-1. `database/01_CreateTables.sql`
-2. `database/02_LoadData.sql`
+```sql
+SELECT COUNT(*) AS TransactionRows
+FROM interview.Transactions;
