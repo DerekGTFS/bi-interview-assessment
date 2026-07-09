@@ -9,31 +9,31 @@ If your Codespace workspace path is different, update the paths below.
 */
 
 BULK INSERT interview.AccountManagers
-FROM '/workspaces/bi-interview-assessment/data/AccountManagers.csv'
+FROM '/var/opt/mssql/data/AccountManagers.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 
 BULK INSERT interview.Networks
-FROM '/workspaces/bi-interview-assessment/data/Networks.csv'
+FROM '/var/opt/mssql/data/Networks.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 
 BULK INSERT interview.Products
-FROM '/workspaces/bi-interview-assessment/data/Products.csv'
+FROM '/var/opt/mssql/data/Products.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 
 BULK INSERT interview.Customers
-FROM '/workspaces/bi-interview-assessment/data/Customers.csv'
+FROM '/var/opt/mssql/data/Customers.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 
 BULK INSERT interview.Transactions
-FROM '/workspaces/bi-interview-assessment/data/Transactions.csv'
+FROM '/var/opt/mssql/data/Transactions.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 
 BULK INSERT interview.Targets
-FROM '/workspaces/bi-interview-assessment/data/Targets.csv'
+FROM '/var/opt/mssql/data/Targets.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 
 BULK INSERT interview.Cases
-FROM '/workspaces/bi-interview-assessment/data/Cases.csv'
+FROM '/var/opt/mssql/data/Cases.csv'
 WITH (FORMAT = 'CSV', FIRSTROW = 2, FIELDTERMINATOR = ',', ROWTERMINATOR = '0x0a', TABLOCK);
 GO
 
