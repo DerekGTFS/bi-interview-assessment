@@ -1,13 +1,20 @@
-# BI Interview Assessment
+# Atlas Fuel Services BI Assessment
 
-Welcome to the Atlas Fuel Services BI Developer Assessment.
+Welcome to the Atlas Fuel Services Business Intelligence Assessment.
 
-## Getting Started
+This repository contains the SQL database, sample data and supporting files used during the assessment.
 
-1. Open `assessment/Candidate Instructions.md`
-2. Connect to SQL Server
-3. Run the database setup scripts
-4. Open `assessment/Assessment Brief.md`
-5. Complete the assessment
+The assessment has been designed to evaluate a candidate's ability to:
+
+- Explore and understand an unfamiliar dataset
+- Write SQL to answer business questions
+- Develop a concise Power BI report
+- Present meaningful commercial insights
+
+The assessment brief can be found here:
+
+📄 `assessment/Assessment Brief.md`
+
+Detailed setup instructions will be provided separately by the interviewer.
 
 Good luck!
