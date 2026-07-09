@@ -1,39 +1,55 @@
 # BI Interview Assessment
 
-Fictional SQL assessment for a BI Developer / BI Analyst interview.
+A fictional SQL and Power BI assessment for a Business Intelligence Developer / Business Intelligence Analyst role.
 
-## Business
+---
+
+## Business Scenario
 
 Atlas Fuel Services Ltd is a fictional fuel-card and fleet services provider.
 
-The dataset is fake but commercially realistic. It contains customer, transaction, product, network, account manager, case and target data.
+The dataset is fictional but commercially realistic and contains customer, transaction, product, network, account manager, customer service case and target data.
 
-## Candidate task
+---
 
-Open the SQL scripts and answer the questions in:
+## Assessment
+
+Using SQL, explore the database to identify commercially valuable insights.
+
+Export the outputs of your SQL queries and use them to build a concise Power BI report.
+
+Full instructions can be found in:
 
 `assessment/SQL Questions.md`
 
+---
+
 ## Database
 
-Schema: `interview`
+**Database:** `InterviewDB`
 
-Main view:
+**Schema:** `interview`
 
-`interview.vwCommercialSales`
+The primary transactional table is:
 
-## Local / Codespaces setup
+`interview.Transactions`
 
-The repo includes a Dev Container configuration for SQL Server.
+The dataset also contains Customers, Products, Networks, Account Managers, Customer Service Cases and Sales Targets.
 
-Default SQL login:
+---
 
-- Server: localhost
-- User: sa
-- Password: YourStrong!Passw0rd
-- Database: InterviewDB
+## Local / Codespaces Setup
 
-Run:
+The repository includes a Dev Container configuration that automatically provisions SQL Server.
+
+Default SQL Login
+
+- **Server:** localhost
+- **User:** sa
+- **Password:** YourStrong!Passw0rd
+- **Database:** InterviewDB
+
+Once connected, execute:
 
 1. `database/01_CreateTables.sql`
 2. `database/02_LoadData.sql`
